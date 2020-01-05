@@ -10,6 +10,7 @@
   2. Use comments to explain the steps wherever required.
   3. Don't make changes to the MAIN folder. [ it contain the running program with out any error]
   4. Make note of all the requirements for the program you write and don't forget mention it in your README.md file. 
+  5. While you commit the changes, give the instruction title and a proper description.
 
 
 ## Requirements [for MAIN/main_call.py ]
