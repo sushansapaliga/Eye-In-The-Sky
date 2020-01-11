@@ -6,6 +6,8 @@ import argparse
 import imutils
 import time
 
+status={ "facedetection" : 1 , "quit": 0 }
+
 def acc_detect(): # function to detect Face in video cam 
 
     print("[INFO] loading model...")
@@ -55,26 +57,56 @@ def acc_detect(): # function to detect Face in video cam
         cv2.imshow("Face Detection", frame) # display the frame
         key = cv2.waitKey(1) & 0xFF
 
-        if key == ord("q"):
+        #:
+        if status["facedetection"] == 1 :
             break
 
-        #time.sleep(0.06) #  to save CPU from burning off !!
+        time.sleep(0.06) #  to save CPU from burning off !!
     
 
     cv2.destroyAllWindows()
     vs.stop()
     pass
 
+def controller(): # function to control all the feature2
+    detect_face = threading.Thread(target=acc_detect, args=())
+    while status["quit"] == 0:
+        ch = input("enter the input:\n 1- start facedetection \n 2- stop facedetection \n q - quit \n")
+        if ch == "1" :
+            if status["facedetection"] == 1:
+                status["facedetection"] = 0
+                detect_face = threading.Thread(target=acc_detect, args=())
+                detect_face.start()
+                #1detect_face.join()
+                print("face detection has been started")
+            else:
+                print("facedetection already started")
+        
+        elif ch == "2":
+            if status["facedetection"] == 0:
+                status["facedetection"] = 1
+                detect_face.join()
+                print("face detection has been stopped")
+            else:
+                print("face detection has not yet started")
+        
+        elif ch == "q":
+            status["facedetection"] = 1
+            detect_face.join()
+            status["quit"] = 1
+
+        else : 
+            print("invalid input")
+
+
+    pass
 
   
 if __name__ == "__main__":
 
-    detect_face = threading.Thread(target=acc_detect, args=())  # creating the thread 
-    
-    detect_face.start() # starting the thread for detecting the face
-    detect_face.join() # when the process is over the control will come back over here 
-    
+    controller = threading.Thread(target=controller, args=()) # creating a controller
 
-    
-  
+    controller.start()
+    controller.join()
+
     print("\n\nDone!") 
