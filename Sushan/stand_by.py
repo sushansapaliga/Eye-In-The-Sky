@@ -58,7 +58,7 @@ def acc_detect(): # function to detect Face in video cam
         if key == ord("q"):
             break
 
-        time.sleep(0.06) #  to save CPU from burning off !!
+        #time.sleep(0.06) #  to save CPU from burning off !!
     
 
     cv2.destroyAllWindows()
