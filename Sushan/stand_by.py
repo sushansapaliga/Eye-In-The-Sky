@@ -55,6 +55,7 @@ def acc_detect(): # function to detect Face in video cam
 
 
         cv2.imshow("Face Detection", frame) # display the frame
+        #print(frame)
         key = cv2.waitKey(1) & 0xFF
 
         #:

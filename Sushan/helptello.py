@@ -1,0 +1,3 @@
+import tellopy
+
+help(tellopy)

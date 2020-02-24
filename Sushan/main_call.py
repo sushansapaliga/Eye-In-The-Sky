@@ -5,16 +5,21 @@ from imutils.video import VideoStream
 import argparse
 import imutils
 import time
+from djitellopy.tello import Tello
 
-def acc_detect(): # function to detect Face in video cam 
+status={ "facedetection" : 1 , "quit": 0 }
+main_frame = None
+
+def acc_detect(): # function to detect Face in the frame given to it 
 
     print("[INFO] loading model...")
     net = cv2.dnn.readNetFromCaffe("MAIN/deploy.prototxt.txt", "MAIN/res10_300x300_ssd_iter_140000.caffemodel")
     print("[INFO] starting video stream...")
-    vs = VideoStream(src=0).start()
+    #vs = VideoStream(src=0).start()
     prev_x, prev_y, prev_endX, prev_endY, prev_word_y =0, 0, 0, 0, 0
     while True:
-        frame = vs.read()
+        #frame = vs.read()
+        frame = main_frame
         frame = imutils.resize(frame, width=800)
         (h, w) = frame.shape[:2]
         blob = cv2.dnn.blobFromImage(cv2.resize(frame, (300, 300)), 1.0, (300, 300), (104.0, 177.0, 123.0))
@@ -55,26 +60,96 @@ def acc_detect(): # function to detect Face in video cam
         cv2.imshow("Face Detection", frame) # display the frame
         key = cv2.waitKey(1) & 0xFF
 
-        if key == ord("q"):
+        #:
+        if status["facedetection"] == 1 :
             break
 
         time.sleep(0.06) #  to save CPU from burning off !!
     
 
     cv2.destroyAllWindows()
-    vs.stop()
+    #vs.stop()
     pass
 
+
+
+def controller(): # function to control all the features
+    detect_face = threading.Thread(target=acc_detect, args=())
+    while status["quit"] == 0:
+        ch = input("enter the input:\n 1- start facedetection \n 2- stop facedetection \n q - quit \n")
+        if ch == "1" :
+            if status["facedetection"] == 1:
+                status["facedetection"] = 0
+                detect_face = threading.Thread(target=acc_detect, args=())
+                detect_face.start()
+                time.sleep(3)
+                print("face detection has been started")
+            else:
+                print("facedetection already started")
+        
+        elif ch == "2":
+            if status["facedetection"] == 0:
+                status["facedetection"] = 1
+                detect_face.join()
+                print("face detection has been stopped")
+            else:
+                print("face detection has not yet started")
+        
+        elif ch == "q":
+            if status["facedetection"] == 0:
+                status["facedetection"] = 1
+                detect_face.join()
+                print("face detection has been stopped")
+
+            status["quit"] = 1
+
+        else : 
+            print("invalid input")
+
+
+    pass
+
+def main_stream():
+
+    vs= VideoStream(src=0).start()
+    global main_frame
+    tello = Tello()
+
+    if not tello.connect():
+        print("tello not connected")
+
+    if not tello.streamoff():
+        print("could not stop video stream")
+
+    if not tello.streamon():
+        print("could not start video stream")
+
+    frame_read = tello.get_frame_read()
+    while status["quit"] == 0:
+
+        if frame_read.stopped:
+            frame_read.stop()
+
+        main_frame = vs.read()
+        main_frame = frame_read.frame
+
+        frame = main_frame
+        cv2.imshow("Main Stream", frame) # display the frame
+        key = cv2.waitKey(1) & 0xFF
+
+    cv2.destroyAllWindows()
+    vs.stop()
+    pass
 
   
 if __name__ == "__main__":
 
-    detect_face = threading.Thread(target=acc_detect, args=())  # creating the thread 
-    
-    detect_face.start() # starting the thread for detecting the face
-    detect_face.join() # when the process is over the control will come back over here 
-    
+    controller = threading.Thread(target=controller, args=()) # creating a controller
+    main_stream = threading.Thread(target=main_stream, args=())
 
-    
-  
+    controller.start()
+    main_stream.start()
+    controller.join()
+    main_stream.join()
+
     print("\n\nDone!") 
