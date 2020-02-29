@@ -1,30 +1,23 @@
-from time import sleep
-import tellopy
+from djitellopy.tello import Tello
+import time
 
 
-def handler(event, sender, data, **args):
-    drone = sender
-    if event is drone.EVENT_FLIGHT_DATA:
-        print(data)
+def simple_takeOff():
+    tello = Tello()
+    if not tello.connect():
+        print("Tello not connected")
+        return
+    
+    tello.takeoff()
 
+    time.sleep(3)
 
-def test():
-    drone = tellopy.Tello()
-    try:
-        drone.subscribe(drone.EVENT_FLIGHT_DATA, handler)
+    if input()=="q":
+        tello.land()
 
-        drone.connect()
-        drone.wait_for_connection(60.0)
-        drone.takeoff()
-        sleep(5)
-        drone.down(50) 
-        sleep(5)
-        drone.land()
-        sleep(5)
-    except Exception as ex:
-        print(ex)
-    finally:
-        drone.quit()
+    tello.end()
+    
+    pass
 
-if __name__ == '__main__':
-    test()
+if input() == "q":
+    simple_takeOff()
