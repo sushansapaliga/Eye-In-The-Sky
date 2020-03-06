@@ -1,1 +1,2 @@
-Hey pinku!!
+Requirements:
+ 1. pip install playsound
