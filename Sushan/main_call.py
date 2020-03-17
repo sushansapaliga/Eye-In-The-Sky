@@ -15,10 +15,8 @@ def acc_detect(): # function to detect Face in the frame given to it
     print("[INFO] loading model...")
     net = cv2.dnn.readNetFromCaffe("MAIN/deploy.prototxt.txt", "MAIN/res10_300x300_ssd_iter_140000.caffemodel")
     print("[INFO] starting video stream...")
-    #vs = VideoStream(src=0).start()
     prev_x, prev_y, prev_endX, prev_endY, prev_word_y =0, 0, 0, 0, 0
     while True:
-        #frame = vs.read()
         frame = main_frame
         frame = imutils.resize(frame, width=800)
         (h, w) = frame.shape[:2]
@@ -68,7 +66,6 @@ def acc_detect(): # function to detect Face in the frame given to it
     
 
     cv2.destroyAllWindows()
-    #vs.stop()
     pass
 
 
@@ -111,7 +108,6 @@ def controller(): # function to control all the features
 
 def main_stream():
 
-    vs= VideoStream(src=0).start()
     global main_frame
     tello = Tello()
 
@@ -130,7 +126,7 @@ def main_stream():
         if frame_read.stopped:
             frame_read.stop()
 
-        main_frame = vs.read()
+        
         main_frame = frame_read.frame
 
         frame = main_frame
@@ -138,7 +134,6 @@ def main_stream():
         key = cv2.waitKey(1) & 0xFF
 
     cv2.destroyAllWindows()
-    vs.stop()
     pass
 
   
