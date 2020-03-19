@@ -126,7 +126,7 @@ def main_stream():
     if not status["quit"]:
         frame_read = tello.get_frame_read()
         time.sleep(5)
-        tello.takeoff()
+        #tello.takeoff()
 
 
     while not status["quit"] :
@@ -143,7 +143,7 @@ def main_stream():
 
     cv2.destroyAllWindows()
 
-    tello.land()
+    #tello.land()
     time.sleep(5)
     tello.end()
     pass
