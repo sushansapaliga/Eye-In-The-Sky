@@ -11,7 +11,7 @@ class FaceDetection:
 
         # construct the argument parse and parse the arguments
         # load our serialized model from disk
-        print("[Face Detection][INFO] loading model...")
+        print("[INFO] loading model...")
         self.net_global = cv2.dnn.readNetFromCaffe("MAIN/deploy.prototxt.txt", "MAIN/res10_300x300_ssd_iter_140000.caffemodel")
 
 
