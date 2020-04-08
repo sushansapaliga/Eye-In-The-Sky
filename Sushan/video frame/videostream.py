@@ -6,11 +6,16 @@ import cv2.cv2 as cv2  # for avoidance of pylint error
 import numpy
 import time
 
+def handler(event, sender, data, **args):
+    drone = sender
+    if event is drone.EVENT_FLIGHT_DATA:
+        print(data)
 
 def main():
     drone = tellopy.Tello()
 
     try:
+        drone.subscribe(drone.EVENT_FLIGHT_DATA, handler)
         drone.connect()
         drone.wait_for_connection(60.0)
 
@@ -27,6 +32,7 @@ def main():
         # skip first 300 frames
         frame_skip = 300
         while True:
+            key = ord("q")
             for frame in container.decode(video=0):
                 if 0 < frame_skip:
                     frame_skip = frame_skip - 1
@@ -34,13 +40,25 @@ def main():
                 start_time = time.time()
                 image = cv2.cvtColor(numpy.array(frame.to_image()), cv2.COLOR_RGB2BGR)
                 cv2.imshow('Original', image)
-                cv2.imshow('Canny', cv2.Canny(image, 100, 200))
-                cv2.waitKey(1)
+                key = cv2.waitKey(1) & 0xFF
                 if frame.time_base < 1.0/60:
                     time_base = 1.0/60
                 else:
                     time_base = frame.time_base
+
                 frame_skip = int((time.time() - start_time)/time_base)
+
+                if key == ord("q"):
+                    break
+
+                if key == ord("t"):
+                    drone.takeoff()
+                
+                if key == ord("l"):
+                    drone.land()
+            
+            if key == ord("q") :
+                break
                     
 
     except Exception as ex:

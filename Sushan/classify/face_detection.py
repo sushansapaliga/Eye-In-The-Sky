@@ -3,7 +3,7 @@ import numpy as np
 import argparse
 import imutils
 import time
-import cv2
+import cv2.cv2 as cv2
 
 class FaceDetection:
 
@@ -72,6 +72,10 @@ class FaceDetection:
 
 	    # show the output frame
         return face_dict
+        
+    def face_instruction_for_drone(self, frame):
+        
+        pass
 
 
 if __name__=="__main__":  
@@ -87,7 +91,7 @@ if __name__=="__main__":
         frame = vs.read()
 
         cord = face.get_face_coordinates(frame)
-        print(cord["face_status"])
+        #print(cord["face_status"])
 
         if cord["face_status"]==True:
             startX, startY, endX, endY = cord["startX"], cord["startY"], cord["endX"], cord["endY"]
@@ -97,7 +101,7 @@ if __name__=="__main__":
         key = cv2.waitKey(1) & 0xFF
         if key == ord("q"):
             break
-
+        
         time.sleep(0.1)
 
     cv2.destroyAllWindows()

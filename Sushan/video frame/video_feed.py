@@ -1,5 +1,5 @@
 from djitellopy.tello import Tello
-import cv2
+import cv2.cv2 as cv2
 
 
 

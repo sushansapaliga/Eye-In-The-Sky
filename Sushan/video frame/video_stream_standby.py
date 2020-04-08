@@ -9,7 +9,6 @@ S = 60
 # Frames per second of the pygame window display
 FPS = 25
 
-
 class FrontEnd(object):
     """ Maintains the Tello display and moves it through the keyboard keys.
         Press escape key to quit.

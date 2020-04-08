@@ -1,7 +1,7 @@
 from djitellopy.tello import Tello
 from face_detection import FaceDetection
 from time import sleep
-import cv2
+import cv2.cv2 as cv2
 from datetime import datetime
 
 def reportLog(log):
@@ -56,14 +56,14 @@ if __name__=="__main__":
         if telloFrame.stopped:
             telloFrame.stop()
 
-        if int(tello.get_battery()) < 35 :
-            print("The battery level of the drone is critically low")
-            if status["is_drone_in_air"]:
-                tello.land()
-                status["is_drone_in_air"] = False
-            status["quit"] = True
+        #if int(tello.get_battery()) < 35 :
+        #    print("The battery level of the drone is critically low")
+        #    if status["is_drone_in_air"]:
+        #        tello.land()
+        #        status["is_drone_in_air"] = False
+        #    status["quit"] = True
 
-        reportLog(tello.get_battery())
+        #reportLog(tello.get_battery())
 
         frame = telloFrame.frame
 
@@ -84,17 +84,20 @@ if __name__=="__main__":
         if key == ord("t") and not status["is_drone_in_air"]:
             status["is_drone_in_air"] = True
             tello.takeoff()
-            sleep(3)
+            #sleep(3)
             #tello.send_rc_control(left_right_velocity= 0, forward_backward_velocity=0, up_down_velocity=5, yaw_velocity= 0)
-            tello.move_up(2)
-            sleep(1)
+            #tello.move_up(2)
+            #sleep(1)
         
         if key == ord("l") :
             status["is_drone_in_air"] = False
             tello.land()
 
         if key == ord("u"):
-            tello.move_up(25)
+            tello.move_up(20)
+
+        if key == ord("s"):
+            tello.send_rc_control(left_right_velocity= 0, forward_backward_velocity=0, up_down_velocity=5, yaw_velocity= 0)
     
     cv2.destroyAllWindows()
     tello.end()
