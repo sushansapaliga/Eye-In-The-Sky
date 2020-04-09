@@ -72,11 +72,41 @@ class FaceDetection:
 
 	    # show the output frame
         return face_dict
-        
-    def face_instruction_for_drone(self, frame):
-        
-        pass
 
+    def __limitIt__(self, val):
+        if val > 20:
+            val = 20
+        elif val < -20:
+            val = -20
+        elif val < 2 or val < -2:
+            val = 0 
+        return val
+        
+    def face_instruction_for_drone(self, startX, startY, endX, endY, drone_centreX, drone_centreY):
+
+        face_centreX = (startX + endX)/2
+        face_centreY = (startY + endY)/2
+
+        instrction = {"up" : 0, "clockwise" : 0, "right" : 0, "front" : 0}
+
+        up =-1 * (face_centreY - drone_centreY)//10
+        up = __limitIt__(up)
+        clockwise = (face_centreX - drone_centreX)//10
+        clockwise = __limitIt__(clockwise)
+
+        instrction["up"] = up 
+        instrction["clockwise"] = clockwise
+        
+        return instrction
+
+def __limitIt__(val):
+    if val > 20:
+        val = 20
+    elif val < -20:
+        val = -20
+    elif val < 2 or val < -2:
+        val = 0 
+    return val
 
 if __name__=="__main__":  
     face = FaceDetection()
