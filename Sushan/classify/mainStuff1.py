@@ -24,6 +24,10 @@ def handler(event, sender, data, **args):
             wifi = 100
         finally:
             global instruction
+            global stDrone
+
+            stDrone["battery"] = bat_per
+            stDrone["wifi"] = wifi
             if bat_per < 25:
                 instruction["emergency"] = True
                 instruction["reason"] = "Critically low battery level"
@@ -90,7 +94,9 @@ def face_module(image):
 
         pass
 
+    image = cv2.resize(image, (430,320),interpolation = cv2.INTER_LINEAR)
     cv2.imshow("Face detection",image)
+    cv2.moveWindow("Face detection", 1000,50)
     cv2.waitKey(1) & 0xFF
 
     pass
@@ -99,9 +105,13 @@ def face_module(image):
 def main():
     # global variables
     global instruction
+    global stDrone
 
     # starts 
     drone = tellopy.Tello()
+
+    # image for background
+    
 
     status = {}
     status["mode"] = "face_detection"
@@ -145,8 +155,9 @@ def main():
                 # getting frame from the drone and display it
                 start_time = time.time()
                 image = cv2.cvtColor(numpy.array(frame.to_image()), cv2.COLOR_RGB2BGR)
-                #image = cv2.circle(image, (480, 345), 2, (255, 0, 0),4)
+                #temp_image = cv2.resize(image, ())
                 cv2.imshow('Original', image)
+                cv2.moveWindow("Original", 10,50)
                 key = cv2.waitKey(1) & 0xFF
 
                 # Detect face from the frame and return its coordinate
@@ -154,10 +165,31 @@ def main():
                     if check_frame == 0:
                         face_module(image)
                         check_frame = 4
-                    
+                        pass
                     else:
                         check_frame = check_frame - 1
+                        pass
+                    pass
 
+                # show status Window
+                temp_black1 = cv2.imread("black.jpg")
+                temp_black1 = cv2.resize(temp_black1, (430,320),interpolation = cv2.INTER_LINEAR)
+                temp_black1 = cv2.putText(temp_black1, "Feature Activated: " + status["mode"], (0,15),cv2.FONT_HERSHEY_SIMPLEX, 0.45, (255,255,255))
+                
+                temp_black1 = cv2.putText(temp_black1, "Instructions:", (0,40),cv2.FONT_HERSHEY_SIMPLEX, 0.45, (255,255,255))
+                temp_black1 = cv2.putText(temp_black1, "Up: " + str(instruction["up"]), (5,55),cv2.FONT_HERSHEY_SIMPLEX, 0.45, (255,255,255))
+                temp_black1 = cv2.putText(temp_black1, "Clockwise: " + str(instruction["clockwise"]), (140,55),cv2.FONT_HERSHEY_SIMPLEX, 0.45, (255,255,255))
+                temp_black1 = cv2.putText(temp_black1, "Front: " + str(instruction["front"]), (5,70),cv2.FONT_HERSHEY_SIMPLEX, 0.45, (255,255,255))
+                temp_black1 = cv2.putText(temp_black1, "Right: " + str(instruction["right"]), (140,70),cv2.FONT_HERSHEY_SIMPLEX, 0.45, (255,255,255))
+
+                temp_black1 = cv2.putText(temp_black1, "Drone Status: ", (0,95),cv2.FONT_HERSHEY_SIMPLEX, 0.45, (255,255,255))
+                temp_black1 = cv2.putText(temp_black1, "WiFi: " + str(stDrone["wifi"]), (5,110),cv2.FONT_HERSHEY_SIMPLEX, 0.45, (255,255,255))
+                temp_black1 = cv2.putText(temp_black1, "Battery: " + str(stDrone["battery"]), (140,110),cv2.FONT_HERSHEY_SIMPLEX, 0.45, (255,255,255))
+                temp_black1 = cv2.putText(temp_black1, "Is drone in AIR: " + str(status["drone_in_air"]), (5,125),cv2.FONT_HERSHEY_SIMPLEX, 0.45, (255,255,255))
+
+                cv2.imshow("Status Window",temp_black1)
+                cv2.waitKey(1) & 0xFF
+                cv2.moveWindow("Status Window", 1000, 450)
 
                 # optional to take control of the drone [will be removed soon, used for fail safe]
                 if key == ord("q"):
@@ -262,6 +294,11 @@ instruction["front"] = None
 instruction["land"] = None
 instruction["emergency"] = None
 instruction["reason"] = None # reason why the emergency bit was activated
+
+# drone status
+stDrone = {}
+stDrone["battery"] = 100
+stDrone["wifi"] = 100
 
 
 
