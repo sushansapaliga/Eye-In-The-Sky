@@ -7,6 +7,8 @@ import numpy
 import time
 from face_detection import FaceDetection
 from datetime import datetime
+import playSound
+import morseCode 
 
 
 
@@ -65,12 +67,12 @@ def face_module(image):
 
     else:
 
-        if face_frames_missed > 200 :
+        if face_frames_missed > 175 :
             instruction["land"] = True
             face_frames_missed = 75
             reportLog("command for drone to land - no face found ")
 
-        elif face_frames_missed > 50 :
+        elif face_frames_missed > 35 :
             instruction["clockwise"] = 30
             reportLog("command for drone to rotate- trying to find a face ")
             pass
@@ -81,7 +83,7 @@ def face_module(image):
 
         face_frames_missed = face_frames_missed + 1
 
-    if face_frames_missed <= 50 :
+    if face_frames_missed <= 35 :
         startX, startY, endX, endY = face_final["startX"], face_final["startY"], face_final["endX"], face_final["endY"]
         cv2.rectangle(image, (startX, startY), (endX, endY),(0, 0, 255), 2)
 
@@ -110,9 +112,7 @@ def main():
     # starts 
     drone = tellopy.Tello()
 
-    # image for background
-    
-
+    # status for the 
     status = {}
     status["mode"] = "face_detection"
     status["drone_in_air"] = False
@@ -141,6 +141,7 @@ def main():
 
         # frame controller
         check_frame = 4
+        morseFrame = 0
 
         while True:
             key = 0
@@ -161,18 +162,40 @@ def main():
                 key = cv2.waitKey(1) & 0xFF
 
                 # Detect face from the frame and return its coordinate
-                if status["drone_in_air"] and status["mode"] == "face_detection":
-                    if check_frame == 0:
-                        face_module(image)
-                        check_frame = 4
+                if status["drone_in_air"]:
+                    if status["mode"] == "face_detection":
+                        if check_frame == 0:
+                            face_module(image)
+                            check_frame = 4
+                            pass
+                        else:
+                            check_frame = check_frame - 1
+                            pass
                         pass
                     else:
-                        check_frame = check_frame - 1
                         pass
+                    pass
+                else:
+                    if morseFrame < 60:
+                        if morseCode.checkBrightness(image):
+                            morseFrame = morseFrame + 1
+                            pass
+                        else:
+                            morseFrame = 0
+                            pass
+                        pass
+                    elif morseFrame < 200:
+                        if morseFrame == 61:
+                            playSound.playMusic("attention")
+                        morseFrame = morseFrame + 1
+                        pass
+                    else:
+                        instruction["take_off"] = True
+                        morseFrame = 0 
                     pass
 
                 # show status Window
-                temp_black1 = cv2.imread("black.jpg")
+                temp_black1 = cv2.imread("media/picture/black.jpg")
                 temp_black1 = cv2.resize(temp_black1, (430,320),interpolation = cv2.INTER_LINEAR)
                 temp_black1 = cv2.putText(temp_black1, "Feature Activated: " + status["mode"], (0,15),cv2.FONT_HERSHEY_SIMPLEX, 0.45, (255,255,255))
                 
@@ -186,6 +209,8 @@ def main():
                 temp_black1 = cv2.putText(temp_black1, "WiFi: " + str(stDrone["wifi"]), (5,110),cv2.FONT_HERSHEY_SIMPLEX, 0.45, (255,255,255))
                 temp_black1 = cv2.putText(temp_black1, "Battery: " + str(stDrone["battery"]), (140,110),cv2.FONT_HERSHEY_SIMPLEX, 0.45, (255,255,255))
                 temp_black1 = cv2.putText(temp_black1, "Is drone in AIR: " + str(status["drone_in_air"]), (5,125),cv2.FONT_HERSHEY_SIMPLEX, 0.45, (255,255,255))
+
+                temp_black1 = cv2.putText(temp_black1, "morseFrame: " + str(morseFrame), (5,200),cv2.FONT_HERSHEY_SIMPLEX, 0.45, (255,255,255))
 
                 cv2.imshow("Status Window",temp_black1)
                 cv2.waitKey(1) & 0xFF
@@ -246,10 +271,18 @@ def main():
                         cv2.destroyWindow("Face detection")
                         status["drone_in_air"] = False
                         instruction["land"] = None
+                        playSound.playMusic("land")
                         pass
                     pass
                 # instruction when drone is not in air
                 else:
+                    if instruction["take_off"] != None and instruction["take_off"]:
+                        drone.takeoff()
+                        reportLog("drone taking off")
+                        status["drone_in_air"] = True
+                        instruction["take_off"] = None
+                        playSound.playMusic("take_off")
+                        pass
                     pass
 
                 # necessary to maintain the realtime frame from the drone
@@ -272,6 +305,7 @@ def main():
     finally:
         if status["drone_in_air"]:
             drone.land()
+            playSound.playMusic("land")
         drone.quit()
         cv2.destroyAllWindows()
 
@@ -292,6 +326,7 @@ instruction["right"] = None
 instruction["clockwise"] = None
 instruction["front"] = None
 instruction["land"] = None
+instruction["take_off"] = None
 instruction["emergency"] = None
 instruction["reason"] = None # reason why the emergency bit was activated
 
