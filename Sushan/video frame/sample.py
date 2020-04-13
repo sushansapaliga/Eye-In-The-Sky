@@ -1,30 +1,24 @@
-from time import sleep
-import tellopy
+import cv2.cv2 as cv2
+import numpy as np
+#import pyautogui
+from imutils.video import VideoStream
 
+screen_size=(640,480)
+fourcc=cv2.VideoWriter_fourcc(*"XVID")
+out=cv2.VideoWriter("output.avi",fourcc,20.0,(screen_size))
 
-def handler(event, sender, data, **args):
-    drone = sender
-    if event is drone.EVENT_FLIGHT_DATA:
-        print(data)
+print("[INFO] starting video stream...")
+vs = VideoStream(src=0).start()
 
+while True:
+    #img=pyautogui.screenshot()
+    #frame=np.array(img)
+    #frame=cv2.cvtColor(frame,cv2.COLOR_BGR2RGB)
+    frame = vs.read()
+    out.write(frame)
+    cv2.imshow("show",frame)
+    if cv2.waitKey(1)==ord("q"):
+        break
 
-def test():
-    drone = tellopy.Tello()
-    try:
-        drone.subscribe(drone.EVENT_FLIGHT_DATA, handler)
-
-        drone.connect()
-        drone.wait_for_connection(60.0)
-        drone.takeoff()
-        sleep(5)
-        drone.down(50)
-        sleep(5)
-        drone.land()
-        sleep(5)
-    except Exception as ex:
-        print(ex)
-    finally:
-        drone.quit()
-
-if __name__ == '__main__':
-    test()
+cv2.destroyAllWindows()
+vs.stop()
