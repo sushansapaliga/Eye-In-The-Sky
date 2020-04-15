@@ -97,8 +97,8 @@ class OP:
 
 
 if __name__=="__main__":
-    vs = VideoStream(src=0).start()
-    op = OP()
+    #vs = VideoStream(src=0).start()
+    #op = OP()
     while True:
         frame = vs.read()
         result =  op.detectBody(frame)
