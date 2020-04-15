@@ -59,12 +59,12 @@ def __allValid__(bodyKeyPoints):
 
 def __checkWakandaStyle__(R_elbow, R_wrist, L_elbow, L_wrist, neck, midHip, nose):
     midRightHand = []
-    midRightHand[0] = (R_elbow[0] + R_wrist[0])//2
-    midRightHand[1] = (R_elbow[1] + R_wrist[1])//2
+    midRightHand.append( (R_elbow[0] + R_wrist[0])//2 )
+    midRightHand.append( (R_elbow[1] + R_wrist[1])//2 )
 
     midLeftHand = []
-    midLeftHand[0] = (L_elbow[0] + L_wrist[0])//2
-    midLeftHand[1] = (L_elbow[1] + L_wrist[1])//2
+    midLeftHand.append( (L_elbow[0] + L_wrist[0])//2 )
+    midLeftHand.append( (L_elbow[1] + L_wrist[1])//2 )
 
     x = pow((midRightHand[0] - midLeftHand[0]), 2)
     y = pow((midRightHand[1] - midLeftHand[1]), 2)
