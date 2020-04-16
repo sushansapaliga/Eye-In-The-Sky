@@ -73,9 +73,9 @@ def __checkWakandaStyle__(R_elbow, R_wrist, L_elbow, L_wrist, neck, midHip, nose
     if ( x + y ) < pow(10, 2):
 
         # check the hand location is it above the head or inside the body
-        if nose[1] < midRightHand[1]:
+        if nose[1] > midRightHand[1]:
             return "HandAboveHead"
-        elif  neck[1] > midRightHand[1] and midRightHand[1] > midHip[1]:
+        elif  neck[1] < midRightHand[1] and midRightHand[1] < midHip[1]:
             return "HandWithinBody"
 
     return None
