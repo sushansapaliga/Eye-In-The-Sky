@@ -52,10 +52,10 @@ def __allValid__(bodyKeyPoints):
     for k in body_kp_to_id_dummy:
         x, y, config = body1[body_kp_to_id_dummy[k]]
         if x == 0 and y == 0:
-            return False
+            return True
         config = config + 1
         pass
-    return True
+    return False
 
 def __checkWakandaStyle__(R_elbow, R_wrist, L_elbow, L_wrist, neck, midHip, nose):
     midRightHand = []
