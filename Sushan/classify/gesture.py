@@ -57,6 +57,17 @@ def __allValid__(bodyKeyPoints):
         pass
     return False
 
+def __checkHandAboveShoulderStyle__(wrist, elbow, shoulder, innerGesture, outerGesture):
+    if shoulder[1] < elbow[1] and shoulder[1] > wrist[1]:
+        if wrist[0] > elbow[0]:
+            return innerGesture
+        elif wrist[0] > elbow[0]:
+            return outerGesture
+        else:
+            return None
+
+    return None
+
 def __checkWakandaStyle__(R_elbow, R_wrist, L_elbow, L_wrist, neck, midHip, nose):
     midRightHand = []
     midRightHand.append( (R_elbow[0] + R_wrist[0])//2 )
@@ -87,9 +98,11 @@ def detectGesture(bodyKeyPoints):
 
     R_elbow = bodyKeyPoints[0][body_kp_to_id["RElbow"]]
     R_wrist = bodyKeyPoints[0][body_kp_to_id["RWrist"]]
+    R_shoulder = bodyKeyPoints[0][body_kp_to_id["RShoulder"]]
 
     L_elbow = bodyKeyPoints[0][body_kp_to_id["LElbow"]]
     L_wrist = bodyKeyPoints[0][body_kp_to_id["LWrist"]]
+    L_shoulder = bodyKeyPoints[0][body_kp_to_id["LShoulder"]]
 
     # if any one of the essential body keypoints is missing then dont guess the gesture made
     if __allValid__(bodyKeyPoints):
@@ -104,6 +117,20 @@ def detectGesture(bodyKeyPoints):
             return "Recording"
         pass
     else:
+        check_right = __checkHandAboveShoulderStyle__(R_wrist, R_elbow, R_shoulder, "leftDrone", "rightDrone")
+        check_left = __checkHandAboveShoulderStyle__(L_wrist, L_elbow, L_shoulder, "forwardDrone", "backwardDrone")
+
+        # only one gesture at a time is allowed - either right or left
+        if check_right != None and check_left != None:
+            return None
+        elif check_right != None:
+            return check_right
+        elif check_left != None:
+            return check_left
+        else:
+            return None
+            #pass
+
         pass
 
     pass
