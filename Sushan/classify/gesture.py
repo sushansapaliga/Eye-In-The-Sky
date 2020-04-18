@@ -61,7 +61,7 @@ def __checkHandAboveShoulderStyle__(wrist, elbow, shoulder, innerGesture, outerG
     if shoulder[1] < elbow[1] and shoulder[1] > wrist[1]:
         if wrist[0] > elbow[0]:
             return innerGesture
-        elif wrist[0] > elbow[0]:
+        elif wrist[0] < elbow[0]:
             return outerGesture
         else:
             return None
