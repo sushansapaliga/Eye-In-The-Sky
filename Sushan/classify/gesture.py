@@ -68,6 +68,27 @@ def __checkHandAboveShoulderStyle__(wrist, elbow, shoulder, innerGesture, outerG
 
     return None
 
+def __checkElbowAboveShoulderStyle__(wrist, elbow, shoulder, innerGesture, outerGesture):
+    """
+    simply :)
+    """
+    if shoulder[1] > elbow[1] and shoulder[1] < wrist[1]:
+        if wrist[0] > elbow[0]:
+            return innerGesture
+        elif wrist[0] < elbow[0]:
+            return outerGesture
+        else:
+            return None
+
+    return None
+
+def __checkHandAboveAnotherShoulderStyle__(elbow, wrist, neck, shoulder, gesture):
+    if elbow[1] > max(neck[1], shoulder[1]) and wrist[1] < min(neck[1], shoulder[1]):
+        if wrist[0] > min(neck[0], shoulder[0]) and wrist[0] < max(neck[0], shoulder[0]):
+            return gesture
+
+    return None
+
 def __checkingIntersectionPoint__(R_elbow, R_wrist, L_elbow, L_wrist):
     x, y = 0, 0
     try:
@@ -141,11 +162,33 @@ def detectGesture(bodyKeyPoints):
     elif check_left != None:
         return check_left
 
-    # next gesture
+    check_right = __checkElbowAboveShoulderStyle__(R_wrist, R_elbow, R_shoulder, "upDrone", "downDrone")
+    check_left = __checkElbowAboveShoulderStyle__(L_wrist, L_elbow, L_shoulder, "startStopGesture", "stayAtOnePointDrone")
+
+    # only one gesture at a time is allowed - either right or left
+    if check_right != None and check_left != None:
+        return None
+    elif check_right != None:
+        return check_right
+    elif check_left != None:
+        return check_left
+
+    check_right = __checkHandAboveAnotherShoulderStyle__(R_elbow, R_wrist, neck, L_shoulder, "landDrone")
+    check_left = __checkHandAboveAnotherShoulderStyle__(L_elbow, L_wrist, neck, R_shoulder, "startFaceDetection")
+
+    # only one gesture at a time is allowed - either right or left
+    if check_right != None and check_left != None:
+        return None
+    elif check_right != None:
+        return check_right
+    elif check_left != None:
+        return check_left
 
     return None
 
 
+
+# for testing purpose only
 if __name__=="__main__":
     #x, y = __checkingIntersectionPoint__([0,3],[1,5],[0,7],[1,6.5])
     x, y = __checkingIntersectionPoint__([0,3],[1,5],[0,3],[1,5])

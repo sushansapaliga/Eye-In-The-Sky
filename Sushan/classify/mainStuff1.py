@@ -9,6 +9,7 @@ from face_detection import FaceDetection
 from datetime import datetime
 import playSound
 import morseCode 
+import os
 
 
 
@@ -39,7 +40,13 @@ def handler(event, sender, data, **args):
                 instruction["emergency"] = True
                 instruction["reason"] = "Drone out of the range"
                 pass
- 
+
+# to receive the files / photos from the drone 
+def handle_flight_received(event, sender, data):
+    path = 'telloPictures/tello-%s.jpeg' % ( datetime.now().strftime("%Y-%m-%d_%H%M%S"))
+    with open(path, 'wb') as out_file:
+        out_file.write(data)
+    print('Saved photo to %s' % path)
 
 # report the log about the program
 def reportLog(log):
@@ -120,6 +127,7 @@ def main():
     try:
         # this is used to subscribe to the functionalality of the drone
         drone.subscribe(drone.EVENT_FLIGHT_DATA, handler)
+        drone.subscribe(drone.EVENT_FILE_RECEIVED, handle_flight_received)
         drone.connect()
         drone.wait_for_connection(60.0)
 
@@ -216,21 +224,19 @@ def main():
                 cv2.waitKey(1) & 0xFF
                 cv2.moveWindow("Status Window", 1000, 450)
 
-                # optional to take control of the drone [will be removed soon, used for fail safe]
+                # optional to take control of the drone [ Used for safe control ]
                 if key == ord("q"):
                     reportLog("closing of the application")
                     break
 
                 if key == ord("t"):
-                    drone.takeoff()
-                    reportLog("drone taking off")
-                    status["drone_in_air"] = True
+                    instruction["take_off"] = True
                 
                 if key == ord("l"):
-                    drone.land()
-                    reportLog("drone landing")
-                    cv2.destroyWindow("Face detection")
-                    status["drone_in_air"] = False
+                    instruction["land"] = True 
+
+                if key == ord("c"):
+                    instruction["capture_pic"] = True
 
                 # if any emergency occurs raise the error and close the application
                 if instruction["emergency"] != None and instruction["emergency"]:
@@ -264,6 +270,12 @@ def main():
                         reportLog("up " + str(instruction["up"]))
                         instruction["up"] = None
                         pass
+
+                    if instruction["capture_pic"] != None and instruction["capture_pic"]:
+                        drone.take_picture()
+                        instruction["capture_pic"] = None
+                        playSound.playMusic("take_pic")
+                        pass
                     
                     if instruction["land"] != None and instruction["land"]:
                         drone.land()
@@ -272,6 +284,10 @@ def main():
                         status["drone_in_air"] = False
                         instruction["land"] = None
                         playSound.playMusic("land")
+
+                        # preparation for another take-off
+                        morseFrame = 0
+
                         pass
                     pass
                 # instruction when drone is not in air
@@ -282,6 +298,10 @@ def main():
                         status["drone_in_air"] = True
                         instruction["take_off"] = None
                         playSound.playMusic("take_off")
+
+                        # preparation once drone is in air
+                        check_frame = 4
+
                         pass
                     pass
 
@@ -327,6 +347,7 @@ instruction["clockwise"] = None
 instruction["front"] = None
 instruction["land"] = None
 instruction["take_off"] = None
+instruction["capture_pic"] = None
 instruction["emergency"] = None
 instruction["reason"] = None # reason why the emergency bit was activated
 

@@ -1,3061 +1,391 @@
-[ 2020-04-11  19:08:40.147258 ]:closing of the application
-[ 2020-04-11  19:11:25.137942 ]:closing of the application
-[ 2020-04-11  19:13:56.392239 ]:drone taking off
-[ 2020-04-11  19:13:57.892144 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:13:57.918075 ]:clockwise 30
-[ 2020-04-11  19:13:59.485810 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:13:59.502764 ]:clockwise 30
-[ 2020-04-11  19:13:59.946095 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:13:59.963013 ]:clockwise 30
-[ 2020-04-11  19:14:00.379702 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:00.396122 ]:clockwise 30
-[ 2020-04-11  19:14:00.848359 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:00.866472 ]:clockwise 30
-[ 2020-04-11  19:14:01.420590 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:01.436944 ]:clockwise 30
-[ 2020-04-11  19:14:01.878566 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:01.894126 ]:clockwise 30
-[ 2020-04-11  19:14:02.328235 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:02.346262 ]:clockwise 30
-[ 2020-04-11  19:14:02.811124 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:02.827325 ]:clockwise 30
-[ 2020-04-11  19:14:03.277997 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:03.295913 ]:clockwise 30
-[ 2020-04-11  19:14:03.775502 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:03.794918 ]:clockwise 30
-[ 2020-04-11  19:14:04.243327 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:04.263273 ]:clockwise 30
-[ 2020-04-11  19:14:04.704104 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:04.721054 ]:clockwise 30
-[ 2020-04-11  19:14:05.184408 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:05.201316 ]:clockwise 30
-[ 2020-04-11  19:14:05.610009 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:05.627875 ]:clockwise 30
-[ 2020-04-11  19:14:06.174041 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:06.191974 ]:clockwise 30
-[ 2020-04-11  19:14:06.681094 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:06.700043 ]:clockwise 30
-[ 2020-04-11  19:14:07.152578 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:07.170062 ]:clockwise 30
-[ 2020-04-11  19:14:07.680064 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:07.697503 ]:clockwise 30
-[ 2020-04-11  19:14:08.108214 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:08.131157 ]:clockwise 30
-[ 2020-04-11  19:14:08.628973 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:08.645432 ]:clockwise 30
-[ 2020-04-11  19:14:09.077580 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:09.096460 ]:clockwise 30
-[ 2020-04-11  19:14:09.505190 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:09.522925 ]:clockwise 30
-[ 2020-04-11  19:14:09.945541 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:09.964468 ]:clockwise 30
-[ 2020-04-11  19:14:10.411045 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:10.428213 ]:clockwise 30
-[ 2020-04-11  19:14:10.837232 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:10.854755 ]:clockwise 30
-[ 2020-04-11  19:14:11.357147 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:11.373708 ]:clockwise 30
-[ 2020-04-11  19:14:11.850236 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:11.868257 ]:clockwise 30
-[ 2020-04-11  19:14:12.400425 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:12.417597 ]:clockwise 30
-[ 2020-04-11  19:14:12.834173 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:12.851068 ]:clockwise 30
-[ 2020-04-11  19:14:13.414435 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:13.431714 ]:clockwise 30
-[ 2020-04-11  19:14:13.994298 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:14.010252 ]:clockwise 30
-[ 2020-04-11  19:14:14.433515 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:14.450406 ]:clockwise 30
-[ 2020-04-11  19:14:14.911758 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:14.928788 ]:clockwise 30
-[ 2020-04-11  19:14:15.333003 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:15.349979 ]:clockwise 30
-[ 2020-04-11  19:14:15.810339 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:15.833505 ]:clockwise 30
-[ 2020-04-11  19:14:16.269767 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:16.286316 ]:clockwise 30
-[ 2020-04-11  19:14:16.698026 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:16.715041 ]:clockwise 30
-[ 2020-04-11  19:14:17.134937 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:17.155210 ]:clockwise 30
-[ 2020-04-11  19:14:17.649883 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:17.666448 ]:clockwise 30
-[ 2020-04-11  19:14:18.073891 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:18.089823 ]:clockwise 30
-[ 2020-04-11  19:14:18.505314 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:18.522658 ]:clockwise 30
-[ 2020-04-11  19:14:18.976961 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:18.994069 ]:clockwise 30
-[ 2020-04-11  19:14:19.463181 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:19.480755 ]:clockwise 30
-[ 2020-04-11  19:14:19.974422 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:19.990587 ]:clockwise 30
-[ 2020-04-11  19:14:20.492757 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:20.509669 ]:clockwise 30
-[ 2020-04-11  19:14:21.043111 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:21.060030 ]:clockwise 30
-[ 2020-04-11  19:14:21.574306 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:21.590454 ]:clockwise 30
-[ 2020-04-11  19:14:22.080461 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:22.096946 ]:clockwise 30
-[ 2020-04-11  19:14:22.507486 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:22.524325 ]:clockwise 30
-[ 2020-04-11  19:14:22.937132 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:22.957116 ]:clockwise 30
-[ 2020-04-11  19:14:23.470781 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:23.490592 ]:clockwise 30
-[ 2020-04-11  19:14:23.909193 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:23.929395 ]:clockwise 30
-[ 2020-04-11  19:14:24.384337 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:24.401273 ]:clockwise 30
-[ 2020-04-11  19:14:24.936282 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:24.954540 ]:clockwise 30
-[ 2020-04-11  19:14:25.368866 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:25.388046 ]:clockwise 30
-[ 2020-04-11  19:14:25.835365 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:25.853847 ]:clockwise 30
-[ 2020-04-11  19:14:26.286844 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:26.303859 ]:clockwise 30
-[ 2020-04-11  19:14:26.744161 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:26.760330 ]:clockwise 30
-[ 2020-04-11  19:14:27.170765 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:27.187770 ]:clockwise 30
-[ 2020-04-11  19:14:27.606993 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:27.630183 ]:clockwise 30
-[ 2020-04-11  19:14:28.232869 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:28.251819 ]:clockwise 30
-[ 2020-04-11  19:14:28.619255 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:28.636522 ]:clockwise 30
-[ 2020-04-11  19:14:29.075786 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:29.092250 ]:clockwise 30
-[ 2020-04-11  19:14:29.539195 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:29.556350 ]:clockwise 30
-[ 2020-04-11  19:14:30.024628 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:30.042589 ]:clockwise 30
-[ 2020-04-11  19:14:30.471743 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:30.489679 ]:clockwise 30
-[ 2020-04-11  19:14:30.994357 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:31.010606 ]:clockwise 30
-[ 2020-04-11  19:14:31.446955 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:31.463245 ]:clockwise 30
-[ 2020-04-11  19:14:31.912772 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:31.933071 ]:clockwise 30
-[ 2020-04-11  19:14:32.401847 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:32.418735 ]:clockwise 30
-[ 2020-04-11  19:14:32.878812 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:32.895718 ]:clockwise 30
-[ 2020-04-11  19:14:33.292241 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:33.316140 ]:clockwise 30
-[ 2020-04-11  19:14:33.772828 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:33.791929 ]:clockwise 30
-[ 2020-04-11  19:14:34.196768 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:34.213870 ]:clockwise 30
-[ 2020-04-11  19:14:34.738009 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:34.755205 ]:clockwise 30
-[ 2020-04-11  19:14:35.203565 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:35.222872 ]:clockwise 30
-[ 2020-04-11  19:14:35.740881 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:35.758796 ]:clockwise 30
-[ 2020-04-11  19:14:36.172135 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:36.190673 ]:clockwise 30
-[ 2020-04-11  19:14:36.630881 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:36.647274 ]:clockwise 30
-[ 2020-04-11  19:14:37.138758 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:37.155296 ]:clockwise 30
-[ 2020-04-11  19:14:37.646808 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:37.661802 ]:clockwise 30
-[ 2020-04-11  19:14:38.068029 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:38.084316 ]:clockwise 30
-[ 2020-04-11  19:14:38.534674 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:38.553131 ]:clockwise 30
-[ 2020-04-11  19:14:38.967933 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:38.984439 ]:clockwise 30
-[ 2020-04-11  19:14:39.541170 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:39.557650 ]:clockwise 30
-[ 2020-04-11  19:14:40.007500 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:40.025773 ]:clockwise 30
-[ 2020-04-11  19:14:40.456024 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:40.473591 ]:clockwise 30
-[ 2020-04-11  19:14:40.986424 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:41.002441 ]:clockwise 30
-[ 2020-04-11  19:14:41.476144 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:41.495093 ]:clockwise 30
-[ 2020-04-11  19:14:41.945721 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:41.962629 ]:clockwise 30
-[ 2020-04-11  19:14:42.515126 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:42.531646 ]:clockwise 30
-[ 2020-04-11  19:14:43.004767 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:43.020897 ]:clockwise 30
-[ 2020-04-11  19:14:43.433659 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:43.450583 ]:clockwise 30
-[ 2020-04-11  19:14:43.835002 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:43.851190 ]:clockwise 30
-[ 2020-04-11  19:14:44.309796 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:44.326714 ]:clockwise 30
-[ 2020-04-11  19:14:44.813474 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:44.830245 ]:clockwise 30
-[ 2020-04-11  19:14:45.238000 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:45.255953 ]:clockwise 30
-[ 2020-04-11  19:14:45.678950 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:45.695373 ]:clockwise 30
-[ 2020-04-11  19:14:46.130708 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:46.148065 ]:clockwise 30
-[ 2020-04-11  19:14:46.541411 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:46.559350 ]:clockwise 30
-[ 2020-04-11  19:14:47.104509 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:47.121726 ]:clockwise 30
-[ 2020-04-11  19:14:47.601217 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:47.628113 ]:clockwise 30
-[ 2020-04-11  19:14:48.072275 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:48.089463 ]:clockwise 30
-[ 2020-04-11  19:14:48.503565 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:48.521810 ]:clockwise 30
-[ 2020-04-11  19:14:48.969574 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:48.989107 ]:clockwise 30
-[ 2020-04-11  19:14:49.416885 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:49.432903 ]:clockwise 30
-[ 2020-04-11  19:14:49.880116 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:49.895826 ]:clockwise 30
-[ 2020-04-11  19:14:50.302747 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:50.320663 ]:clockwise 30
-[ 2020-04-11  19:14:50.742963 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:50.760927 ]:clockwise 30
-[ 2020-04-11  19:14:51.190746 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:51.207006 ]:clockwise 30
-[ 2020-04-11  19:14:51.639091 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:51.655550 ]:clockwise 30
-[ 2020-04-11  19:14:52.071133 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:52.089266 ]:clockwise 30
-[ 2020-04-11  19:14:52.535634 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:52.553592 ]:clockwise 30
-[ 2020-04-11  19:14:53.007739 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:53.033655 ]:clockwise 30
-[ 2020-04-11  19:14:53.508244 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:53.525600 ]:clockwise 30
-[ 2020-04-11  19:14:53.977670 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:53.994620 ]:clockwise 30
-[ 2020-04-11  19:14:54.440463 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:54.458907 ]:clockwise 30
-[ 2020-04-11  19:14:54.895702 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:54.913998 ]:clockwise 30
-[ 2020-04-11  19:14:55.397709 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:55.415596 ]:clockwise 30
-[ 2020-04-11  19:14:55.876130 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:14:55.893117 ]:clockwise 30
-[ 2020-04-11  19:14:56.330096 ]:command for drone to land - no face found 
-[ 2020-04-11  19:14:56.350341 ]:drone landing
-[ 2020-04-11  19:15:28.704986 ]:drone taking off
-[ 2020-04-11  19:15:29.065777 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:15:29.093782 ]:clockwise 30
-[ 2020-04-11  19:15:29.541383 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:15:29.558634 ]:clockwise 30
-[ 2020-04-11  19:15:29.973151 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:15:29.990122 ]:clockwise 30
-[ 2020-04-11  19:15:30.403065 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:15:30.419975 ]:clockwise 30
-[ 2020-04-11  19:15:30.913175 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:15:30.931093 ]:clockwise 30
-[ 2020-04-11  19:15:31.452270 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:15:31.469286 ]:clockwise 30
-[ 2020-04-11  19:15:32.004541 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:15:32.023394 ]:clockwise 30
-[ 2020-04-11  19:15:32.475823 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:15:32.491779 ]:clockwise 30
-[ 2020-04-11  19:15:32.968575 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:15:32.987163 ]:clockwise 30
-[ 2020-04-11  19:15:33.404547 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:15:33.422062 ]:clockwise 30
-[ 2020-04-11  19:15:33.839549 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:15:33.856752 ]:clockwise 30
-[ 2020-04-11  19:15:34.263004 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:15:34.280958 ]:clockwise 30
-[ 2020-04-11  19:15:34.793378 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:15:34.810291 ]:clockwise 30
-[ 2020-04-11  19:15:35.267532 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:15:35.285848 ]:clockwise 30
-[ 2020-04-11  19:15:35.832779 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:15:35.853306 ]:clockwise 30
-[ 2020-04-11  19:15:36.275038 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:15:36.294018 ]:clockwise 30
-[ 2020-04-11  19:15:36.767458 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:15:36.787908 ]:clockwise 30
-[ 2020-04-11  19:15:37.378711 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:15:37.395625 ]:clockwise 30
-[ 2020-04-11  19:15:37.802128 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:15:37.819045 ]:clockwise 30
-[ 2020-04-11  19:15:38.340837 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:15:38.359246 ]:clockwise 30
-[ 2020-04-11  19:15:38.790769 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:15:38.808248 ]:clockwise 30
-[ 2020-04-11  19:15:39.208043 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:15:39.225952 ]:clockwise 30
-[ 2020-04-11  19:15:39.731114 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:15:39.750031 ]:clockwise 30
-[ 2020-04-11  19:15:40.171508 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:15:40.187797 ]:clockwise 30
-[ 2020-04-11  19:15:40.637153 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:15:40.656419 ]:clockwise 30
-[ 2020-04-11  19:15:41.169477 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:15:41.187430 ]:clockwise 30
-[ 2020-04-11  19:15:41.605493 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:15:41.622895 ]:clockwise 30
-[ 2020-04-11  19:15:41.741709 ]:drone landing
-[ 2020-04-11  19:15:47.845092 ]:closing of the application
-[ 2020-04-11  19:40:51.881670 ]:drone taking off
-[ 2020-04-11  19:40:53.548915 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:40:53.588774 ]:clockwise 30
-[ 2020-04-11  19:40:55.603497 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:40:55.622411 ]:clockwise 30
-[ 2020-04-11  19:40:56.023724 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:40:56.040678 ]:clockwise 30
-[ 2020-04-11  19:40:56.581997 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:40:56.599014 ]:clockwise 30
-[ 2020-04-11  19:40:57.112011 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:40:57.130108 ]:clockwise 30
-[ 2020-04-11  19:40:57.743315 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:40:57.761268 ]:clockwise 30
-[ 2020-04-11  19:40:58.311242 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:40:58.329416 ]:clockwise 30
-[ 2020-04-11  19:40:58.928325 ]:clockwise -20
-[ 2020-04-11  19:40:58.929083 ]:up 0
-[ 2020-04-11  19:40:59.511786 ]:face not found
-[ 2020-04-11  19:40:59.529940 ]:clockwise -20
-[ 2020-04-11  19:40:59.530743 ]:up 0
-[ 2020-04-11  19:41:00.075728 ]:face not found
-[ 2020-04-11  19:41:00.095925 ]:clockwise -20
-[ 2020-04-11  19:41:00.096725 ]:up 0
-[ 2020-04-11  19:41:00.645318 ]:face not found
-[ 2020-04-11  19:41:00.665544 ]:clockwise -20
-[ 2020-04-11  19:41:00.666281 ]:up 0
-[ 2020-04-11  19:41:01.145775 ]:face not found
-[ 2020-04-11  19:41:01.166731 ]:clockwise -20
-[ 2020-04-11  19:41:01.166731 ]:up 0
-[ 2020-04-11  19:41:01.742508 ]:face not found
-[ 2020-04-11  19:41:01.761658 ]:clockwise -20
-[ 2020-04-11  19:41:01.762442 ]:up 0
-[ 2020-04-11  19:41:02.309201 ]:face not found
-[ 2020-04-11  19:41:02.328716 ]:clockwise -20
-[ 2020-04-11  19:41:02.328716 ]:up 0
-[ 2020-04-11  19:41:02.912499 ]:face not found
-[ 2020-04-11  19:41:02.928987 ]:clockwise -20
-[ 2020-04-11  19:41:02.929739 ]:up 0
-[ 2020-04-11  19:41:03.441454 ]:face not found
-[ 2020-04-11  19:41:03.461624 ]:clockwise -20
-[ 2020-04-11  19:41:03.462398 ]:up 0
-[ 2020-04-11  19:41:04.059278 ]:face not found
-[ 2020-04-11  19:41:04.081404 ]:clockwise -20
-[ 2020-04-11  19:41:04.082184 ]:up 0
-[ 2020-04-11  19:41:04.612930 ]:face not found
-[ 2020-04-11  19:41:04.631099 ]:clockwise -20
-[ 2020-04-11  19:41:04.631923 ]:up 0
-[ 2020-04-11  19:41:05.205388 ]:face not found
-[ 2020-04-11  19:41:05.224586 ]:clockwise -20
-[ 2020-04-11  19:41:05.225337 ]:up 0
-[ 2020-04-11  19:41:05.706454 ]:face not found
-[ 2020-04-11  19:41:05.726446 ]:clockwise -20
-[ 2020-04-11  19:41:05.727448 ]:up 0
-[ 2020-04-11  19:41:06.337931 ]:face not found
-[ 2020-04-11  19:41:06.359863 ]:clockwise -20
-[ 2020-04-11  19:41:06.360864 ]:up 0
-[ 2020-04-11  19:41:06.867958 ]:face not found
-[ 2020-04-11  19:41:06.890087 ]:clockwise -20
-[ 2020-04-11  19:41:06.890901 ]:up 0
-[ 2020-04-11  19:41:07.371907 ]:face not found
-[ 2020-04-11  19:41:07.393099 ]:clockwise -20
-[ 2020-04-11  19:41:07.393855 ]:up 0
-[ 2020-04-11  19:41:07.867849 ]:face not found
-[ 2020-04-11  19:41:07.889792 ]:clockwise -20
-[ 2020-04-11  19:41:07.889792 ]:up 0
-[ 2020-04-11  19:41:08.306685 ]:face not found
-[ 2020-04-11  19:41:08.325787 ]:clockwise -20
-[ 2020-04-11  19:41:08.326676 ]:up 0
-[ 2020-04-11  19:41:08.872230 ]:face not found
-[ 2020-04-11  19:41:08.892482 ]:clockwise -20
-[ 2020-04-11  19:41:08.893481 ]:up 0
-[ 2020-04-11  19:41:09.407968 ]:face not found
-[ 2020-04-11  19:41:09.426451 ]:clockwise -20
-[ 2020-04-11  19:41:09.426451 ]:up 0
-[ 2020-04-11  19:41:09.991754 ]:face not found
-[ 2020-04-11  19:41:10.009705 ]:clockwise -20
-[ 2020-04-11  19:41:10.010702 ]:up 0
-[ 2020-04-11  19:41:10.635744 ]:face not found
-[ 2020-04-11  19:41:10.656829 ]:clockwise -20
-[ 2020-04-11  19:41:10.657686 ]:up 0
-[ 2020-04-11  19:41:11.222686 ]:face not found
-[ 2020-04-11  19:41:11.244630 ]:clockwise -20
-[ 2020-04-11  19:41:11.244630 ]:up 0
-[ 2020-04-11  19:41:11.830642 ]:face not found
-[ 2020-04-11  19:41:11.849841 ]:clockwise -20
-[ 2020-04-11  19:41:11.850639 ]:up 0
-[ 2020-04-11  19:41:12.428680 ]:face not found
-[ 2020-04-11  19:41:12.449566 ]:clockwise -20
-[ 2020-04-11  19:41:12.450558 ]:up 0
-[ 2020-04-11  19:41:12.901086 ]:face not found
-[ 2020-04-11  19:41:12.919077 ]:clockwise -20
-[ 2020-04-11  19:41:12.920079 ]:up 0
-[ 2020-04-11  19:41:13.401250 ]:face not found
-[ 2020-04-11  19:41:13.421780 ]:clockwise -20
-[ 2020-04-11  19:41:13.421780 ]:up 0
-[ 2020-04-11  19:41:13.922186 ]:face not found
-[ 2020-04-11  19:41:13.944127 ]:clockwise -20
-[ 2020-04-11  19:41:13.945126 ]:up 0
-[ 2020-04-11  19:41:14.430929 ]:face not found
-[ 2020-04-11  19:41:14.452877 ]:clockwise -20
-[ 2020-04-11  19:41:14.454873 ]:up 0
-[ 2020-04-11  19:41:14.942150 ]:face not found
-[ 2020-04-11  19:41:14.961349 ]:clockwise -20
-[ 2020-04-11  19:41:14.962118 ]:up 0
-[ 2020-04-11  19:41:15.583251 ]:face not found
-[ 2020-04-11  19:41:15.600165 ]:clockwise -20
-[ 2020-04-11  19:41:15.603157 ]:up 0
-[ 2020-04-11  19:41:16.111818 ]:face not found
-[ 2020-04-11  19:41:16.129775 ]:clockwise -20
-[ 2020-04-11  19:41:16.130728 ]:up 0
-[ 2020-04-11  19:41:16.630092 ]:face not found
-[ 2020-04-11  19:41:16.652086 ]:clockwise -20
-[ 2020-04-11  19:41:16.653037 ]:up 0
-[ 2020-04-11  19:41:17.173191 ]:face not found
-[ 2020-04-11  19:41:17.190666 ]:clockwise -20
-[ 2020-04-11  19:41:17.191413 ]:up 0
-[ 2020-04-11  19:41:17.704829 ]:face not found
-[ 2020-04-11  19:41:17.722987 ]:clockwise -20
-[ 2020-04-11  19:41:17.723739 ]:up 0
-[ 2020-04-11  19:41:18.266659 ]:face not found
-[ 2020-04-11  19:41:18.287824 ]:clockwise -20
-[ 2020-04-11  19:41:18.288670 ]:up 0
-[ 2020-04-11  19:41:18.789023 ]:face not found
-[ 2020-04-11  19:41:18.807938 ]:clockwise -20
-[ 2020-04-11  19:41:18.808967 ]:up 0
-[ 2020-04-11  19:41:19.333004 ]:face not found
-[ 2020-04-11  19:41:19.356993 ]:clockwise -20
-[ 2020-04-11  19:41:19.357927 ]:up 0
-[ 2020-04-11  19:41:19.897048 ]:face not found
-[ 2020-04-11  19:41:19.916998 ]:clockwise -20
-[ 2020-04-11  19:41:19.917984 ]:up 0
-[ 2020-04-11  19:41:20.402844 ]:face not found
-[ 2020-04-11  19:41:20.422042 ]:clockwise -20
-[ 2020-04-11  19:41:20.422791 ]:up 0
-[ 2020-04-11  19:41:20.935902 ]:face not found
-[ 2020-04-11  19:41:20.956150 ]:clockwise -20
-[ 2020-04-11  19:41:20.957151 ]:up 0
-[ 2020-04-11  19:41:21.461725 ]:face not found
-[ 2020-04-11  19:41:21.484665 ]:clockwise -20
-[ 2020-04-11  19:41:21.485662 ]:up 0
-[ 2020-04-11  19:41:21.961896 ]:face not found
-[ 2020-04-11  19:41:21.980804 ]:clockwise -20
-[ 2020-04-11  19:41:21.980804 ]:up 0
-[ 2020-04-11  19:41:22.470936 ]:face not found
-[ 2020-04-11  19:41:22.490110 ]:clockwise -20
-[ 2020-04-11  19:41:22.490929 ]:up 0
-[ 2020-04-11  19:41:22.952049 ]:face not found
-[ 2020-04-11  19:41:22.974987 ]:clockwise -20
-[ 2020-04-11  19:41:22.974987 ]:up 0
-[ 2020-04-11  19:41:23.464424 ]:face not found
-[ 2020-04-11  19:41:23.487952 ]:clockwise -20
-[ 2020-04-11  19:41:23.487952 ]:up 0
-[ 2020-04-11  19:41:24.065432 ]:face not found
-[ 2020-04-11  19:41:24.089386 ]:clockwise -20
-[ 2020-04-11  19:41:24.090323 ]:up 0
-[ 2020-04-11  19:41:24.635476 ]:face not found
-[ 2020-04-11  19:41:24.658411 ]:clockwise -20
-[ 2020-04-11  19:41:24.658411 ]:up 0
-[ 2020-04-11  19:41:25.102638 ]:face not found
-[ 2020-04-11  19:41:25.122119 ]:clockwise -20
-[ 2020-04-11  19:41:25.122119 ]:up 0
-[ 2020-04-11  19:41:25.601771 ]:face not found
-[ 2020-04-11  19:41:25.621329 ]:clockwise -20
-[ 2020-04-11  19:41:25.621329 ]:up 0
-[ 2020-04-11  19:41:26.104436 ]:face not found
-[ 2020-04-11  19:41:26.121971 ]:clockwise -20
-[ 2020-04-11  19:41:26.121971 ]:up 0
-[ 2020-04-11  19:41:26.563956 ]:face not found
-[ 2020-04-11  19:41:27.153081 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:41:27.173026 ]:clockwise 30
-[ 2020-04-11  19:41:27.704949 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:41:27.722118 ]:clockwise 30
-[ 2020-04-11  19:41:28.303421 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:41:28.321374 ]:closing of the application
-[ 2020-04-11  19:43:18.459924 ]:drone taking off
-[ 2020-04-11  19:43:19.934809 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:43:19.965728 ]:clockwise 30
-[ 2020-04-11  19:43:21.482195 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:43:21.498860 ]:clockwise 30
-[ 2020-04-11  19:43:21.960953 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:43:21.978149 ]:clockwise 30
-[ 2020-04-11  19:43:22.528161 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:43:22.548172 ]:clockwise 30
-[ 2020-04-11  19:43:22.913168 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:43:22.931135 ]:clockwise 30
-[ 2020-04-11  19:43:23.349631 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:43:23.367128 ]:clockwise 30
-[ 2020-04-11  19:43:23.787964 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:43:23.805918 ]:clockwise 30
-[ 2020-04-11  19:43:24.275214 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:43:24.292169 ]:clockwise 30
-[ 2020-04-11  19:43:24.716432 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:43:24.733920 ]:clockwise 30
-[ 2020-04-11  19:43:25.188145 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:43:25.205343 ]:clockwise 30
-[ 2020-04-11  19:43:25.613617 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:43:25.630131 ]:clockwise 30
-[ 2020-04-11  19:43:26.048219 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:43:26.074086 ]:clockwise 30
-[ 2020-04-11  19:43:26.485344 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:43:26.504884 ]:clockwise 30
-[ 2020-04-11  19:43:26.985692 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:43:27.004946 ]:clockwise 30
-[ 2020-04-11  19:43:27.483417 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:43:27.500888 ]:clockwise 30
-[ 2020-04-11  19:43:27.918526 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:43:27.937697 ]:clockwise 30
-[ 2020-04-11  19:43:28.356831 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:43:28.374279 ]:clockwise 30
-[ 2020-04-11  19:43:28.863386 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:43:28.880411 ]:clockwise 30
-[ 2020-04-11  19:43:29.307530 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:43:29.325319 ]:clockwise 30
-[ 2020-04-11  19:43:29.867332 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:43:29.884353 ]:clockwise 30
-[ 2020-04-11  19:43:30.400963 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:43:30.417918 ]:clockwise 30
-[ 2020-04-11  19:43:30.857744 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:43:30.876036 ]:clockwise 30
-[ 2020-04-11  19:43:31.367142 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:43:31.385115 ]:clockwise 30
-[ 2020-04-11  19:43:31.787969 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:43:31.807139 ]:clockwise 30
-[ 2020-04-11  19:43:32.237640 ]:clockwise 20
-[ 2020-04-11  19:43:32.237640 ]:up 0
-[ 2020-04-11  19:43:32.684623 ]:clockwise 17.0
-[ 2020-04-11  19:43:32.685618 ]:up 0
-[ 2020-04-11  19:43:33.292435 ]:clockwise 15.0
-[ 2020-04-11  19:43:33.293359 ]:up 0
-[ 2020-04-11  19:43:33.769313 ]:clockwise 12.0
-[ 2020-04-11  19:43:33.769313 ]:up 0
-[ 2020-04-11  19:43:34.236939 ]:clockwise 7.0
-[ 2020-04-11  19:43:34.236939 ]:up 0
-[ 2020-04-11  19:43:34.667409 ]:clockwise 7.0
-[ 2020-04-11  19:43:34.670401 ]:up 0
-[ 2020-04-11  19:43:35.180841 ]:clockwise 6.0
-[ 2020-04-11  19:43:35.181767 ]:up 0
-[ 2020-04-11  19:43:35.732548 ]:face not found
-[ 2020-04-11  19:43:35.749840 ]:clockwise 6.0
-[ 2020-04-11  19:43:35.749840 ]:up 0
-[ 2020-04-11  19:43:36.205972 ]:face not found
-[ 2020-04-11  19:43:36.224932 ]:clockwise 6.0
-[ 2020-04-11  19:43:36.225884 ]:up 0
-[ 2020-04-11  19:43:36.769278 ]:face not found
-[ 2020-04-11  19:43:36.787802 ]:clockwise 6.0
-[ 2020-04-11  19:43:36.787802 ]:up 0
-[ 2020-04-11  19:43:37.257535 ]:face not found
-[ 2020-04-11  19:43:37.275680 ]:clockwise 6.0
-[ 2020-04-11  19:43:37.276436 ]:up 0
-[ 2020-04-11  19:43:37.733482 ]:clockwise 0
-[ 2020-04-11  19:43:37.734474 ]:up 0
-[ 2020-04-11  19:43:38.149544 ]:face not found
-[ 2020-04-11  19:43:38.168477 ]:clockwise 0
-[ 2020-04-11  19:43:38.169782 ]:up 0
-[ 2020-04-11  19:43:38.686031 ]:clockwise 0
-[ 2020-04-11  19:43:38.687027 ]:up 0
-[ 2020-04-11  19:43:39.157716 ]:face not found
-[ 2020-04-11  19:43:39.176070 ]:clockwise 0
-[ 2020-04-11  19:43:39.176070 ]:up 0
-[ 2020-04-11  19:43:39.609204 ]:clockwise 0
-[ 2020-04-11  19:43:39.609204 ]:up 0
-[ 2020-04-11  19:43:40.070956 ]:clockwise 0
-[ 2020-04-11  19:43:40.070956 ]:up 0
-[ 2020-04-11  19:43:40.489977 ]:face not found
-[ 2020-04-11  19:43:40.507958 ]:clockwise 0
-[ 2020-04-11  19:43:40.508882 ]:up 0
-[ 2020-04-11  19:43:41.011144 ]:face not found
-[ 2020-04-11  19:43:41.038677 ]:clockwise 0
-[ 2020-04-11  19:43:41.038677 ]:up 0
-[ 2020-04-11  19:43:41.503525 ]:clockwise 0
-[ 2020-04-11  19:43:41.503525 ]:up 0
-[ 2020-04-11  19:43:41.938671 ]:clockwise 0
-[ 2020-04-11  19:43:41.938671 ]:up 0
-[ 2020-04-11  19:43:42.478079 ]:clockwise 0
-[ 2020-04-11  19:43:42.478801 ]:up 0
-[ 2020-04-11  19:43:42.918252 ]:face not found
-[ 2020-04-11  19:43:42.935649 ]:clockwise 0
-[ 2020-04-11  19:43:42.936645 ]:up 0
-[ 2020-04-11  19:43:43.425363 ]:face not found
-[ 2020-04-11  19:43:43.446271 ]:clockwise 0
-[ 2020-04-11  19:43:43.446271 ]:up 0
-[ 2020-04-11  19:43:43.860857 ]:face not found
-[ 2020-04-11  19:43:43.879847 ]:clockwise 0
-[ 2020-04-11  19:43:43.880769 ]:up 0
-[ 2020-04-11  19:43:44.375744 ]:face not found
-[ 2020-04-11  19:43:44.393665 ]:clockwise 0
-[ 2020-04-11  19:43:44.394662 ]:up 0
-[ 2020-04-11  19:43:44.861346 ]:face not found
-[ 2020-04-11  19:43:44.878320 ]:clockwise 0
-[ 2020-04-11  19:43:44.879257 ]:up 0
-[ 2020-04-11  19:43:45.459718 ]:face not found
-[ 2020-04-11  19:43:45.476711 ]:clockwise 0
-[ 2020-04-11  19:43:45.477636 ]:up 0
-[ 2020-04-11  19:43:46.043135 ]:face not found
-[ 2020-04-11  19:43:46.061375 ]:clockwise 0
-[ 2020-04-11  19:43:46.062376 ]:up 0
-[ 2020-04-11  19:43:46.515794 ]:face not found
-[ 2020-04-11  19:43:46.533069 ]:clockwise 0
-[ 2020-04-11  19:43:46.533069 ]:up 0
-[ 2020-04-11  19:43:47.019465 ]:face not found
-[ 2020-04-11  19:43:47.036662 ]:clockwise 0
-[ 2020-04-11  19:43:47.037408 ]:up 0
-[ 2020-04-11  19:43:47.615647 ]:face not found
-[ 2020-04-11  19:43:47.636349 ]:clockwise 0
-[ 2020-04-11  19:43:47.636349 ]:up 0
-[ 2020-04-11  19:43:48.114647 ]:face not found
-[ 2020-04-11  19:43:48.131656 ]:clockwise 0
-[ 2020-04-11  19:43:48.132655 ]:up 0
-[ 2020-04-11  19:43:48.624915 ]:face not found
-[ 2020-04-11  19:43:48.642084 ]:clockwise 0
-[ 2020-04-11  19:43:48.642867 ]:up 0
-[ 2020-04-11  19:43:49.051360 ]:face not found
-[ 2020-04-11  19:43:49.068309 ]:clockwise 0
-[ 2020-04-11  19:43:49.069323 ]:up 0
-[ 2020-04-11  19:43:49.515560 ]:face not found
-[ 2020-04-11  19:43:49.532707 ]:clockwise 0
-[ 2020-04-11  19:43:49.533449 ]:up 0
-[ 2020-04-11  19:43:50.045564 ]:face not found
-[ 2020-04-11  19:43:50.062449 ]:clockwise 0
-[ 2020-04-11  19:43:50.063447 ]:up 0
-[ 2020-04-11  19:43:50.514867 ]:face not found
-[ 2020-04-11  19:43:50.532992 ]:clockwise 0
-[ 2020-04-11  19:43:50.532992 ]:up 0
-[ 2020-04-11  19:43:50.951030 ]:face not found
-[ 2020-04-11  19:43:50.969946 ]:clockwise 0
-[ 2020-04-11  19:43:50.970944 ]:up 0
-[ 2020-04-11  19:43:51.422496 ]:face not found
-[ 2020-04-11  19:43:51.440651 ]:clockwise 0
-[ 2020-04-11  19:43:51.441406 ]:up 0
-[ 2020-04-11  19:43:51.881306 ]:face not found
-[ 2020-04-11  19:43:51.897796 ]:clockwise 0
-[ 2020-04-11  19:43:51.898667 ]:up 0
-[ 2020-04-11  19:43:52.385911 ]:face not found
-[ 2020-04-11  19:43:52.403148 ]:clockwise 0
-[ 2020-04-11  19:43:52.403148 ]:up 0
-[ 2020-04-11  19:43:52.853872 ]:face not found
-[ 2020-04-11  19:43:52.872380 ]:clockwise 0
-[ 2020-04-11  19:43:52.872380 ]:up 0
-[ 2020-04-11  19:43:53.361052 ]:face not found
-[ 2020-04-11  19:43:53.378068 ]:clockwise 0
-[ 2020-04-11  19:43:53.379004 ]:up 0
-[ 2020-04-11  19:43:53.885236 ]:face not found
-[ 2020-04-11  19:43:53.903587 ]:clockwise 0
-[ 2020-04-11  19:43:53.904597 ]:up 0
-[ 2020-04-11  19:43:54.382711 ]:face not found
-[ 2020-04-11  19:43:54.400597 ]:clockwise 0
-[ 2020-04-11  19:43:54.401598 ]:up 0
-[ 2020-04-11  19:43:54.862909 ]:face not found
-[ 2020-04-11  19:43:54.881411 ]:clockwise 0
-[ 2020-04-11  19:43:54.882140 ]:up 0
-[ 2020-04-11  19:43:55.284447 ]:face not found
-[ 2020-04-11  19:43:55.301708 ]:clockwise 0
-[ 2020-04-11  19:43:55.301708 ]:up 0
-[ 2020-04-11  19:43:55.714120 ]:face not found
-[ 2020-04-11  19:43:55.732080 ]:clockwise 0
-[ 2020-04-11  19:43:55.733017 ]:up 0
-[ 2020-04-11  19:43:56.292489 ]:face not found
-[ 2020-04-11  19:43:56.309505 ]:clockwise 0
-[ 2020-04-11  19:43:56.310488 ]:up 0
-[ 2020-04-11  19:43:56.869405 ]:face not found
-[ 2020-04-11  19:43:56.886358 ]:clockwise 0
-[ 2020-04-11  19:43:56.886358 ]:up 0
-[ 2020-04-11  19:43:57.365611 ]:face not found
-[ 2020-04-11  19:43:57.382625 ]:clockwise 0
-[ 2020-04-11  19:43:57.383609 ]:up 0
-[ 2020-04-11  19:43:57.793699 ]:face not found
-[ 2020-04-11  19:43:57.811838 ]:clockwise 0
-[ 2020-04-11  19:43:57.811838 ]:up 0
-[ 2020-04-11  19:43:58.282916 ]:face not found
-[ 2020-04-11  19:43:58.300868 ]:clockwise 0
-[ 2020-04-11  19:43:58.300868 ]:up 0
-[ 2020-04-11  19:43:58.783969 ]:face not found
-[ 2020-04-11  19:43:58.801842 ]:clockwise 0
-[ 2020-04-11  19:43:58.801842 ]:up 0
-[ 2020-04-11  19:43:59.286030 ]:face not found
-[ 2020-04-11  19:43:59.302923 ]:clockwise 0
-[ 2020-04-11  19:43:59.302923 ]:up 0
-[ 2020-04-11  19:43:59.715150 ]:face not found
-[ 2020-04-11  19:43:59.733702 ]:clockwise 0
-[ 2020-04-11  19:43:59.733702 ]:up 0
-[ 2020-04-11  19:44:00.263695 ]:face not found
-[ 2020-04-11  19:44:00.284186 ]:clockwise 0
-[ 2020-04-11  19:44:00.284186 ]:up 0
-[ 2020-04-11  19:44:00.693830 ]:face not found
-[ 2020-04-11  19:44:00.712073 ]:clockwise 0
-[ 2020-04-11  19:44:00.712073 ]:up 0
-[ 2020-04-11  19:44:01.216989 ]:face not found
-[ 2020-04-11  19:44:01.234338 ]:clockwise 0
-[ 2020-04-11  19:44:01.234338 ]:up 0
-[ 2020-04-11  19:44:01.656214 ]:face not found
-[ 2020-04-11  19:44:01.676141 ]:clockwise 0
-[ 2020-04-11  19:44:01.677110 ]:up 0
-[ 2020-04-11  19:44:02.252186 ]:face not found
-[ 2020-04-11  19:44:02.269346 ]:clockwise 0
-[ 2020-04-11  19:44:02.270095 ]:up 0
-[ 2020-04-11  19:44:02.688476 ]:face not found
-[ 2020-04-11  19:44:02.706421 ]:clockwise 0
-[ 2020-04-11  19:44:02.707389 ]:up 0
-[ 2020-04-11  19:44:03.213678 ]:face not found
-[ 2020-04-11  19:44:03.230631 ]:clockwise 0
-[ 2020-04-11  19:44:03.231565 ]:up 0
-[ 2020-04-11  19:44:03.649708 ]:face not found
-[ 2020-04-11  19:44:03.668356 ]:clockwise 0
-[ 2020-04-11  19:44:03.668356 ]:up 0
-[ 2020-04-11  19:44:04.165224 ]:face not found
-[ 2020-04-11  19:44:04.182695 ]:clockwise 0
-[ 2020-04-11  19:44:04.183435 ]:up 0
-[ 2020-04-11  19:44:04.693380 ]:face not found
-[ 2020-04-11  19:44:04.710337 ]:clockwise 0
-[ 2020-04-11  19:44:04.711331 ]:up 0
-[ 2020-04-11  19:44:05.257361 ]:face not found
-[ 2020-04-11  19:44:05.274306 ]:clockwise 0
-[ 2020-04-11  19:44:05.275244 ]:up 0
-[ 2020-04-11  19:44:05.826449 ]:face not found
-[ 2020-04-11  19:44:05.843409 ]:clockwise 0
-[ 2020-04-11  19:44:05.844411 ]:up 0
-[ 2020-04-11  19:44:06.413846 ]:face not found
-[ 2020-04-11  19:44:06.433779 ]:clockwise 0
-[ 2020-04-11  19:44:06.434747 ]:up 0
-[ 2020-04-11  19:44:06.952027 ]:face not found
-[ 2020-04-11  19:44:06.970344 ]:clockwise 0
-[ 2020-04-11  19:44:06.970344 ]:up 0
-[ 2020-04-11  19:44:07.461745 ]:face not found
-[ 2020-04-11  19:44:07.479007 ]:clockwise 0
-[ 2020-04-11  19:44:07.479007 ]:up 0
-[ 2020-04-11  19:44:07.913802 ]:face not found
-[ 2020-04-11  19:44:08.354811 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:08.373309 ]:clockwise 30
-[ 2020-04-11  19:44:08.829586 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:08.846862 ]:clockwise 30
-[ 2020-04-11  19:44:09.254740 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:09.272958 ]:clockwise 30
-[ 2020-04-11  19:44:09.695978 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:09.713885 ]:clockwise 30
-[ 2020-04-11  19:44:10.248804 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:10.267749 ]:clockwise 30
-[ 2020-04-11  19:44:10.734501 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:10.751459 ]:clockwise 30
-[ 2020-04-11  19:44:11.257818 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:11.274730 ]:clockwise 30
-[ 2020-04-11  19:44:11.822916 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:11.840849 ]:clockwise 30
-[ 2020-04-11  19:44:12.364693 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:12.382265 ]:clockwise 30
-[ 2020-04-11  19:44:12.930344 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:12.947359 ]:clockwise 30
-[ 2020-04-11  19:44:13.420855 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:13.437809 ]:clockwise 30
-[ 2020-04-11  19:44:13.887667 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:13.904586 ]:clockwise 30
-[ 2020-04-11  19:44:14.366558 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:14.383785 ]:clockwise 30
-[ 2020-04-11  19:44:14.839237 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:14.859297 ]:clockwise 30
-[ 2020-04-11  19:44:15.320114 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:15.338344 ]:clockwise 30
-[ 2020-04-11  19:44:15.827812 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:15.844829 ]:clockwise 30
-[ 2020-04-11  19:44:16.400021 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:16.416038 ]:clockwise 30
-[ 2020-04-11  19:44:16.922344 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:16.939624 ]:clockwise 30
-[ 2020-04-11  19:44:17.380827 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:17.404783 ]:clockwise 30
-[ 2020-04-11  19:44:17.938371 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:17.959274 ]:clockwise 30
-[ 2020-04-11  19:44:18.382619 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:18.398751 ]:clockwise 30
-[ 2020-04-11  19:44:18.826250 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:18.842727 ]:clockwise 30
-[ 2020-04-11  19:44:19.392313 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:19.410310 ]:clockwise 30
-[ 2020-04-11  19:44:19.922286 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:19.948172 ]:clockwise 30
-[ 2020-04-11  19:44:20.469347 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:20.515438 ]:clockwise 30
-[ 2020-04-11  19:44:20.988594 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:21.006560 ]:clockwise 30
-[ 2020-04-11  19:44:21.510268 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:21.528255 ]:clockwise 30
-[ 2020-04-11  19:44:21.976228 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:21.994422 ]:clockwise 30
-[ 2020-04-11  19:44:22.480359 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:22.498571 ]:clockwise 30
-[ 2020-04-11  19:44:23.019920 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:23.046911 ]:clockwise 30
-[ 2020-04-11  19:44:23.489636 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:23.506837 ]:clockwise 30
-[ 2020-04-11  19:44:23.993821 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:24.011835 ]:clockwise 30
-[ 2020-04-11  19:44:24.454461 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:24.470813 ]:clockwise 30
-[ 2020-04-11  19:44:24.963265 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:24.979159 ]:clockwise 30
-[ 2020-04-11  19:44:25.419511 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:25.435969 ]:clockwise 30
-[ 2020-04-11  19:44:25.854008 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:25.871159 ]:clockwise 30
-[ 2020-04-11  19:44:26.331937 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:26.348922 ]:clockwise 30
-[ 2020-04-11  19:44:26.856807 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:26.876748 ]:clockwise 30
-[ 2020-04-11  19:44:27.289057 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:27.306012 ]:clockwise 30
-[ 2020-04-11  19:44:27.748949 ]:clockwise -20
-[ 2020-04-11  19:44:27.749947 ]:up 13.0
-[ 2020-04-11  19:44:28.259962 ]:clockwise -20
-[ 2020-04-11  19:44:28.260899 ]:up 13.0
-[ 2020-04-11  19:44:28.684779 ]:clockwise -20
-[ 2020-04-11  19:44:28.685715 ]:up 11.0
-[ 2020-04-11  19:44:29.290400 ]:face not found
-[ 2020-04-11  19:44:29.309383 ]:clockwise -20
-[ 2020-04-11  19:44:29.310342 ]:up 11.0
-[ 2020-04-11  19:44:29.816987 ]:face not found
-[ 2020-04-11  19:44:29.838931 ]:clockwise -20
-[ 2020-04-11  19:44:29.840929 ]:up 11.0
-[ 2020-04-11  19:44:30.285679 ]:face not found
-[ 2020-04-11  19:44:30.302988 ]:clockwise -20
-[ 2020-04-11  19:44:30.303945 ]:up 11.0
-[ 2020-04-11  19:44:30.717266 ]:face not found
-[ 2020-04-11  19:44:30.734176 ]:clockwise -20
-[ 2020-04-11  19:44:30.735207 ]:up 11.0
-[ 2020-04-11  19:44:31.250094 ]:face not found
-[ 2020-04-11  19:44:31.268197 ]:clockwise -20
-[ 2020-04-11  19:44:31.268977 ]:up 11.0
-[ 2020-04-11  19:44:31.783014 ]:face not found
-[ 2020-04-11  19:44:31.800492 ]:clockwise -20
-[ 2020-04-11  19:44:31.801240 ]:up 11.0
-[ 2020-04-11  19:44:32.310720 ]:face not found
-[ 2020-04-11  19:44:32.327675 ]:clockwise -20
-[ 2020-04-11  19:44:32.328673 ]:up 11.0
-[ 2020-04-11  19:44:32.728061 ]:face not found
-[ 2020-04-11  19:44:32.745012 ]:clockwise -20
-[ 2020-04-11  19:44:32.745948 ]:up 11.0
-[ 2020-04-11  19:44:33.250410 ]:face not found
-[ 2020-04-11  19:44:33.270328 ]:clockwise -20
-[ 2020-04-11  19:44:33.270328 ]:up 11.0
-[ 2020-04-11  19:44:33.731495 ]:face not found
-[ 2020-04-11  19:44:33.749935 ]:clockwise -20
-[ 2020-04-11  19:44:33.749935 ]:up 11.0
-[ 2020-04-11  19:44:34.155163 ]:face not found
-[ 2020-04-11  19:44:34.177086 ]:clockwise -20
-[ 2020-04-11  19:44:34.178083 ]:up 11.0
-[ 2020-04-11  19:44:34.645070 ]:face not found
-[ 2020-04-11  19:44:34.662779 ]:clockwise -20
-[ 2020-04-11  19:44:34.663784 ]:up 11.0
-[ 2020-04-11  19:44:35.143239 ]:face not found
-[ 2020-04-11  19:44:35.162688 ]:clockwise -20
-[ 2020-04-11  19:44:35.162688 ]:up 11.0
-[ 2020-04-11  19:44:35.682900 ]:face not found
-[ 2020-04-11  19:44:35.700033 ]:clockwise -20
-[ 2020-04-11  19:44:35.700818 ]:up 11.0
-[ 2020-04-11  19:44:36.180261 ]:face not found
-[ 2020-04-11  19:44:36.197733 ]:clockwise -20
-[ 2020-04-11  19:44:36.197733 ]:up 11.0
-[ 2020-04-11  19:44:36.609347 ]:face not found
-[ 2020-04-11  19:44:36.626653 ]:clockwise -20
-[ 2020-04-11  19:44:36.627650 ]:up 11.0
-[ 2020-04-11  19:44:37.079156 ]:face not found
-[ 2020-04-11  19:44:37.096766 ]:clockwise -20
-[ 2020-04-11  19:44:37.097486 ]:up 11.0
-[ 2020-04-11  19:44:37.620258 ]:face not found
-[ 2020-04-11  19:44:37.636157 ]:clockwise -20
-[ 2020-04-11  19:44:37.636157 ]:up 11.0
-[ 2020-04-11  19:44:38.187777 ]:face not found
-[ 2020-04-11  19:44:38.216441 ]:clockwise -20
-[ 2020-04-11  19:44:38.217440 ]:up 11.0
-[ 2020-04-11  19:44:38.684375 ]:face not found
-[ 2020-04-11  19:44:38.701479 ]:clockwise -20
-[ 2020-04-11  19:44:38.702482 ]:up 11.0
-[ 2020-04-11  19:44:39.253249 ]:face not found
-[ 2020-04-11  19:44:39.271176 ]:clockwise -20
-[ 2020-04-11  19:44:39.271176 ]:up 11.0
-[ 2020-04-11  19:44:39.714287 ]:face not found
-[ 2020-04-11  19:44:39.731449 ]:clockwise -20
-[ 2020-04-11  19:44:39.732204 ]:up 11.0
-[ 2020-04-11  19:44:40.192474 ]:face not found
-[ 2020-04-11  19:44:40.209697 ]:clockwise -20
-[ 2020-04-11  19:44:40.210467 ]:up 11.0
-[ 2020-04-11  19:44:40.645783 ]:face not found
-[ 2020-04-11  19:44:40.664063 ]:clockwise -20
-[ 2020-04-11  19:44:40.664063 ]:up 11.0
-[ 2020-04-11  19:44:41.222214 ]:face not found
-[ 2020-04-11  19:44:41.239174 ]:clockwise -20
-[ 2020-04-11  19:44:41.239174 ]:up 11.0
-[ 2020-04-11  19:44:41.732048 ]:face not found
-[ 2020-04-11  19:44:41.749284 ]:clockwise -20
-[ 2020-04-11  19:44:41.750286 ]:up 11.0
-[ 2020-04-11  19:44:42.240238 ]:face not found
-[ 2020-04-11  19:44:42.257223 ]:clockwise -20
-[ 2020-04-11  19:44:42.258191 ]:up 11.0
-[ 2020-04-11  19:44:42.776975 ]:face not found
-[ 2020-04-11  19:44:42.795153 ]:clockwise -20
-[ 2020-04-11  19:44:42.795924 ]:up 11.0
-[ 2020-04-11  19:44:43.240724 ]:face not found
-[ 2020-04-11  19:44:43.258674 ]:clockwise -20
-[ 2020-04-11  19:44:43.258674 ]:up 11.0
-[ 2020-04-11  19:44:43.678724 ]:face not found
-[ 2020-04-11  19:44:43.695667 ]:clockwise -20
-[ 2020-04-11  19:44:43.696673 ]:up 11.0
-[ 2020-04-11  19:44:44.153730 ]:face not found
-[ 2020-04-11  19:44:44.174324 ]:clockwise -20
-[ 2020-04-11  19:44:44.174876 ]:up 11.0
-[ 2020-04-11  19:44:44.612168 ]:face not found
-[ 2020-04-11  19:44:44.630138 ]:clockwise -20
-[ 2020-04-11  19:44:44.631075 ]:up 11.0
-[ 2020-04-11  19:44:45.184598 ]:face not found
-[ 2020-04-11  19:44:45.200845 ]:clockwise -20
-[ 2020-04-11  19:44:45.200845 ]:up 11.0
-[ 2020-04-11  19:44:45.696727 ]:face not found
-[ 2020-04-11  19:44:45.714697 ]:clockwise -20
-[ 2020-04-11  19:44:45.715725 ]:up 11.0
-[ 2020-04-11  19:44:46.213999 ]:face not found
-[ 2020-04-11  19:44:46.232459 ]:clockwise -20
-[ 2020-04-11  19:44:46.234215 ]:up 11.0
-[ 2020-04-11  19:44:46.693534 ]:face not found
-[ 2020-04-11  19:44:46.711949 ]:clockwise -20
-[ 2020-04-11  19:44:46.711949 ]:up 11.0
-[ 2020-04-11  19:44:47.207691 ]:face not found
-[ 2020-04-11  19:44:47.225144 ]:clockwise -20
-[ 2020-04-11  19:44:47.225144 ]:up 11.0
-[ 2020-04-11  19:44:47.690021 ]:face not found
-[ 2020-04-11  19:44:47.708306 ]:clockwise -20
-[ 2020-04-11  19:44:47.709102 ]:up 11.0
-[ 2020-04-11  19:44:48.137379 ]:face not found
-[ 2020-04-11  19:44:48.157801 ]:clockwise -20
-[ 2020-04-11  19:44:48.157801 ]:up 11.0
-[ 2020-04-11  19:44:48.629362 ]:face not found
-[ 2020-04-11  19:44:48.645569 ]:clockwise -20
-[ 2020-04-11  19:44:48.646317 ]:up 11.0
-[ 2020-04-11  19:44:49.081519 ]:face not found
-[ 2020-04-11  19:44:49.099707 ]:clockwise -20
-[ 2020-04-11  19:44:49.100706 ]:up 11.0
-[ 2020-04-11  19:44:49.564355 ]:face not found
-[ 2020-04-11  19:44:49.581372 ]:clockwise -20
-[ 2020-04-11  19:44:49.582307 ]:up 11.0
-[ 2020-04-11  19:44:50.050537 ]:face not found
-[ 2020-04-11  19:44:50.071011 ]:clockwise -20
-[ 2020-04-11  19:44:50.071011 ]:up 11.0
-[ 2020-04-11  19:44:50.481760 ]:face not found
-[ 2020-04-11  19:44:50.499633 ]:clockwise -20
-[ 2020-04-11  19:44:50.499633 ]:up 11.0
-[ 2020-04-11  19:44:51.015887 ]:face not found
-[ 2020-04-11  19:44:51.034266 ]:clockwise -20
-[ 2020-04-11  19:44:51.034266 ]:up 11.0
-[ 2020-04-11  19:44:51.487204 ]:face not found
-[ 2020-04-11  19:44:51.504651 ]:clockwise -20
-[ 2020-04-11  19:44:51.504651 ]:up 11.0
-[ 2020-04-11  19:44:51.948927 ]:face not found
-[ 2020-04-11  19:44:51.968373 ]:clockwise -20
-[ 2020-04-11  19:44:51.968955 ]:up 11.0
-[ 2020-04-11  19:44:52.415177 ]:face not found
-[ 2020-04-11  19:44:52.432434 ]:clockwise -20
-[ 2020-04-11  19:44:52.432434 ]:up 11.0
-[ 2020-04-11  19:44:52.866210 ]:face not found
-[ 2020-04-11  19:44:52.883529 ]:clockwise -20
-[ 2020-04-11  19:44:52.883529 ]:up 11.0
-[ 2020-04-11  19:44:53.385884 ]:face not found
-[ 2020-04-11  19:44:53.403476 ]:clockwise -20
-[ 2020-04-11  19:44:53.403476 ]:up 11.0
-[ 2020-04-11  19:44:53.953629 ]:face not found
-[ 2020-04-11  19:44:54.383049 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:54.400099 ]:clockwise 30
-[ 2020-04-11  19:44:54.857395 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:54.875373 ]:clockwise 30
-[ 2020-04-11  19:44:55.361672 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:55.377979 ]:clockwise 30
-[ 2020-04-11  19:44:55.935654 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:55.954854 ]:clockwise 30
-[ 2020-04-11  19:44:56.448927 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:56.470891 ]:clockwise 30
-[ 2020-04-11  19:44:56.927507 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:56.943913 ]:clockwise 30
-[ 2020-04-11  19:44:57.450513 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:44:57.469971 ]:drone landing
-[ 2020-04-11  19:44:57.605563 ]:drone landing
-[ 2020-04-11  19:44:57.713119 ]:drone landing
-[ 2020-04-11  19:45:10.906766 ]:drone taking off
-[ 2020-04-11  19:45:10.906766 ]:clockwise 30
-[ 2020-04-11  19:45:11.313471 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:45:11.344074 ]:clockwise 30
-[ 2020-04-11  19:45:11.810344 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:45:11.827260 ]:clockwise 30
-[ 2020-04-11  19:45:12.311049 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:45:12.329475 ]:clockwise 30
-[ 2020-04-11  19:45:12.742492 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:45:12.759409 ]:clockwise 30
-[ 2020-04-11  19:45:13.202662 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:45:13.220857 ]:clockwise 30
-[ 2020-04-11  19:45:13.534166 ]:closing of the application
-[ 2020-04-11  19:45:34.551828 ]:drone landing
-[ 2020-04-11  19:45:37.589434 ]:drone taking off
-[ 2020-04-11  19:45:39.055963 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:45:39.086892 ]:clockwise 30
-[ 2020-04-11  19:45:40.692232 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:45:40.714204 ]:clockwise 30
-[ 2020-04-11  19:45:41.200928 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:45:41.218478 ]:clockwise 30
-[ 2020-04-11  19:45:41.704455 ]:clockwise 0
-[ 2020-04-11  19:45:41.704455 ]:up 20
-[ 2020-04-11  19:45:42.223320 ]:face not found
-[ 2020-04-11  19:45:42.241298 ]:clockwise 0
-[ 2020-04-11  19:45:42.242270 ]:up 20
-[ 2020-04-11  19:45:42.697052 ]:face not found
-[ 2020-04-11  19:45:42.714738 ]:clockwise 0
-[ 2020-04-11  19:45:42.714738 ]:up 20
-[ 2020-04-11  19:45:43.320102 ]:face not found
-[ 2020-04-11  19:45:43.341577 ]:clockwise 0
-[ 2020-04-11  19:45:43.341577 ]:up 20
-[ 2020-04-11  19:45:43.794539 ]:face not found
-[ 2020-04-11  19:45:43.810720 ]:clockwise 0
-[ 2020-04-11  19:45:43.811495 ]:up 20
-[ 2020-04-11  19:45:44.301226 ]:face not found
-[ 2020-04-11  19:45:44.320230 ]:clockwise 0
-[ 2020-04-11  19:45:44.320230 ]:up 20
-[ 2020-04-11  19:45:44.776346 ]:face not found
-[ 2020-04-11  19:45:44.794775 ]:clockwise 0
-[ 2020-04-11  19:45:44.795710 ]:up 20
-[ 2020-04-11  19:45:45.268628 ]:face not found
-[ 2020-04-11  19:45:45.285799 ]:clockwise 0
-[ 2020-04-11  19:45:45.286544 ]:up 20
-[ 2020-04-11  19:45:45.824034 ]:face not found
-[ 2020-04-11  19:45:45.841976 ]:clockwise 0
-[ 2020-04-11  19:45:45.842913 ]:up 20
-[ 2020-04-11  19:45:46.350358 ]:face not found
-[ 2020-04-11  19:45:46.368472 ]:clockwise 0
-[ 2020-04-11  19:45:46.369268 ]:up 20
-[ 2020-04-11  19:45:46.875773 ]:face not found
-[ 2020-04-11  19:45:46.893801 ]:clockwise 0
-[ 2020-04-11  19:45:46.893801 ]:up 20
-[ 2020-04-11  19:45:47.313601 ]:face not found
-[ 2020-04-11  19:45:47.332998 ]:clockwise 0
-[ 2020-04-11  19:45:47.332998 ]:up 20
-[ 2020-04-11  19:45:47.750786 ]:face not found
-[ 2020-04-11  19:45:47.767748 ]:clockwise 0
-[ 2020-04-11  19:45:47.768738 ]:up 20
-[ 2020-04-11  19:45:48.180280 ]:face not found
-[ 2020-04-11  19:45:48.197744 ]:clockwise 0
-[ 2020-04-11  19:45:48.197744 ]:up 20
-[ 2020-04-11  19:45:48.628640 ]:face not found
-[ 2020-04-11  19:45:48.648177 ]:clockwise 0
-[ 2020-04-11  19:45:48.648177 ]:up 20
-[ 2020-04-11  19:45:49.155351 ]:face not found
-[ 2020-04-11  19:45:49.174299 ]:clockwise 0
-[ 2020-04-11  19:45:49.174299 ]:up 20
-[ 2020-04-11  19:45:49.706013 ]:face not found
-[ 2020-04-11  19:45:49.724965 ]:clockwise 0
-[ 2020-04-11  19:45:49.726058 ]:up 20
-[ 2020-04-11  19:45:50.203872 ]:clockwise 0
-[ 2020-04-11  19:45:50.204663 ]:up 20.0
-[ 2020-04-11  19:45:50.802792 ]:clockwise 3.0
-[ 2020-04-11  19:45:50.803793 ]:up 20
-[ 2020-04-11  19:45:51.344566 ]:clockwise 0
-[ 2020-04-11  19:45:51.344566 ]:up 20.0
-[ 2020-04-11  19:45:51.761539 ]:clockwise 0
-[ 2020-04-11  19:45:51.761539 ]:up 18.0
-[ 2020-04-11  19:45:52.235060 ]:clockwise -20
-[ 2020-04-11  19:45:52.235060 ]:up 15.0
-[ 2020-04-11  19:45:52.646804 ]:face not found
-[ 2020-04-11  19:45:52.665943 ]:clockwise -20
-[ 2020-04-11  19:45:52.666714 ]:up 15.0
-[ 2020-04-11  19:45:53.087581 ]:face not found
-[ 2020-04-11  19:45:53.110544 ]:clockwise -20
-[ 2020-04-11  19:45:53.111519 ]:up 15.0
-[ 2020-04-11  19:45:53.523554 ]:face not found
-[ 2020-04-11  19:45:53.542441 ]:clockwise -20
-[ 2020-04-11  19:45:53.542441 ]:up 15.0
-[ 2020-04-11  19:45:54.108992 ]:clockwise -20
-[ 2020-04-11  19:45:54.109984 ]:up 0
-[ 2020-04-11  19:45:54.607152 ]:clockwise 0
-[ 2020-04-11  19:45:54.608088 ]:up 0
-[ 2020-04-11  19:45:55.124600 ]:clockwise 0
-[ 2020-04-11  19:45:55.124600 ]:up 0
-[ 2020-04-11  19:45:55.695041 ]:clockwise 17.0
-[ 2020-04-11  19:45:55.695041 ]:up -20
-[ 2020-04-11  19:45:56.130381 ]:face not found
-[ 2020-04-11  19:45:56.149293 ]:clockwise 17.0
-[ 2020-04-11  19:45:56.149293 ]:up -20
-[ 2020-04-11  19:45:56.626029 ]:face not found
-[ 2020-04-11  19:45:56.646094 ]:clockwise 17.0
-[ 2020-04-11  19:45:56.646094 ]:up -20
-[ 2020-04-11  19:45:57.108707 ]:face not found
-[ 2020-04-11  19:45:57.125598 ]:clockwise 17.0
-[ 2020-04-11  19:45:57.126595 ]:up -20
-[ 2020-04-11  19:45:57.253843 ]:drone landing
-[ 2020-04-11  19:46:02.980112 ]:closing of the application
-[ 2020-04-11  19:53:27.491976 ]:drone taking off
-[ 2020-04-11  19:53:28.954933 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:53:28.983117 ]:clockwise 30
-[ 2020-04-11  19:53:30.519122 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:53:30.536095 ]:clockwise 30
-[ 2020-04-11  19:53:31.012856 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:53:31.032337 ]:clockwise 30
-[ 2020-04-11  19:53:31.475221 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:53:31.491572 ]:clockwise 30
-[ 2020-04-11  19:53:31.980357 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:53:31.997850 ]:clockwise 30
-[ 2020-04-11  19:53:32.452274 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:53:32.470252 ]:clockwise 30
-[ 2020-04-11  19:53:32.912948 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:53:32.931148 ]:clockwise 30
-[ 2020-04-11  19:53:33.377824 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:53:33.395751 ]:clockwise 30
-[ 2020-04-11  19:53:33.846765 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:53:33.865133 ]:clockwise 30
-[ 2020-04-11  19:53:34.383706 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:53:34.399639 ]:clockwise 30
-[ 2020-04-11  19:53:34.907933 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:53:34.926387 ]:clockwise 30
-[ 2020-04-11  19:53:35.337471 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:53:35.354362 ]:clockwise 30
-[ 2020-04-11  19:53:35.888277 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:53:35.905876 ]:clockwise 30
-[ 2020-04-11  19:53:36.348543 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:53:36.365479 ]:clockwise 30
-[ 2020-04-11  19:53:36.807826 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:53:36.825325 ]:clockwise 30
-[ 2020-04-11  19:53:37.279093 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:53:37.297385 ]:clockwise 30
-[ 2020-04-11  19:53:37.708922 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:53:37.727835 ]:clockwise 30
-[ 2020-04-11  19:53:38.250344 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:53:38.268808 ]:clockwise 30
-[ 2020-04-11  19:53:38.809801 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:53:38.827188 ]:clockwise 30
-[ 2020-04-11  19:53:39.309200 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:53:39.328829 ]:clockwise 30
-[ 2020-04-11  19:53:39.853875 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:53:39.871827 ]:clockwise 30
-[ 2020-04-11  19:53:40.376356 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:53:40.395495 ]:clockwise 30
-[ 2020-04-11  19:53:40.808254 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:53:40.828678 ]:clockwise 30
-[ 2020-04-11  19:53:41.290823 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:53:41.309307 ]:clockwise 30
-[ 2020-04-11  19:53:41.752915 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:53:41.770065 ]:clockwise 30
-[ 2020-04-11  19:53:42.328883 ]:clockwise 0
-[ 2020-04-11  19:53:42.329850 ]:up 20.0
-[ 2020-04-11  19:53:42.895652 ]:face not found
-[ 2020-04-11  19:53:42.912823 ]:clockwise 0
-[ 2020-04-11  19:53:42.913574 ]:up 20.0
-[ 2020-04-11  19:53:43.381143 ]:face not found
-[ 2020-04-11  19:53:43.398871 ]:clockwise 0
-[ 2020-04-11  19:53:43.398871 ]:up 20.0
-[ 2020-04-11  19:53:43.945189 ]:face not found
-[ 2020-04-11  19:53:43.962360 ]:clockwise 0
-[ 2020-04-11  19:53:43.963101 ]:up 20.0
-[ 2020-04-11  19:53:44.375054 ]:face not found
-[ 2020-04-11  19:53:44.392589 ]:clockwise 0
-[ 2020-04-11  19:53:44.392589 ]:up 20.0
-[ 2020-04-11  19:53:44.809042 ]:face not found
-[ 2020-04-11  19:53:44.827495 ]:clockwise 0
-[ 2020-04-11  19:53:44.828275 ]:up 20.0
-[ 2020-04-11  19:53:45.285747 ]:face not found
-[ 2020-04-11  19:53:45.303700 ]:clockwise 0
-[ 2020-04-11  19:53:45.305702 ]:up 20.0
-[ 2020-04-11  19:53:45.783581 ]:face not found
-[ 2020-04-11  19:53:45.799754 ]:clockwise 0
-[ 2020-04-11  19:53:45.800755 ]:up 20.0
-[ 2020-04-11  19:53:46.234580 ]:face not found
-[ 2020-04-11  19:53:46.251238 ]:clockwise 0
-[ 2020-04-11  19:53:46.252175 ]:up 20.0
-[ 2020-04-11  19:53:46.673819 ]:face not found
-[ 2020-04-11  19:53:46.691189 ]:clockwise 0
-[ 2020-04-11  19:53:46.691189 ]:up 20.0
-[ 2020-04-11  19:53:47.142527 ]:face not found
-[ 2020-04-11  19:53:47.161700 ]:clockwise 0
-[ 2020-04-11  19:53:47.162475 ]:up 20.0
-[ 2020-04-11  19:53:47.639260 ]:face not found
-[ 2020-04-11  19:53:47.659413 ]:clockwise 0
-[ 2020-04-11  19:53:47.660170 ]:up 20.0
-[ 2020-04-11  19:53:48.079281 ]:face not found
-[ 2020-04-11  19:53:48.095815 ]:clockwise 0
-[ 2020-04-11  19:53:48.096587 ]:up 20.0
-[ 2020-04-11  19:53:48.505030 ]:face not found
-[ 2020-04-11  19:53:48.522982 ]:clockwise 0
-[ 2020-04-11  19:53:48.525974 ]:up 20.0
-[ 2020-04-11  19:53:48.954769 ]:clockwise 0
-[ 2020-04-11  19:53:48.955766 ]:up 20
-[ 2020-04-11  19:53:49.457276 ]:clockwise 0
-[ 2020-04-11  19:53:49.457276 ]:up 20
-[ 2020-04-11  19:53:49.967801 ]:clockwise 0
-[ 2020-04-11  19:53:49.967801 ]:up 17.0
-[ 2020-04-11  19:53:50.402325 ]:clockwise 0
-[ 2020-04-11  19:53:50.403323 ]:up 15.0
-[ 2020-04-11  19:53:50.868506 ]:clockwise -20
-[ 2020-04-11  19:53:50.869224 ]:up 10.0
-[ 2020-04-11  19:53:51.361371 ]:clockwise -20
-[ 2020-04-11  19:53:51.362164 ]:up 8.0
-[ 2020-04-11  19:53:51.796151 ]:clockwise 0
-[ 2020-04-11  19:53:51.797088 ]:up 6.0
-[ 2020-04-11  19:53:52.334826 ]:clockwise -20
-[ 2020-04-11  19:53:52.334826 ]:up 7.0
-[ 2020-04-11  19:53:52.770513 ]:clockwise -20
-[ 2020-04-11  19:53:52.770513 ]:up 8.0
-[ 2020-04-11  19:53:53.231164 ]:clockwise -20
-[ 2020-04-11  19:53:53.231771 ]:up 5.0
-[ 2020-04-11  19:53:53.709518 ]:clockwise -20
-[ 2020-04-11  19:53:53.709518 ]:up 0
-[ 2020-04-11  19:53:54.246760 ]:face not found
-[ 2020-04-11  19:53:54.265167 ]:clockwise -20
-[ 2020-04-11  19:53:54.265167 ]:up 0
-[ 2020-04-11  19:53:54.673631 ]:face not found
-[ 2020-04-11  19:53:54.691140 ]:clockwise -20
-[ 2020-04-11  19:53:54.691874 ]:up 0
-[ 2020-04-11  19:53:55.107764 ]:face not found
-[ 2020-04-11  19:53:55.125128 ]:clockwise -20
-[ 2020-04-11  19:53:55.126063 ]:up 0
-[ 2020-04-11  19:53:55.693944 ]:clockwise -20
-[ 2020-04-11  19:53:55.693944 ]:up 0
-[ 2020-04-11  19:53:56.198335 ]:clockwise 0
-[ 2020-04-11  19:53:56.199319 ]:up 0
-[ 2020-04-11  19:53:56.691094 ]:clockwise -20
-[ 2020-04-11  19:53:56.691094 ]:up 0
-[ 2020-04-11  19:53:57.193103 ]:clockwise -20
-[ 2020-04-11  19:53:57.193945 ]:up 0
-[ 2020-04-11  19:53:57.630410 ]:clockwise -20
-[ 2020-04-11  19:53:57.630410 ]:up 0
-[ 2020-04-11  19:53:58.083964 ]:face not found
-[ 2020-04-11  19:53:58.100989 ]:clockwise -20
-[ 2020-04-11  19:53:58.101916 ]:up 0
-[ 2020-04-11  19:53:58.616533 ]:face not found
-[ 2020-04-11  19:53:58.633456 ]:clockwise -20
-[ 2020-04-11  19:53:58.634454 ]:up 0
-[ 2020-04-11  19:53:59.187253 ]:face not found
-[ 2020-04-11  19:53:59.204245 ]:clockwise -20
-[ 2020-04-11  19:53:59.204245 ]:up 0
-[ 2020-04-11  19:53:59.601951 ]:face not found
-[ 2020-04-11  19:53:59.619869 ]:clockwise -20
-[ 2020-04-11  19:53:59.620867 ]:up 0
-[ 2020-04-11  19:54:00.147857 ]:face not found
-[ 2020-04-11  19:54:00.163874 ]:clockwise -20
-[ 2020-04-11  19:54:00.164810 ]:up 0
-[ 2020-04-11  19:54:00.579881 ]:face not found
-[ 2020-04-11  19:54:00.602821 ]:clockwise -20
-[ 2020-04-11  19:54:00.603819 ]:up 0
-[ 2020-04-11  19:54:01.006030 ]:face not found
-[ 2020-04-11  19:54:01.023348 ]:clockwise -20
-[ 2020-04-11  19:54:01.023348 ]:up 0
-[ 2020-04-11  19:54:01.475589 ]:face not found
-[ 2020-04-11  19:54:01.492563 ]:clockwise -20
-[ 2020-04-11  19:54:01.493501 ]:up 0
-[ 2020-04-11  19:54:01.907940 ]:face not found
-[ 2020-04-11  19:54:01.926158 ]:clockwise -20
-[ 2020-04-11  19:54:01.926158 ]:up 0
-[ 2020-04-11  19:54:02.435761 ]:face not found
-[ 2020-04-11  19:54:02.454151 ]:clockwise -20
-[ 2020-04-11  19:54:02.455148 ]:up 0
-[ 2020-04-11  19:54:02.904980 ]:face not found
-[ 2020-04-11  19:54:02.923181 ]:clockwise -20
-[ 2020-04-11  19:54:02.924174 ]:up 0
-[ 2020-04-11  19:54:03.448916 ]:face not found
-[ 2020-04-11  19:54:03.465933 ]:clockwise -20
-[ 2020-04-11  19:54:03.466869 ]:up 0
-[ 2020-04-11  19:54:03.951069 ]:face not found
-[ 2020-04-11  19:54:03.968338 ]:clockwise -20
-[ 2020-04-11  19:54:03.969341 ]:up 0
-[ 2020-04-11  19:54:04.374518 ]:face not found
-[ 2020-04-11  19:54:04.391448 ]:clockwise -20
-[ 2020-04-11  19:54:04.392435 ]:up 0
-[ 2020-04-11  19:54:04.800548 ]:face not found
-[ 2020-04-11  19:54:04.821459 ]:clockwise -20
-[ 2020-04-11  19:54:04.822448 ]:up 0
-[ 2020-04-11  19:54:05.274242 ]:face not found
-[ 2020-04-11  19:54:05.293190 ]:clockwise -20
-[ 2020-04-11  19:54:05.294188 ]:up 0
-[ 2020-04-11  19:54:05.704905 ]:face not found
-[ 2020-04-11  19:54:05.721868 ]:clockwise -20
-[ 2020-04-11  19:54:05.722806 ]:up 0
-[ 2020-04-11  19:54:06.253156 ]:face not found
-[ 2020-04-11  19:54:06.271442 ]:clockwise -20
-[ 2020-04-11  19:54:06.271442 ]:up 0
-[ 2020-04-11  19:54:06.830005 ]:clockwise -20
-[ 2020-04-11  19:54:06.830941 ]:up 0
-[ 2020-04-11  19:54:07.294437 ]:clockwise 0
-[ 2020-04-11  19:54:07.294437 ]:up 0
-[ 2020-04-11  19:54:07.763142 ]:clockwise 13.0
-[ 2020-04-11  19:54:07.763142 ]:up 0
-[ 2020-04-11  19:54:08.223541 ]:clockwise 0
-[ 2020-04-11  19:54:08.223541 ]:up 0
-[ 2020-04-11  19:54:08.675096 ]:face not found
-[ 2020-04-11  19:54:08.692075 ]:clockwise 0
-[ 2020-04-11  19:54:08.693012 ]:up 0
-[ 2020-04-11  19:54:09.200634 ]:clockwise 15.0
-[ 2020-04-11  19:54:09.201367 ]:up -20
-[ 2020-04-11  19:54:09.776123 ]:clockwise 12.0
-[ 2020-04-11  19:54:09.777059 ]:up -20
-[ 2020-04-11  19:54:10.195571 ]:clockwise 9.0
-[ 2020-04-11  19:54:10.195571 ]:up -20
-[ 2020-04-11  19:54:10.623312 ]:clockwise 7.0
-[ 2020-04-11  19:54:10.624068 ]:up -20
-[ 2020-04-11  19:54:11.089637 ]:clockwise 6.0
-[ 2020-04-11  19:54:11.090605 ]:up 0
-[ 2020-04-11  19:54:11.528282 ]:clockwise 6.0
-[ 2020-04-11  19:54:11.529251 ]:up 0
-[ 2020-04-11  19:54:12.046076 ]:clockwise 4.0
-[ 2020-04-11  19:54:12.046853 ]:up 0
-[ 2020-04-11  19:54:12.488693 ]:clockwise 0
-[ 2020-04-11  19:54:12.488693 ]:up 0
-[ 2020-04-11  19:54:12.919042 ]:clockwise 0
-[ 2020-04-11  19:54:12.919042 ]:up 0
-[ 2020-04-11  19:54:13.387749 ]:clockwise 0
-[ 2020-04-11  19:54:13.387749 ]:up 0
-[ 2020-04-11  19:54:13.821548 ]:clockwise 3.0
-[ 2020-04-11  19:54:13.822558 ]:up 0
-[ 2020-04-11  19:54:14.294779 ]:clockwise 0
-[ 2020-04-11  19:54:14.294779 ]:up -20
-[ 2020-04-11  19:54:14.703979 ]:face not found
-[ 2020-04-11  19:54:14.720950 ]:clockwise 0
-[ 2020-04-11  19:54:14.721888 ]:up -20
-[ 2020-04-11  19:54:15.170300 ]:face not found
-[ 2020-04-11  19:54:15.187715 ]:clockwise 0
-[ 2020-04-11  19:54:15.187715 ]:up -20
-[ 2020-04-11  19:54:15.635839 ]:face not found
-[ 2020-04-11  19:54:15.654081 ]:clockwise 0
-[ 2020-04-11  19:54:15.654081 ]:up -20
-[ 2020-04-11  19:54:16.072034 ]:face not found
-[ 2020-04-11  19:54:16.089238 ]:clockwise 0
-[ 2020-04-11  19:54:16.089985 ]:up -20
-[ 2020-04-11  19:54:16.522408 ]:face not found
-[ 2020-04-11  19:54:16.540781 ]:clockwise 0
-[ 2020-04-11  19:54:16.540781 ]:up -20
-[ 2020-04-11  19:54:16.999991 ]:face not found
-[ 2020-04-11  19:54:17.019501 ]:clockwise 0
-[ 2020-04-11  19:54:17.019501 ]:up -20
-[ 2020-04-11  19:54:17.465895 ]:face not found
-[ 2020-04-11  19:54:17.483603 ]:clockwise 0
-[ 2020-04-11  19:54:17.484223 ]:up -20
-[ 2020-04-11  19:54:18.102216 ]:clockwise 0
-[ 2020-04-11  19:54:18.103153 ]:up -20
-[ 2020-04-11  19:54:18.601144 ]:clockwise 0
-[ 2020-04-11  19:54:18.601144 ]:up -20
-[ 2020-04-11  19:54:19.089131 ]:clockwise 0
-[ 2020-04-11  19:54:19.089131 ]:up 0
-[ 2020-04-11  19:54:19.524282 ]:clockwise 0
-[ 2020-04-11  19:54:19.525005 ]:up 0
-[ 2020-04-11  19:54:20.024101 ]:clockwise 0
-[ 2020-04-11  19:54:20.025070 ]:up 0
-[ 2020-04-11  19:54:20.463809 ]:clockwise 0
-[ 2020-04-11  19:54:20.464783 ]:up 3.0
-[ 2020-04-11  19:54:20.877942 ]:face not found
-[ 2020-04-11  19:54:20.895938 ]:clockwise 0
-[ 2020-04-11  19:54:20.896935 ]:up 3.0
-[ 2020-04-11  19:54:21.376122 ]:face not found
-[ 2020-04-11  19:54:21.394296 ]:clockwise 0
-[ 2020-04-11  19:54:21.395073 ]:up 3.0
-[ 2020-04-11  19:54:21.881504 ]:face not found
-[ 2020-04-11  19:54:21.899461 ]:clockwise 0
-[ 2020-04-11  19:54:21.900454 ]:up 3.0
-[ 2020-04-11  19:54:22.372330 ]:face not found
-[ 2020-04-11  19:54:22.394502 ]:clockwise 0
-[ 2020-04-11  19:54:22.396501 ]:up 3.0
-[ 2020-04-11  19:54:22.843163 ]:face not found
-[ 2020-04-11  19:54:22.860173 ]:clockwise 0
-[ 2020-04-11  19:54:22.861182 ]:up 3.0
-[ 2020-04-11  19:54:23.304952 ]:face not found
-[ 2020-04-11  19:54:23.324209 ]:clockwise 0
-[ 2020-04-11  19:54:23.324209 ]:up 3.0
-[ 2020-04-11  19:54:23.887467 ]:face not found
-[ 2020-04-11  19:54:23.904653 ]:clockwise 0
-[ 2020-04-11  19:54:23.905485 ]:up 3.0
-[ 2020-04-11  19:54:24.446715 ]:face not found
-[ 2020-04-11  19:54:24.466721 ]:clockwise 0
-[ 2020-04-11  19:54:24.467657 ]:up 3.0
-[ 2020-04-11  19:54:24.943701 ]:face not found
-[ 2020-04-11  19:54:24.960651 ]:clockwise 0
-[ 2020-04-11  19:54:24.961644 ]:up 3.0
-[ 2020-04-11  19:54:25.421894 ]:clockwise 0
-[ 2020-04-11  19:54:25.421894 ]:up 20
-[ 2020-04-11  19:54:25.888070 ]:clockwise 0
-[ 2020-04-11  19:54:25.889068 ]:up 18.0
-[ 2020-04-11  19:54:26.366943 ]:clockwise 0
-[ 2020-04-11  19:54:26.366943 ]:up 12.0
-[ 2020-04-11  19:54:26.808304 ]:face not found
-[ 2020-04-11  19:54:26.824214 ]:clockwise 0
-[ 2020-04-11  19:54:26.825211 ]:up 12.0
-[ 2020-04-11  19:54:27.279749 ]:face not found
-[ 2020-04-11  19:54:27.298005 ]:clockwise 0
-[ 2020-04-11  19:54:27.298005 ]:up 12.0
-[ 2020-04-11  19:54:27.741246 ]:face not found
-[ 2020-04-11  19:54:27.759228 ]:clockwise 0
-[ 2020-04-11  19:54:27.760237 ]:up 12.0
-[ 2020-04-11  19:54:28.239604 ]:face not found
-[ 2020-04-11  19:54:28.256526 ]:clockwise 0
-[ 2020-04-11  19:54:28.257524 ]:up 12.0
-[ 2020-04-11  19:54:28.674421 ]:face not found
-[ 2020-04-11  19:54:28.697374 ]:clockwise 0
-[ 2020-04-11  19:54:28.698311 ]:up 12.0
-[ 2020-04-11  19:54:29.192714 ]:clockwise 0
-[ 2020-04-11  19:54:29.193564 ]:up 20
-[ 2020-04-11  19:54:29.776340 ]:clockwise 20
-[ 2020-04-11  19:54:29.777342 ]:up 17.0
-[ 2020-04-11  19:54:30.274356 ]:face not found
-[ 2020-04-11  19:54:30.291350 ]:clockwise 20
-[ 2020-04-11  19:54:30.291350 ]:up 17.0
-[ 2020-04-11  19:54:30.770763 ]:face not found
-[ 2020-04-11  19:54:30.787187 ]:clockwise 20
-[ 2020-04-11  19:54:30.787187 ]:up 17.0
-[ 2020-04-11  19:54:31.268483 ]:face not found
-[ 2020-04-11  19:54:31.285499 ]:clockwise 20
-[ 2020-04-11  19:54:31.286435 ]:up 17.0
-[ 2020-04-11  19:54:31.762320 ]:face not found
-[ 2020-04-11  19:54:31.777274 ]:clockwise 20
-[ 2020-04-11  19:54:31.778269 ]:up 17.0
-[ 2020-04-11  19:54:32.268509 ]:face not found
-[ 2020-04-11  19:54:32.286258 ]:clockwise 20
-[ 2020-04-11  19:54:32.286258 ]:up 17.0
-[ 2020-04-11  19:54:32.770380 ]:face not found
-[ 2020-04-11  19:54:32.787876 ]:clockwise 20
-[ 2020-04-11  19:54:32.788612 ]:up 17.0
-[ 2020-04-11  19:54:33.301508 ]:face not found
-[ 2020-04-11  19:54:33.324451 ]:clockwise 20
-[ 2020-04-11  19:54:33.325388 ]:up 17.0
-[ 2020-04-11  19:54:33.784130 ]:face not found
-[ 2020-04-11  19:54:33.801392 ]:clockwise 20
-[ 2020-04-11  19:54:33.801392 ]:up 17.0
-[ 2020-04-11  19:54:34.275525 ]:face not found
-[ 2020-04-11  19:54:34.292412 ]:clockwise 20
-[ 2020-04-11  19:54:34.293411 ]:up 17.0
-[ 2020-04-11  19:54:34.698491 ]:face not found
-[ 2020-04-11  19:54:34.714794 ]:clockwise 20
-[ 2020-04-11  19:54:34.715728 ]:up 17.0
-[ 2020-04-11  19:54:35.203402 ]:face not found
-[ 2020-04-11  19:54:35.220528 ]:clockwise 20
-[ 2020-04-11  19:54:35.221309 ]:up 17.0
-[ 2020-04-11  19:54:35.713567 ]:face not found
-[ 2020-04-11  19:54:35.730582 ]:clockwise 20
-[ 2020-04-11  19:54:35.731519 ]:up 17.0
-[ 2020-04-11  19:54:36.253129 ]:face not found
-[ 2020-04-11  19:54:36.270144 ]:clockwise 20
-[ 2020-04-11  19:54:36.271081 ]:up 17.0
-[ 2020-04-11  19:54:36.710574 ]:face not found
-[ 2020-04-11  19:54:36.728572 ]:clockwise 20
-[ 2020-04-11  19:54:36.729565 ]:up 17.0
-[ 2020-04-11  19:54:37.273476 ]:face not found
-[ 2020-04-11  19:54:37.297340 ]:clockwise 20
-[ 2020-04-11  19:54:37.298339 ]:up 17.0
-[ 2020-04-11  19:54:37.772394 ]:face not found
-[ 2020-04-11  19:54:37.796347 ]:clockwise 20
-[ 2020-04-11  19:54:37.797286 ]:up 17.0
-[ 2020-04-11  19:54:38.251914 ]:face not found
-[ 2020-04-11  19:54:38.269095 ]:clockwise 20
-[ 2020-04-11  19:54:38.269866 ]:up 17.0
-[ 2020-04-11  19:54:38.706925 ]:face not found
-[ 2020-04-11  19:54:38.722819 ]:clockwise 20
-[ 2020-04-11  19:54:38.723832 ]:up 17.0
-[ 2020-04-11  19:54:39.137531 ]:face not found
-[ 2020-04-11  19:54:39.155759 ]:clockwise 20
-[ 2020-04-11  19:54:39.155759 ]:up 17.0
-[ 2020-04-11  19:54:39.573701 ]:face not found
-[ 2020-04-11  19:54:39.590840 ]:clockwise 20
-[ 2020-04-11  19:54:39.591588 ]:up 17.0
-[ 2020-04-11  19:54:39.987794 ]:face not found
-[ 2020-04-11  19:54:40.005747 ]:clockwise 20
-[ 2020-04-11  19:54:40.007749 ]:up 17.0
-[ 2020-04-11  19:54:40.444722 ]:face not found
-[ 2020-04-11  19:54:40.461958 ]:clockwise 20
-[ 2020-04-11  19:54:40.462699 ]:up 17.0
-[ 2020-04-11  19:54:40.877444 ]:face not found
-[ 2020-04-11  19:54:40.895001 ]:clockwise 20
-[ 2020-04-11  19:54:40.895001 ]:up 17.0
-[ 2020-04-11  19:54:41.456587 ]:face not found
-[ 2020-04-11  19:54:41.479527 ]:clockwise 20
-[ 2020-04-11  19:54:41.480524 ]:up 17.0
-[ 2020-04-11  19:54:42.119812 ]:face not found
-[ 2020-04-11  19:54:42.142751 ]:clockwise 20
-[ 2020-04-11  19:54:42.143749 ]:up 17.0
-[ 2020-04-11  19:54:42.988489 ]:face not found
-[ 2020-04-11  19:54:43.027386 ]:clockwise 20
-[ 2020-04-11  19:54:43.028383 ]:up 17.0
-[ 2020-04-11  19:54:43.923988 ]:face not found
-[ 2020-04-11  19:54:43.947922 ]:clockwise 20
-[ 2020-04-11  19:54:43.947922 ]:up 17.0
-[ 2020-04-11  19:54:44.320935 ]:drone landing
-[ 2020-04-11  19:54:44.436615 ]:drone landing
-[ 2020-04-11  19:54:44.622119 ]:drone landing
-[ 2020-04-11  19:54:44.883370 ]:drone landing
-[ 2020-04-11  19:54:45.519480 ]:drone landing
-[ 2020-04-11  19:54:45.665091 ]:drone landing
-[ 2020-04-11  19:54:45.819639 ]:drone landing
-[ 2020-04-11  19:56:48.834813 ]:drone taking off
-[ 2020-04-11  19:56:50.469269 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:56:50.507002 ]:clockwise 30
-[ 2020-04-11  19:56:52.000213 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:56:52.021183 ]:clockwise 30
-[ 2020-04-11  19:56:52.494836 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:56:52.513330 ]:clockwise 30
-[ 2020-04-11  19:56:52.998442 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:56:53.015564 ]:clockwise 30
-[ 2020-04-11  19:56:53.430421 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:56:53.448926 ]:clockwise 30
-[ 2020-04-11  19:56:53.929265 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:56:53.946731 ]:clockwise 30
-[ 2020-04-11  19:56:54.360382 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:56:54.378371 ]:clockwise 30
-[ 2020-04-11  19:56:54.895777 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:56:54.913241 ]:clockwise 30
-[ 2020-04-11  19:56:55.334881 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:56:55.352315 ]:clockwise 30
-[ 2020-04-11  19:56:55.777514 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:56:55.795533 ]:clockwise 30
-[ 2020-04-11  19:56:56.299885 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:56:56.324006 ]:clockwise 30
-[ 2020-04-11  19:56:56.763865 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:56:56.781998 ]:clockwise 30
-[ 2020-04-11  19:56:57.335141 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:56:57.353434 ]:clockwise 30
-[ 2020-04-11  19:56:57.821898 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:56:57.838815 ]:clockwise 30
-[ 2020-04-11  19:56:58.260149 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:56:58.281074 ]:clockwise 30
-[ 2020-04-11  19:56:58.702727 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:56:58.719951 ]:clockwise 30
-[ 2020-04-11  19:56:59.146371 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:56:59.164846 ]:clockwise 30
-[ 2020-04-11  19:56:59.646399 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:56:59.664284 ]:clockwise 30
-[ 2020-04-11  19:57:00.066866 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:57:00.084309 ]:clockwise 30
-[ 2020-04-11  19:57:00.671183 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:57:00.688389 ]:clockwise 30
-[ 2020-04-11  19:57:01.119292 ]:clockwise 0
-[ 2020-04-11  19:57:01.120293 ]:up 12.0
-[ 2020-04-11  19:57:01.664994 ]:clockwise 0
-[ 2020-04-11  19:57:01.664994 ]:up 11.0
-[ 2020-04-11  19:57:02.156371 ]:clockwise 0
-[ 2020-04-11  19:57:02.157310 ]:up 20
-[ 2020-04-11  19:57:02.575640 ]:clockwise 0
-[ 2020-04-11  19:57:02.575640 ]:up 20
-[ 2020-04-11  19:57:03.097458 ]:face not found
-[ 2020-04-11  19:57:03.115076 ]:clockwise 0
-[ 2020-04-11  19:57:03.115822 ]:up 20
-[ 2020-04-11  19:57:03.569113 ]:face not found
-[ 2020-04-11  19:57:03.587052 ]:clockwise 0
-[ 2020-04-11  19:57:03.588021 ]:up 20
-[ 2020-04-11  19:57:04.120797 ]:face not found
-[ 2020-04-11  19:57:04.138028 ]:clockwise 0
-[ 2020-04-11  19:57:04.138028 ]:up 20
-[ 2020-04-11  19:57:04.612901 ]:clockwise 0
-[ 2020-04-11  19:57:04.613898 ]:up 20
-[ 2020-04-11  19:57:05.153141 ]:clockwise 0
-[ 2020-04-11  19:57:05.153141 ]:up 20
-[ 2020-04-11  19:57:05.577268 ]:clockwise 0
-[ 2020-04-11  19:57:05.577268 ]:up 20.0
-[ 2020-04-11  19:57:06.115230 ]:clockwise -20
-[ 2020-04-11  19:57:06.115230 ]:up 16.0
-[ 2020-04-11  19:57:06.581991 ]:clockwise -20
-[ 2020-04-11  19:57:06.582926 ]:up 12.0
-[ 2020-04-11  19:57:07.046763 ]:clockwise -20
-[ 2020-04-11  19:57:07.047510 ]:up 7.0
-[ 2020-04-11  19:57:07.482775 ]:clockwise -20
-[ 2020-04-11  19:57:07.482775 ]:up 7.0
-[ 2020-04-11  19:57:07.987867 ]:clockwise -20
-[ 2020-04-11  19:57:07.988647 ]:up 10.0
-[ 2020-04-11  19:57:08.462919 ]:face not found
-[ 2020-04-11  19:57:08.480049 ]:clockwise -20
-[ 2020-04-11  19:57:08.480049 ]:up 10.0
-[ 2020-04-11  19:57:08.927803 ]:face not found
-[ 2020-04-11  19:57:08.945656 ]:clockwise -20
-[ 2020-04-11  19:57:08.945656 ]:up 10.0
-[ 2020-04-11  19:57:09.412660 ]:clockwise 20
-[ 2020-04-11  19:57:09.412660 ]:up 0
-[ 2020-04-11  19:57:09.829373 ]:face not found
-[ 2020-04-11  19:57:09.845677 ]:clockwise 20
-[ 2020-04-11  19:57:09.845677 ]:up 0
-[ 2020-04-11  19:57:10.263150 ]:face not found
-[ 2020-04-11  19:57:10.280080 ]:clockwise 20
-[ 2020-04-11  19:57:10.280080 ]:up 0
-[ 2020-04-11  19:57:10.849434 ]:face not found
-[ 2020-04-11  19:57:10.866607 ]:clockwise 20
-[ 2020-04-11  19:57:10.867391 ]:up 0
-[ 2020-04-11  19:57:11.298193 ]:face not found
-[ 2020-04-11  19:57:11.315142 ]:clockwise 20
-[ 2020-04-11  19:57:11.316109 ]:up 0
-[ 2020-04-11  19:57:11.810042 ]:face not found
-[ 2020-04-11  19:57:11.826037 ]:clockwise 20
-[ 2020-04-11  19:57:11.826975 ]:up 0
-[ 2020-04-11  19:57:12.256781 ]:clockwise -20
-[ 2020-04-11  19:57:12.256781 ]:up 5.0
-[ 2020-04-11  19:57:12.762136 ]:clockwise 0
-[ 2020-04-11  19:57:12.763074 ]:up 12.0
-[ 2020-04-11  19:57:13.343747 ]:clockwise 0
-[ 2020-04-11  19:57:13.343747 ]:up 19.0
-[ 2020-04-11  19:57:13.843417 ]:clockwise 0
-[ 2020-04-11  19:57:13.843417 ]:up 20
-[ 2020-04-11  19:57:14.395205 ]:clockwise -20
-[ 2020-04-11  19:57:14.395205 ]:up 18.0
-[ 2020-04-11  19:57:14.896444 ]:clockwise -20
-[ 2020-04-11  19:57:14.897189 ]:up 12.0
-[ 2020-04-11  19:57:15.517627 ]:clockwise -20
-[ 2020-04-11  19:57:15.517627 ]:up 0
-[ 2020-04-11  19:57:15.980169 ]:clockwise -20
-[ 2020-04-11  19:57:15.980805 ]:up 0
-[ 2020-04-11  19:57:16.393262 ]:face not found
-[ 2020-04-11  19:57:16.410932 ]:clockwise -20
-[ 2020-04-11  19:57:16.411681 ]:up 0
-[ 2020-04-11  19:57:16.927163 ]:face not found
-[ 2020-04-11  19:57:16.944983 ]:clockwise -20
-[ 2020-04-11  19:57:16.944983 ]:up 0
-[ 2020-04-11  19:57:17.465593 ]:face not found
-[ 2020-04-11  19:57:17.492879 ]:clockwise -20
-[ 2020-04-11  19:57:17.492879 ]:up 0
-[ 2020-04-11  19:57:17.931707 ]:face not found
-[ 2020-04-11  19:57:17.948688 ]:clockwise -20
-[ 2020-04-11  19:57:17.949686 ]:up 0
-[ 2020-04-11  19:57:18.454463 ]:face not found
-[ 2020-04-11  19:57:18.476476 ]:clockwise -20
-[ 2020-04-11  19:57:18.477401 ]:up 0
-[ 2020-04-11  19:57:18.957987 ]:face not found
-[ 2020-04-11  19:57:18.975466 ]:clockwise -20
-[ 2020-04-11  19:57:18.975466 ]:up 0
-[ 2020-04-11  19:57:19.401831 ]:face not found
-[ 2020-04-11  19:57:19.419784 ]:clockwise -20
-[ 2020-04-11  19:57:19.420780 ]:up 0
-[ 2020-04-11  19:57:19.930057 ]:face not found
-[ 2020-04-11  19:57:19.947227 ]:clockwise -20
-[ 2020-04-11  19:57:19.947991 ]:up 0
-[ 2020-04-11  19:57:20.461014 ]:face not found
-[ 2020-04-11  19:57:20.479041 ]:clockwise -20
-[ 2020-04-11  19:57:20.479964 ]:up 0
-[ 2020-04-11  19:57:21.023711 ]:face not found
-[ 2020-04-11  19:57:21.040958 ]:clockwise -20
-[ 2020-04-11  19:57:21.041954 ]:up 0
-[ 2020-04-11  19:57:21.452627 ]:face not found
-[ 2020-04-11  19:57:21.470726 ]:clockwise -20
-[ 2020-04-11  19:57:21.471658 ]:up 0
-[ 2020-04-11  19:57:21.955167 ]:face not found
-[ 2020-04-11  19:57:21.973533 ]:clockwise -20
-[ 2020-04-11  19:57:21.974531 ]:up 0
-[ 2020-04-11  19:57:22.526005 ]:clockwise -20
-[ 2020-04-11  19:57:22.526005 ]:up 0
-[ 2020-04-11  19:57:23.052571 ]:clockwise 0
-[ 2020-04-11  19:57:23.052571 ]:up 0
-[ 2020-04-11  19:57:23.480033 ]:clockwise 0
-[ 2020-04-11  19:57:23.480809 ]:up 0
-[ 2020-04-11  19:57:23.920256 ]:clockwise 0
-[ 2020-04-11  19:57:23.920256 ]:up 0
-[ 2020-04-11  19:57:24.344093 ]:clockwise -20
-[ 2020-04-11  19:57:24.345015 ]:up 0
-[ 2020-04-11  19:57:24.850338 ]:clockwise 0
-[ 2020-04-11  19:57:24.851259 ]:up 0
-[ 2020-04-11  19:57:25.442371 ]:clockwise 0
-[ 2020-04-11  19:57:25.442371 ]:up -20
-[ 2020-04-11  19:57:25.908571 ]:clockwise 7.0
-[ 2020-04-11  19:57:25.909482 ]:up 0
-[ 2020-04-11  19:57:26.386447 ]:clockwise 8.0
-[ 2020-04-11  19:57:26.387423 ]:up 0
-[ 2020-04-11  19:57:26.864849 ]:clockwise 12.0
-[ 2020-04-11  19:57:26.865850 ]:up 0
-[ 2020-04-11  19:57:27.308945 ]:clockwise 11.0
-[ 2020-04-11  19:57:27.308945 ]:up 0
-[ 2020-04-11  19:57:27.897632 ]:clockwise 5.0
-[ 2020-04-11  19:57:27.898436 ]:up 0
-[ 2020-04-11  19:57:28.409305 ]:clockwise 2.0
-[ 2020-04-11  19:57:28.409305 ]:up 0
-[ 2020-04-11  19:57:28.917357 ]:clockwise 0
-[ 2020-04-11  19:57:28.918331 ]:up -20
-[ 2020-04-11  19:57:29.342025 ]:clockwise 8.0
-[ 2020-04-11  19:57:29.342757 ]:up -20
-[ 2020-04-11  19:57:29.849454 ]:clockwise 11.0
-[ 2020-04-11  19:57:29.850447 ]:up -20
-[ 2020-04-11  19:57:30.408927 ]:clockwise 5.0
-[ 2020-04-11  19:57:30.409673 ]:up -20
-[ 2020-04-11  19:57:30.853095 ]:face not found
-[ 2020-04-11  19:57:30.871059 ]:clockwise 5.0
-[ 2020-04-11  19:57:30.871059 ]:up -20
-[ 2020-04-11  19:57:31.310517 ]:clockwise 14.0
-[ 2020-04-11  19:57:31.310517 ]:up -20
-[ 2020-04-11  19:57:31.761134 ]:face not found
-[ 2020-04-11  19:57:31.787136 ]:clockwise 14.0
-[ 2020-04-11  19:57:31.788060 ]:up -20
-[ 2020-04-11  19:57:32.245219 ]:clockwise 0
-[ 2020-04-11  19:57:32.245219 ]:up -20
-[ 2020-04-11  19:57:32.739684 ]:clockwise 0
-[ 2020-04-11  19:57:32.740681 ]:up 0
-[ 2020-04-11  19:57:33.224063 ]:clockwise 0
-[ 2020-04-11  19:57:33.224810 ]:up 0
-[ 2020-04-11  19:57:33.648417 ]:clockwise 0
-[ 2020-04-11  19:57:33.649385 ]:up 0
-[ 2020-04-11  19:57:34.474280 ]:clockwise 0
-[ 2020-04-11  19:57:34.475280 ]:up 0
-[ 2020-04-11  19:57:34.747572 ]:clockwise 4.0
-[ 2020-04-11  19:57:34.748497 ]:up 0
-[ 2020-04-11  19:57:35.196748 ]:face not found
-[ 2020-04-11  19:57:35.214679 ]:clockwise 4.0
-[ 2020-04-11  19:57:35.214679 ]:up 0
-[ 2020-04-11  19:57:35.764991 ]:face not found
-[ 2020-04-11  19:57:35.784574 ]:clockwise 4.0
-[ 2020-04-11  19:57:35.784574 ]:up 0
-[ 2020-04-11  19:57:36.227537 ]:face not found
-[ 2020-04-11  19:57:36.247068 ]:clockwise 4.0
-[ 2020-04-11  19:57:36.247068 ]:up 0
-[ 2020-04-11  19:57:36.712125 ]:face not found
-[ 2020-04-11  19:57:36.729240 ]:clockwise 4.0
-[ 2020-04-11  19:57:36.730014 ]:up 0
-[ 2020-04-11  19:57:37.155028 ]:face not found
-[ 2020-04-11  19:57:37.171945 ]:clockwise 4.0
-[ 2020-04-11  19:57:37.171945 ]:up 0
-[ 2020-04-11  19:57:37.690960 ]:face not found
-[ 2020-04-11  19:57:37.711421 ]:clockwise 4.0
-[ 2020-04-11  19:57:37.712163 ]:up 0
-[ 2020-04-11  19:57:38.160898 ]:face not found
-[ 2020-04-11  19:57:38.180077 ]:clockwise 4.0
-[ 2020-04-11  19:57:38.180889 ]:up 0
-[ 2020-04-11  19:57:38.614445 ]:face not found
-[ 2020-04-11  19:57:38.631836 ]:clockwise 4.0
-[ 2020-04-11  19:57:38.632839 ]:up 0
-[ 2020-04-11  19:57:39.091509 ]:face not found
-[ 2020-04-11  19:57:39.109684 ]:clockwise 4.0
-[ 2020-04-11  19:57:39.110509 ]:up 0
-[ 2020-04-11  19:57:39.560947 ]:face not found
-[ 2020-04-11  19:57:39.578224 ]:clockwise 4.0
-[ 2020-04-11  19:57:39.578952 ]:up 0
-[ 2020-04-11  19:57:40.033674 ]:face not found
-[ 2020-04-11  19:57:40.051467 ]:clockwise 4.0
-[ 2020-04-11  19:57:40.051467 ]:up 0
-[ 2020-04-11  19:57:40.543277 ]:clockwise 4.0
-[ 2020-04-11  19:57:40.544244 ]:up 20
-[ 2020-04-11  19:57:40.978537 ]:clockwise 18.0
-[ 2020-04-11  19:57:40.979313 ]:up 20
-[ 2020-04-11  19:57:41.502266 ]:clockwise 3.0
-[ 2020-04-11  19:57:41.502266 ]:up 19.0
-[ 2020-04-11  19:57:41.989591 ]:clockwise 0
-[ 2020-04-11  19:57:41.990547 ]:up 13.0
-[ 2020-04-11  19:57:42.417228 ]:clockwise 0
-[ 2020-04-11  19:57:42.417997 ]:up 9.0
-[ 2020-04-11  19:57:42.846972 ]:clockwise 3.0
-[ 2020-04-11  19:57:42.847946 ]:up 0
-[ 2020-04-11  19:57:43.339860 ]:clockwise 2.0
-[ 2020-04-11  19:57:43.340856 ]:up 17.0
-[ 2020-04-11  19:57:43.829010 ]:clockwise 0
-[ 2020-04-11  19:57:43.829722 ]:up 20
-[ 2020-04-11  19:57:44.254450 ]:face not found
-[ 2020-04-11  19:57:44.272339 ]:clockwise 0
-[ 2020-04-11  19:57:44.273342 ]:up 20
-[ 2020-04-11  19:57:44.758555 ]:face not found
-[ 2020-04-11  19:57:44.776529 ]:clockwise 0
-[ 2020-04-11  19:57:44.776529 ]:up 20
-[ 2020-04-11  19:57:45.233611 ]:face not found
-[ 2020-04-11  19:57:45.250838 ]:clockwise 0
-[ 2020-04-11  19:57:45.251582 ]:up 20
-[ 2020-04-11  19:57:45.714237 ]:clockwise 0
-[ 2020-04-11  19:57:45.714237 ]:up 20
-[ 2020-04-11  19:57:46.205732 ]:clockwise 0
-[ 2020-04-11  19:57:46.205732 ]:up 18.0
-[ 2020-04-11  19:57:46.667620 ]:clockwise 8.0
-[ 2020-04-11  19:57:46.668362 ]:up 7.0
-[ 2020-04-11  19:57:47.148667 ]:clockwise 10.0
-[ 2020-04-11  19:57:47.156003 ]:up 0
-[ 2020-04-11  19:57:47.609618 ]:clockwise 0
-[ 2020-04-11  19:57:47.609618 ]:up 0
-[ 2020-04-11  19:57:48.115132 ]:clockwise -20
-[ 2020-04-11  19:57:48.115132 ]:up 0
-[ 2020-04-11  19:57:48.526706 ]:face not found
-[ 2020-04-11  19:57:48.542922 ]:clockwise -20
-[ 2020-04-11  19:57:48.543924 ]:up 0
-[ 2020-04-11  19:57:48.960054 ]:face not found
-[ 2020-04-11  19:57:48.977217 ]:clockwise -20
-[ 2020-04-11  19:57:48.977972 ]:up 0
-[ 2020-04-11  19:57:49.447976 ]:face not found
-[ 2020-04-11  19:57:49.466364 ]:clockwise -20
-[ 2020-04-11  19:57:49.467040 ]:up 0
-[ 2020-04-11  19:57:49.989082 ]:face not found
-[ 2020-04-11  19:57:50.005594 ]:clockwise -20
-[ 2020-04-11  19:57:50.006342 ]:up 0
-[ 2020-04-11  19:57:50.453287 ]:face not found
-[ 2020-04-11  19:57:50.470243 ]:clockwise -20
-[ 2020-04-11  19:57:50.470243 ]:up 0
-[ 2020-04-11  19:57:50.939459 ]:face not found
-[ 2020-04-11  19:57:50.955678 ]:clockwise -20
-[ 2020-04-11  19:57:50.956677 ]:up 0
-[ 2020-04-11  19:57:51.458996 ]:face not found
-[ 2020-04-11  19:57:51.476217 ]:clockwise -20
-[ 2020-04-11  19:57:51.477013 ]:up 0
-[ 2020-04-11  19:57:52.125078 ]:face not found
-[ 2020-04-11  19:57:52.142294 ]:clockwise -20
-[ 2020-04-11  19:57:52.142294 ]:up 0
-[ 2020-04-11  19:57:52.625229 ]:face not found
-[ 2020-04-11  19:57:52.642392 ]:clockwise -20
-[ 2020-04-11  19:57:52.642392 ]:up 0
-[ 2020-04-11  19:57:53.094482 ]:face not found
-[ 2020-04-11  19:57:53.111718 ]:clockwise -20
-[ 2020-04-11  19:57:53.112713 ]:up 0
-[ 2020-04-11  19:57:53.521944 ]:face not found
-[ 2020-04-11  19:57:53.538598 ]:clockwise -20
-[ 2020-04-11  19:57:53.538598 ]:up 0
-[ 2020-04-11  19:57:53.956765 ]:face not found
-[ 2020-04-11  19:57:53.974227 ]:clockwise -20
-[ 2020-04-11  19:57:53.974960 ]:up 0
-[ 2020-04-11  19:57:54.481387 ]:face not found
-[ 2020-04-11  19:57:54.499859 ]:clockwise -20
-[ 2020-04-11  19:57:54.499859 ]:up 0
-[ 2020-04-11  19:57:54.948314 ]:face not found
-[ 2020-04-11  19:57:54.966230 ]:clockwise -20
-[ 2020-04-11  19:57:54.967227 ]:up 0
-[ 2020-04-11  19:57:55.425575 ]:face not found
-[ 2020-04-11  19:57:55.442814 ]:clockwise -20
-[ 2020-04-11  19:57:55.443557 ]:up 0
-[ 2020-04-11  19:57:55.860182 ]:face not found
-[ 2020-04-11  19:57:55.879447 ]:clockwise -20
-[ 2020-04-11  19:57:55.879447 ]:up 0
-[ 2020-04-11  19:57:56.351957 ]:face not found
-[ 2020-04-11  19:57:56.371513 ]:clockwise -20
-[ 2020-04-11  19:57:56.372263 ]:up 0
-[ 2020-04-11  19:57:56.824212 ]:face not found
-[ 2020-04-11  19:57:56.848330 ]:clockwise -20
-[ 2020-04-11  19:57:56.849331 ]:up 0
-[ 2020-04-11  19:57:57.267232 ]:face not found
-[ 2020-04-11  19:57:57.285199 ]:clockwise -20
-[ 2020-04-11  19:57:57.285199 ]:up 0
-[ 2020-04-11  19:57:57.728404 ]:face not found
-[ 2020-04-11  19:57:57.746903 ]:clockwise -20
-[ 2020-04-11  19:57:57.746903 ]:up 0
-[ 2020-04-11  19:57:58.262377 ]:face not found
-[ 2020-04-11  19:57:58.285321 ]:clockwise -20
-[ 2020-04-11  19:57:58.286313 ]:up 0
-[ 2020-04-11  19:57:58.758833 ]:face not found
-[ 2020-04-11  19:57:58.782368 ]:clockwise -20
-[ 2020-04-11  19:57:58.782368 ]:up 0
-[ 2020-04-11  19:57:59.188792 ]:face not found
-[ 2020-04-11  19:57:59.206859 ]:clockwise -20
-[ 2020-04-11  19:57:59.207859 ]:up 0
-[ 2020-04-11  19:57:59.665991 ]:face not found
-[ 2020-04-11  19:57:59.684072 ]:clockwise -20
-[ 2020-04-11  19:57:59.684925 ]:up 0
-[ 2020-04-11  19:58:00.177279 ]:face not found
-[ 2020-04-11  19:58:00.194412 ]:clockwise -20
-[ 2020-04-11  19:58:00.195183 ]:up 0
-[ 2020-04-11  19:58:00.729538 ]:face not found
-[ 2020-04-11  19:58:00.746494 ]:clockwise -20
-[ 2020-04-11  19:58:00.746494 ]:up 0
-[ 2020-04-11  19:58:01.155335 ]:face not found
-[ 2020-04-11  19:58:01.174333 ]:clockwise -20
-[ 2020-04-11  19:58:01.174333 ]:up 0
-[ 2020-04-11  19:58:01.614025 ]:face not found
-[ 2020-04-11  19:58:01.632505 ]:clockwise -20
-[ 2020-04-11  19:58:01.632505 ]:up 0
-[ 2020-04-11  19:58:02.188272 ]:face not found
-[ 2020-04-11  19:58:02.208228 ]:clockwise -20
-[ 2020-04-11  19:58:02.209217 ]:up 0
-[ 2020-04-11  19:58:02.625007 ]:face not found
-[ 2020-04-11  19:58:02.642002 ]:clockwise -20
-[ 2020-04-11  19:58:02.642999 ]:up 0
-[ 2020-04-11  19:58:03.122913 ]:face not found
-[ 2020-04-11  19:58:03.140437 ]:clockwise -20
-[ 2020-04-11  19:58:03.140437 ]:up 0
-[ 2020-04-11  19:58:03.745888 ]:face not found
-[ 2020-04-11  19:58:03.764774 ]:clockwise -20
-[ 2020-04-11  19:58:03.764774 ]:up 0
-[ 2020-04-11  19:58:04.316842 ]:face not found
-[ 2020-04-11  19:58:04.333160 ]:clockwise -20
-[ 2020-04-11  19:58:04.333160 ]:up 0
-[ 2020-04-11  19:58:04.922490 ]:face not found
-[ 2020-04-11  19:58:04.939067 ]:clockwise -20
-[ 2020-04-11  19:58:04.939067 ]:up 0
-[ 2020-04-11  19:58:05.483153 ]:face not found
-[ 2020-04-11  19:58:05.500313 ]:clockwise -20
-[ 2020-04-11  19:58:05.501069 ]:up 0
-[ 2020-04-11  19:58:05.951486 ]:face not found
-[ 2020-04-11  19:58:06.394057 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:06.413005 ]:clockwise 30
-[ 2020-04-11  19:58:06.886174 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:06.903429 ]:clockwise 30
-[ 2020-04-11  19:58:07.419439 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:07.435662 ]:clockwise 30
-[ 2020-04-11  19:58:08.010835 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:08.029043 ]:clockwise 30
-[ 2020-04-11  19:58:08.517030 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:08.534514 ]:clockwise 30
-[ 2020-04-11  19:58:08.946394 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:08.965382 ]:clockwise 30
-[ 2020-04-11  19:58:09.485522 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:09.502477 ]:clockwise 30
-[ 2020-04-11  19:58:10.024149 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:10.041261 ]:clockwise 30
-[ 2020-04-11  19:58:10.638641 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:10.661552 ]:clockwise 30
-[ 2020-04-11  19:58:11.129444 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:11.146917 ]:clockwise 30
-[ 2020-04-11  19:58:11.554658 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:11.571766 ]:clockwise 30
-[ 2020-04-11  19:58:12.094174 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:12.112874 ]:clockwise 30
-[ 2020-04-11  19:58:12.592423 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:12.609407 ]:clockwise 30
-[ 2020-04-11  19:58:13.065057 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:13.089969 ]:clockwise 30
-[ 2020-04-11  19:58:13.523997 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:13.541717 ]:clockwise 30
-[ 2020-04-11  19:58:14.062947 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:14.078983 ]:clockwise 30
-[ 2020-04-11  19:58:14.567920 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:14.590932 ]:clockwise 30
-[ 2020-04-11  19:58:15.115745 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:15.132635 ]:clockwise 30
-[ 2020-04-11  19:58:15.554052 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:15.574290 ]:clockwise 30
-[ 2020-04-11  19:58:16.154557 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:16.171588 ]:clockwise 30
-[ 2020-04-11  19:58:16.699201 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:16.716216 ]:clockwise 30
-[ 2020-04-11  19:58:17.184442 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:17.202843 ]:clockwise 30
-[ 2020-04-11  19:58:17.648073 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:17.665973 ]:clockwise 30
-[ 2020-04-11  19:58:18.120966 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:18.138463 ]:clockwise 30
-[ 2020-04-11  19:58:18.719773 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:18.736733 ]:clockwise 30
-[ 2020-04-11  19:58:19.222703 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:19.239614 ]:clockwise 30
-[ 2020-04-11  19:58:19.654105 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:19.673055 ]:clockwise 30
-[ 2020-04-11  19:58:20.122593 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:20.139479 ]:clockwise 30
-[ 2020-04-11  19:58:20.560277 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:20.578447 ]:clockwise 30
-[ 2020-04-11  19:58:21.031108 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:21.050091 ]:clockwise 30
-[ 2020-04-11  19:58:21.520335 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:21.542030 ]:clockwise 30
-[ 2020-04-11  19:58:21.988000 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:22.004282 ]:clockwise 30
-[ 2020-04-11  19:58:22.558570 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:22.577592 ]:clockwise 30
-[ 2020-04-11  19:58:23.020034 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:23.037277 ]:clockwise 30
-[ 2020-04-11  19:58:23.455521 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:23.472434 ]:clockwise 30
-[ 2020-04-11  19:58:23.970829 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:23.986847 ]:clockwise 30
-[ 2020-04-11  19:58:24.457272 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:24.477254 ]:clockwise 30
-[ 2020-04-11  19:58:24.901994 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:24.918956 ]:clockwise 30
-[ 2020-04-11  19:58:25.380709 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:25.398926 ]:clockwise 30
-[ 2020-04-11  19:58:25.873772 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:25.892654 ]:clockwise 30
-[ 2020-04-11  19:58:26.446604 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:26.464983 ]:clockwise 30
-[ 2020-04-11  19:58:27.008223 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:27.026145 ]:clockwise 30
-[ 2020-04-11  19:58:27.473615 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:27.492408 ]:clockwise 30
-[ 2020-04-11  19:58:27.980680 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:27.997993 ]:clockwise 30
-[ 2020-04-11  19:58:28.466148 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:28.483354 ]:clockwise 30
-[ 2020-04-11  19:58:28.915458 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:28.932683 ]:clockwise 30
-[ 2020-04-11  19:58:29.385877 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:29.402092 ]:clockwise 30
-[ 2020-04-11  19:58:29.834414 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:29.851841 ]:clockwise 30
-[ 2020-04-11  19:58:30.327982 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:30.345266 ]:clockwise 30
-[ 2020-04-11  19:58:30.753092 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:30.771897 ]:clockwise 30
-[ 2020-04-11  19:58:31.223068 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:31.240028 ]:clockwise 30
-[ 2020-04-11  19:58:31.654758 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:31.673486 ]:clockwise 30
-[ 2020-04-11  19:58:32.152463 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:32.168768 ]:clockwise 30
-[ 2020-04-11  19:58:32.654966 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:32.672202 ]:clockwise 30
-[ 2020-04-11  19:58:33.124989 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:33.142791 ]:clockwise 30
-[ 2020-04-11  19:58:33.553835 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:33.569825 ]:clockwise 30
-[ 2020-04-11  19:58:34.018380 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:34.035643 ]:clockwise 30
-[ 2020-04-11  19:58:34.519413 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:34.536361 ]:clockwise 30
-[ 2020-04-11  19:58:34.991031 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:35.007537 ]:clockwise 30
-[ 2020-04-11  19:58:35.519822 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:35.536795 ]:clockwise 30
-[ 2020-04-11  19:58:36.026307 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:36.043779 ]:clockwise 30
-[ 2020-04-11  19:58:36.450701 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:36.468654 ]:clockwise 30
-[ 2020-04-11  19:58:36.954277 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:36.972231 ]:clockwise 30
-[ 2020-04-11  19:58:37.388325 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:37.405850 ]:clockwise 30
-[ 2020-04-11  19:58:37.894206 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:37.912178 ]:clockwise 30
-[ 2020-04-11  19:58:38.370239 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:38.389166 ]:clockwise 30
-[ 2020-04-11  19:58:38.825004 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:38.842981 ]:clockwise 30
-[ 2020-04-11  19:58:39.254297 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:39.275275 ]:clockwise 30
-[ 2020-04-11  19:58:39.756055 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:39.774048 ]:clockwise 30
-[ 2020-04-11  19:58:40.285566 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:40.303515 ]:clockwise 30
-[ 2020-04-11  19:58:40.752670 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:40.773785 ]:clockwise 30
-[ 2020-04-11  19:58:41.348082 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:41.366986 ]:clockwise 30
-[ 2020-04-11  19:58:41.791000 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:41.808472 ]:clockwise 30
-[ 2020-04-11  19:58:42.256874 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:42.275398 ]:clockwise 30
-[ 2020-04-11  19:58:42.760756 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:42.779963 ]:clockwise 30
-[ 2020-04-11  19:58:43.218008 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:43.236197 ]:clockwise 30
-[ 2020-04-11  19:58:43.729128 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:43.746143 ]:clockwise 30
-[ 2020-04-11  19:58:44.190270 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:44.207580 ]:clockwise 30
-[ 2020-04-11  19:58:44.647897 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:44.668454 ]:clockwise 30
-[ 2020-04-11  19:58:45.146328 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:45.165238 ]:clockwise 30
-[ 2020-04-11  19:58:45.645941 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:45.662917 ]:clockwise 30
-[ 2020-04-11  19:58:46.079139 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:46.097091 ]:clockwise 30
-[ 2020-04-11  19:58:46.517258 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:46.534531 ]:clockwise 30
-[ 2020-04-11  19:58:46.948893 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:46.969281 ]:clockwise 30
-[ 2020-04-11  19:58:47.412545 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:47.430976 ]:clockwise 30
-[ 2020-04-11  19:58:47.848206 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:47.865545 ]:clockwise 30
-[ 2020-04-11  19:58:48.318915 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:48.335861 ]:clockwise 30
-[ 2020-04-11  19:58:48.778928 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:48.797090 ]:clockwise 30
-[ 2020-04-11  19:58:49.217160 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:49.234419 ]:clockwise 30
-[ 2020-04-11  19:58:49.792674 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:49.811562 ]:clockwise 30
-[ 2020-04-11  19:58:50.247242 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:50.266581 ]:clockwise 30
-[ 2020-04-11  19:58:50.684913 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:50.701860 ]:clockwise 30
-[ 2020-04-11  19:58:51.199679 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:51.216692 ]:clockwise 30
-[ 2020-04-11  19:58:51.647153 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  19:58:51.663070 ]:clockwise 30
-[ 2020-04-11  19:58:52.140775 ]:clockwise 20
-[ 2020-04-11  19:58:52.140775 ]:up 9.0
-[ 2020-04-11  19:58:52.713762 ]:face not found
-[ 2020-04-11  19:58:52.730987 ]:clockwise 20
-[ 2020-04-11  19:58:52.731975 ]:up 9.0
-[ 2020-04-11  19:58:53.244530 ]:face not found
-[ 2020-04-11  19:58:53.262933 ]:clockwise 20
-[ 2020-04-11  19:58:53.263934 ]:up 9.0
-[ 2020-04-11  19:58:53.783869 ]:face not found
-[ 2020-04-11  19:58:53.803815 ]:clockwise 20
-[ 2020-04-11  19:58:53.803815 ]:up 9.0
-[ 2020-04-11  19:58:54.363632 ]:face not found
-[ 2020-04-11  19:58:54.384150 ]:clockwise 20
-[ 2020-04-11  19:58:54.384150 ]:up 9.0
-[ 2020-04-11  19:58:54.790741 ]:face not found
-[ 2020-04-11  19:58:54.808414 ]:clockwise 20
-[ 2020-04-11  19:58:54.808414 ]:up 9.0
-[ 2020-04-11  19:58:55.258374 ]:face not found
-[ 2020-04-11  19:58:55.276363 ]:clockwise 20
-[ 2020-04-11  19:58:55.277324 ]:up 9.0
-[ 2020-04-11  19:58:55.683757 ]:face not found
-[ 2020-04-11  19:58:55.703918 ]:clockwise 20
-[ 2020-04-11  19:58:55.704663 ]:up 9.0
-[ 2020-04-11  19:58:56.192821 ]:face not found
-[ 2020-04-11  19:58:56.211314 ]:clockwise 20
-[ 2020-04-11  19:58:56.211314 ]:up 9.0
-[ 2020-04-11  19:58:56.689898 ]:face not found
-[ 2020-04-11  19:58:56.705821 ]:clockwise 20
-[ 2020-04-11  19:58:56.706785 ]:up 9.0
-[ 2020-04-11  19:58:57.119855 ]:face not found
-[ 2020-04-11  19:58:57.136015 ]:clockwise 20
-[ 2020-04-11  19:58:57.136765 ]:up 9.0
-[ 2020-04-11  19:58:57.588309 ]:face not found
-[ 2020-04-11  19:58:57.606470 ]:clockwise 20
-[ 2020-04-11  19:58:57.607285 ]:up 9.0
-[ 2020-04-11  19:58:58.021862 ]:face not found
-[ 2020-04-11  19:58:58.038773 ]:clockwise 20
-[ 2020-04-11  19:58:58.039771 ]:up 9.0
-[ 2020-04-11  19:58:58.527577 ]:face not found
-[ 2020-04-11  19:58:58.544598 ]:clockwise 20
-[ 2020-04-11  19:58:58.544598 ]:up 9.0
-[ 2020-04-11  19:58:58.954549 ]:face not found
-[ 2020-04-11  19:58:58.972298 ]:clockwise 20
-[ 2020-04-11  19:58:58.972298 ]:up 9.0
-[ 2020-04-11  19:58:59.455175 ]:face not found
-[ 2020-04-11  19:58:59.472448 ]:clockwise 20
-[ 2020-04-11  19:58:59.473187 ]:up 9.0
-[ 2020-04-11  19:58:59.894095 ]:face not found
-[ 2020-04-11  19:58:59.911074 ]:clockwise 20
-[ 2020-04-11  19:58:59.912010 ]:up 9.0
-[ 2020-04-11  19:59:00.324683 ]:face not found
-[ 2020-04-11  19:59:00.341221 ]:clockwise 20
-[ 2020-04-11  19:59:00.341221 ]:up 9.0
-[ 2020-04-11  19:59:00.788400 ]:face not found
-[ 2020-04-11  19:59:00.805355 ]:clockwise 20
-[ 2020-04-11  19:59:00.805355 ]:up 9.0
-[ 2020-04-11  19:59:01.227152 ]:face not found
-[ 2020-04-11  19:59:01.243326 ]:clockwise 20
-[ 2020-04-11  19:59:01.244071 ]:up 9.0
-[ 2020-04-11  19:59:01.650613 ]:face not found
-[ 2020-04-11  19:59:01.668056 ]:clockwise 20
-[ 2020-04-11  19:59:01.668056 ]:up 9.0
-[ 2020-04-11  19:59:02.025744 ]:drone landing
-[ 2020-04-11  21:16:46.073686 ]:drone taking off
-[ 2020-04-11  21:16:47.655049 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:16:47.695474 ]:clockwise 30
-[ 2020-04-11  21:16:49.395705 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:16:49.412719 ]:clockwise 30
-[ 2020-04-11  21:16:49.860797 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:16:49.877773 ]:clockwise 30
-[ 2020-04-11  21:16:50.310083 ]:clockwise 4.0
-[ 2020-04-11  21:16:50.311060 ]:up 17.0
-[ 2020-04-11  21:16:50.786571 ]:face not found
-[ 2020-04-11  21:16:50.804491 ]:clockwise 4.0
-[ 2020-04-11  21:16:50.804491 ]:up 17.0
-[ 2020-04-11  21:16:51.192393 ]:face not found
-[ 2020-04-11  21:16:51.210351 ]:clockwise 4.0
-[ 2020-04-11  21:16:51.211342 ]:up 17.0
-[ 2020-04-11  21:16:51.627239 ]:face not found
-[ 2020-04-11  21:16:51.644158 ]:clockwise 4.0
-[ 2020-04-11  21:16:51.644158 ]:up 17.0
-[ 2020-04-11  21:16:52.148655 ]:face not found
-[ 2020-04-11  21:16:52.176892 ]:clockwise 4.0
-[ 2020-04-11  21:16:52.178864 ]:up 17.0
-[ 2020-04-11  21:16:52.624104 ]:face not found
-[ 2020-04-11  21:16:52.641988 ]:clockwise 4.0
-[ 2020-04-11  21:16:52.642986 ]:up 17.0
-[ 2020-04-11  21:16:53.056719 ]:face not found
-[ 2020-04-11  21:16:53.073673 ]:clockwise 4.0
-[ 2020-04-11  21:16:53.074672 ]:up 17.0
-[ 2020-04-11  21:16:53.642879 ]:clockwise 0
-[ 2020-04-11  21:16:53.642879 ]:up 7.0
-[ 2020-04-11  21:16:54.072624 ]:clockwise 0
-[ 2020-04-11  21:16:54.072624 ]:up 6.0
-[ 2020-04-11  21:16:54.537973 ]:clockwise 0
-[ 2020-04-11  21:16:54.537973 ]:up 6.0
-[ 2020-04-11  21:16:55.009075 ]:clockwise 0
-[ 2020-04-11  21:16:55.010082 ]:up 7.0
-[ 2020-04-11  21:16:55.552053 ]:clockwise 0
-[ 2020-04-11  21:16:55.553047 ]:up 8.0
-[ 2020-04-11  21:16:55.977935 ]:clockwise 0
-[ 2020-04-11  21:16:55.977935 ]:up 7.0
-[ 2020-04-11  21:16:56.420328 ]:clockwise 0
-[ 2020-04-11  21:16:56.421264 ]:up 6.0
-[ 2020-04-11  21:16:56.856234 ]:face not found
-[ 2020-04-11  21:16:56.875149 ]:clockwise 0
-[ 2020-04-11  21:16:56.876146 ]:up 6.0
-[ 2020-04-11  21:16:57.285200 ]:face not found
-[ 2020-04-11  21:16:57.304150 ]:clockwise 0
-[ 2020-04-11  21:16:57.305148 ]:up 6.0
-[ 2020-04-11  21:16:57.721640 ]:face not found
-[ 2020-04-11  21:16:57.738812 ]:clockwise 0
-[ 2020-04-11  21:16:57.739573 ]:up 6.0
-[ 2020-04-11  21:16:58.198074 ]:face not found
-[ 2020-04-11  21:16:58.219041 ]:clockwise 0
-[ 2020-04-11  21:16:58.219041 ]:up 6.0
-[ 2020-04-11  21:16:58.687817 ]:face not found
-[ 2020-04-11  21:16:58.705736 ]:clockwise 0
-[ 2020-04-11  21:16:58.705736 ]:up 6.0
-[ 2020-04-11  21:16:59.214345 ]:clockwise 0
-[ 2020-04-11  21:16:59.215281 ]:up 7.0
-[ 2020-04-11  21:16:59.654564 ]:face not found
-[ 2020-04-11  21:16:59.673534 ]:clockwise 0
-[ 2020-04-11  21:16:59.674474 ]:up 7.0
-[ 2020-04-11  21:17:00.108860 ]:clockwise 0
-[ 2020-04-11  21:17:00.108860 ]:up 5.0
-[ 2020-04-11  21:17:00.547809 ]:clockwise 0
-[ 2020-04-11  21:17:00.548636 ]:up 3.0
-[ 2020-04-11  21:17:00.975202 ]:clockwise 0
-[ 2020-04-11  21:17:00.976200 ]:up 3.0
-[ 2020-04-11  21:17:01.446835 ]:clockwise 0
-[ 2020-04-11  21:17:01.447791 ]:up 2.0
-[ 2020-04-11  21:17:01.880140 ]:clockwise 0
-[ 2020-04-11  21:17:01.881138 ]:up 3.0
-[ 2020-04-11  21:17:02.351308 ]:face not found
-[ 2020-04-11  21:17:02.368241 ]:clockwise 0
-[ 2020-04-11  21:17:02.369237 ]:up 3.0
-[ 2020-04-11  21:17:02.937062 ]:face not found
-[ 2020-04-11  21:17:02.955076 ]:clockwise 0
-[ 2020-04-11  21:17:02.956013 ]:up 3.0
-[ 2020-04-11  21:17:03.421773 ]:face not found
-[ 2020-04-11  21:17:03.438753 ]:clockwise 0
-[ 2020-04-11  21:17:03.439680 ]:up 3.0
-[ 2020-04-11  21:17:03.998212 ]:face not found
-[ 2020-04-11  21:17:04.016703 ]:clockwise 0
-[ 2020-04-11  21:17:04.017468 ]:up 3.0
-[ 2020-04-11  21:17:04.421594 ]:face not found
-[ 2020-04-11  21:17:04.440841 ]:clockwise 0
-[ 2020-04-11  21:17:04.441617 ]:up 3.0
-[ 2020-04-11  21:17:04.855492 ]:face not found
-[ 2020-04-11  21:17:04.872642 ]:clockwise 0
-[ 2020-04-11  21:17:04.873502 ]:up 3.0
-[ 2020-04-11  21:17:05.387845 ]:face not found
-[ 2020-04-11  21:17:05.409996 ]:clockwise 0
-[ 2020-04-11  21:17:05.410809 ]:up 3.0
-[ 2020-04-11  21:17:05.825154 ]:face not found
-[ 2020-04-11  21:17:05.843409 ]:clockwise 0
-[ 2020-04-11  21:17:05.843409 ]:up 3.0
-[ 2020-04-11  21:17:06.231310 ]:face not found
-[ 2020-04-11  21:17:06.248275 ]:clockwise 0
-[ 2020-04-11  21:17:06.249252 ]:up 3.0
-[ 2020-04-11  21:17:06.720938 ]:face not found
-[ 2020-04-11  21:17:06.738609 ]:clockwise 0
-[ 2020-04-11  21:17:06.739609 ]:up 3.0
-[ 2020-04-11  21:17:07.155861 ]:face not found
-[ 2020-04-11  21:17:07.172861 ]:clockwise 0
-[ 2020-04-11  21:17:07.172861 ]:up 3.0
-[ 2020-04-11  21:17:07.606930 ]:face not found
-[ 2020-04-11  21:17:07.624428 ]:clockwise 0
-[ 2020-04-11  21:17:07.625166 ]:up 3.0
-[ 2020-04-11  21:17:08.059456 ]:face not found
-[ 2020-04-11  21:17:08.077402 ]:clockwise 0
-[ 2020-04-11  21:17:08.077402 ]:up 3.0
-[ 2020-04-11  21:17:08.528531 ]:face not found
-[ 2020-04-11  21:17:08.545495 ]:clockwise 0
-[ 2020-04-11  21:17:08.546478 ]:up 3.0
-[ 2020-04-11  21:17:08.991043 ]:face not found
-[ 2020-04-11  21:17:09.008227 ]:clockwise 0
-[ 2020-04-11  21:17:09.008974 ]:up 3.0
-[ 2020-04-11  21:17:09.522303 ]:face not found
-[ 2020-04-11  21:17:09.540502 ]:clockwise 0
-[ 2020-04-11  21:17:09.541251 ]:up 3.0
-[ 2020-04-11  21:17:09.956467 ]:face not found
-[ 2020-04-11  21:17:09.973355 ]:clockwise 0
-[ 2020-04-11  21:17:09.973355 ]:up 3.0
-[ 2020-04-11  21:17:10.427043 ]:face not found
-[ 2020-04-11  21:17:10.443965 ]:clockwise 0
-[ 2020-04-11  21:17:10.443965 ]:up 3.0
-[ 2020-04-11  21:17:10.932745 ]:face not found
-[ 2020-04-11  21:17:10.949675 ]:clockwise 0
-[ 2020-04-11  21:17:10.949675 ]:up 3.0
-[ 2020-04-11  21:17:11.522671 ]:face not found
-[ 2020-04-11  21:17:11.540841 ]:clockwise 0
-[ 2020-04-11  21:17:11.540841 ]:up 3.0
-[ 2020-04-11  21:17:11.957951 ]:face not found
-[ 2020-04-11  21:17:11.975477 ]:clockwise 0
-[ 2020-04-11  21:17:11.975477 ]:up 3.0
-[ 2020-04-11  21:17:12.528149 ]:face not found
-[ 2020-04-11  21:17:12.545106 ]:clockwise 0
-[ 2020-04-11  21:17:12.546067 ]:up 3.0
-[ 2020-04-11  21:17:12.979752 ]:face not found
-[ 2020-04-11  21:17:12.996746 ]:clockwise 0
-[ 2020-04-11  21:17:12.997669 ]:up 3.0
-[ 2020-04-11  21:17:13.455792 ]:face not found
-[ 2020-04-11  21:17:13.474740 ]:clockwise 0
-[ 2020-04-11  21:17:13.476748 ]:up 3.0
-[ 2020-04-11  21:17:13.909570 ]:face not found
-[ 2020-04-11  21:17:13.926543 ]:clockwise 0
-[ 2020-04-11  21:17:13.927486 ]:up 3.0
-[ 2020-04-11  21:17:14.406593 ]:face not found
-[ 2020-04-11  21:17:14.423780 ]:clockwise 0
-[ 2020-04-11  21:17:14.424422 ]:up 3.0
-[ 2020-04-11  21:17:14.886636 ]:face not found
-[ 2020-04-11  21:17:14.903931 ]:clockwise 0
-[ 2020-04-11  21:17:14.904910 ]:up 3.0
-[ 2020-04-11  21:17:15.353048 ]:face not found
-[ 2020-04-11  21:17:15.370979 ]:clockwise 0
-[ 2020-04-11  21:17:15.370979 ]:up 3.0
-[ 2020-04-11  21:17:15.825295 ]:face not found
-[ 2020-04-11  21:17:15.843292 ]:clockwise 0
-[ 2020-04-11  21:17:15.843292 ]:up 3.0
-[ 2020-04-11  21:17:16.231610 ]:face not found
-[ 2020-04-11  21:17:16.248865 ]:clockwise 0
-[ 2020-04-11  21:17:16.248865 ]:up 3.0
-[ 2020-04-11  21:17:16.723191 ]:face not found
-[ 2020-04-11  21:17:16.742074 ]:clockwise 0
-[ 2020-04-11  21:17:16.742074 ]:up 3.0
-[ 2020-04-11  21:17:17.343214 ]:clockwise 0
-[ 2020-04-11  21:17:17.343214 ]:up 7.0
-[ 2020-04-11  21:17:17.824311 ]:face not found
-[ 2020-04-11  21:17:17.841582 ]:clockwise 0
-[ 2020-04-11  21:17:17.842540 ]:up 7.0
-[ 2020-04-11  21:17:18.389386 ]:face not found
-[ 2020-04-11  21:17:18.407837 ]:clockwise 0
-[ 2020-04-11  21:17:18.407837 ]:up 7.0
-[ 2020-04-11  21:17:18.906574 ]:face not found
-[ 2020-04-11  21:17:18.923550 ]:clockwise 0
-[ 2020-04-11  21:17:18.924484 ]:up 7.0
-[ 2020-04-11  21:17:19.422065 ]:clockwise 0
-[ 2020-04-11  21:17:19.422065 ]:up 3.0
-[ 2020-04-11  21:17:19.840384 ]:clockwise 0
-[ 2020-04-11  21:17:19.840384 ]:up 0
-[ 2020-04-11  21:17:20.277437 ]:clockwise 0
-[ 2020-04-11  21:17:20.277437 ]:up 0
-[ 2020-04-11  21:17:20.734572 ]:face not found
-[ 2020-04-11  21:17:20.751479 ]:clockwise 0
-[ 2020-04-11  21:17:20.752494 ]:up 0
-[ 2020-04-11  21:17:21.190577 ]:face not found
-[ 2020-04-11  21:17:21.209068 ]:clockwise 0
-[ 2020-04-11  21:17:21.209816 ]:up 0
-[ 2020-04-11  21:17:21.741408 ]:face not found
-[ 2020-04-11  21:17:21.758399 ]:clockwise 0
-[ 2020-04-11  21:17:21.759318 ]:up 0
-[ 2020-04-11  21:17:22.238422 ]:face not found
-[ 2020-04-11  21:17:22.256378 ]:clockwise 0
-[ 2020-04-11  21:17:22.257350 ]:up 0
-[ 2020-04-11  21:17:22.793546 ]:face not found
-[ 2020-04-11  21:17:22.816853 ]:clockwise 0
-[ 2020-04-11  21:17:22.816853 ]:up 0
-[ 2020-04-11  21:17:23.302231 ]:face not found
-[ 2020-04-11  21:17:23.320211 ]:clockwise 0
-[ 2020-04-11  21:17:23.321180 ]:up 0
-[ 2020-04-11  21:17:23.756845 ]:face not found
-[ 2020-04-11  21:17:23.774798 ]:clockwise 0
-[ 2020-04-11  21:17:23.775795 ]:up 0
-[ 2020-04-11  21:17:24.247032 ]:clockwise 0
-[ 2020-04-11  21:17:24.248009 ]:up 0
-[ 2020-04-11  21:17:24.712570 ]:clockwise 0
-[ 2020-04-11  21:17:24.713355 ]:up 5.0
-[ 2020-04-11  21:17:25.127897 ]:drone landing
-[ 2020-04-11  21:17:39.725144 ]:closing of the application
-[ 2020-04-11  21:18:28.346518 ]:drone taking off
-[ 2020-04-11  21:18:29.357424 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:18:29.388161 ]:clockwise 30
-[ 2020-04-11  21:18:30.407466 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:18:30.424803 ]:clockwise 30
-[ 2020-04-11  21:18:31.024979 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:18:31.041996 ]:clockwise 30
-[ 2020-04-11  21:18:31.575870 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:18:31.593792 ]:clockwise 30
-[ 2020-04-11  21:18:32.040588 ]:clockwise 0
-[ 2020-04-11  21:18:32.041586 ]:up 17.0
-[ 2020-04-11  21:18:32.534866 ]:clockwise 0
-[ 2020-04-11  21:18:32.535865 ]:up 18.0
-[ 2020-04-11  21:18:33.058868 ]:clockwise 0
-[ 2020-04-11  21:18:33.059865 ]:up 16.0
-[ 2020-04-11  21:18:33.482968 ]:face not found
-[ 2020-04-11  21:18:33.500416 ]:clockwise 0
-[ 2020-04-11  21:18:33.501432 ]:up 16.0
-[ 2020-04-11  21:18:33.918293 ]:face not found
-[ 2020-04-11  21:18:33.937280 ]:clockwise 0
-[ 2020-04-11  21:18:33.938271 ]:up 16.0
-[ 2020-04-11  21:18:34.326576 ]:face not found
-[ 2020-04-11  21:18:34.344035 ]:clockwise 0
-[ 2020-04-11  21:18:34.344781 ]:up 16.0
-[ 2020-04-11  21:18:34.904805 ]:clockwise 0
-[ 2020-04-11  21:18:34.905798 ]:up 11.0
-[ 2020-04-11  21:18:35.338402 ]:clockwise 0
-[ 2020-04-11  21:18:35.338402 ]:up 12.0
-[ 2020-04-11  21:18:35.773918 ]:clockwise 0
-[ 2020-04-11  21:18:35.774855 ]:up 12.0
-[ 2020-04-11  21:18:36.234812 ]:clockwise -20
-[ 2020-04-11  21:18:36.235812 ]:up 12.0
-[ 2020-04-11  21:18:36.710879 ]:clockwise -20
-[ 2020-04-11  21:18:36.710879 ]:up 10.0
-[ 2020-04-11  21:18:37.141206 ]:clockwise -20
-[ 2020-04-11  21:18:37.141950 ]:up 7.0
-[ 2020-04-11  21:18:37.552236 ]:face not found
-[ 2020-04-11  21:18:37.572774 ]:clockwise -20
-[ 2020-04-11  21:18:37.573775 ]:up 7.0
-[ 2020-04-11  21:18:38.021541 ]:clockwise 0
-[ 2020-04-11  21:18:38.022538 ]:up 5.0
-[ 2020-04-11  21:18:38.440459 ]:clockwise 0
-[ 2020-04-11  21:18:38.440459 ]:up 6.0
-[ 2020-04-11  21:18:38.936902 ]:clockwise 2.0
-[ 2020-04-11  21:18:38.937900 ]:up 10.0
-[ 2020-04-11  21:18:39.389691 ]:clockwise 19.0
-[ 2020-04-11  21:18:39.390442 ]:up 12.0
-[ 2020-04-11  21:18:39.843912 ]:face not found
-[ 2020-04-11  21:18:39.862299 ]:clockwise 19.0
-[ 2020-04-11  21:18:39.862299 ]:up 12.0
-[ 2020-04-11  21:18:40.323598 ]:face not found
-[ 2020-04-11  21:18:40.346829 ]:clockwise 19.0
-[ 2020-04-11  21:18:40.346829 ]:up 12.0
-[ 2020-04-11  21:18:40.753399 ]:face not found
-[ 2020-04-11  21:18:40.771846 ]:clockwise 19.0
-[ 2020-04-11  21:18:40.771846 ]:up 12.0
-[ 2020-04-11  21:18:41.224547 ]:face not found
-[ 2020-04-11  21:18:41.240756 ]:clockwise 19.0
-[ 2020-04-11  21:18:41.241504 ]:up 12.0
-[ 2020-04-11  21:18:41.649516 ]:face not found
-[ 2020-04-11  21:18:41.666955 ]:clockwise 19.0
-[ 2020-04-11  21:18:41.666955 ]:up 12.0
-[ 2020-04-11  21:18:42.107655 ]:face not found
-[ 2020-04-11  21:18:42.125671 ]:clockwise 19.0
-[ 2020-04-11  21:18:42.126605 ]:up 12.0
-[ 2020-04-11  21:18:42.620090 ]:face not found
-[ 2020-04-11  21:18:42.637605 ]:clockwise 19.0
-[ 2020-04-11  21:18:42.637605 ]:up 12.0
-[ 2020-04-11  21:18:43.064661 ]:face not found
-[ 2020-04-11  21:18:43.082614 ]:clockwise 19.0
-[ 2020-04-11  21:18:43.083620 ]:up 12.0
-[ 2020-04-11  21:18:43.574666 ]:clockwise -20
-[ 2020-04-11  21:18:43.575420 ]:up 2.0
-[ 2020-04-11  21:18:43.997361 ]:clockwise -20
-[ 2020-04-11  21:18:43.997361 ]:up 0
-[ 2020-04-11  21:18:44.500054 ]:clockwise -20
-[ 2020-04-11  21:18:44.501051 ]:up 0
-[ 2020-04-11  21:18:44.935460 ]:clockwise -20
-[ 2020-04-11  21:18:44.935460 ]:up 2.0
-[ 2020-04-11  21:18:45.371238 ]:clockwise -20
-[ 2020-04-11  21:18:45.372078 ]:up 3.0
-[ 2020-04-11  21:18:45.805453 ]:clockwise 0
-[ 2020-04-11  21:18:45.805453 ]:up 3.0
-[ 2020-04-11  21:18:46.346898 ]:clockwise 0
-[ 2020-04-11  21:18:46.347835 ]:up 3.0
-[ 2020-04-11  21:18:46.843397 ]:clockwise 0
-[ 2020-04-11  21:18:46.844335 ]:up 3.0
-[ 2020-04-11  21:18:47.269373 ]:clockwise 0
-[ 2020-04-11  21:18:47.270338 ]:up 2.0
-[ 2020-04-11  21:18:47.836603 ]:clockwise 0
-[ 2020-04-11  21:18:47.836603 ]:up 0
-[ 2020-04-11  21:18:48.351243 ]:face not found
-[ 2020-04-11  21:18:48.370981 ]:clockwise 0
-[ 2020-04-11  21:18:48.370981 ]:up 0
-[ 2020-04-11  21:18:48.888690 ]:face not found
-[ 2020-04-11  21:18:48.912627 ]:clockwise 0
-[ 2020-04-11  21:18:48.913608 ]:up 0
-[ 2020-04-11  21:18:49.381269 ]:face not found
-[ 2020-04-11  21:18:49.401262 ]:clockwise 0
-[ 2020-04-11  21:18:49.401262 ]:up 0
-[ 2020-04-11  21:18:49.850407 ]:face not found
-[ 2020-04-11  21:18:49.869891 ]:clockwise 0
-[ 2020-04-11  21:18:49.869891 ]:up 0
-[ 2020-04-11  21:18:50.285026 ]:face not found
-[ 2020-04-11  21:18:50.302232 ]:clockwise 0
-[ 2020-04-11  21:18:50.302978 ]:up 0
-[ 2020-04-11  21:18:50.748776 ]:face not found
-[ 2020-04-11  21:18:50.766279 ]:clockwise 0
-[ 2020-04-11  21:18:50.767029 ]:up 0
-[ 2020-04-11  21:18:51.184293 ]:face not found
-[ 2020-04-11  21:18:51.202681 ]:clockwise 0
-[ 2020-04-11  21:18:51.202681 ]:up 0
-[ 2020-04-11  21:18:51.694693 ]:face not found
-[ 2020-04-11  21:18:51.712671 ]:clockwise 0
-[ 2020-04-11  21:18:51.713608 ]:up 0
-[ 2020-04-11  21:18:52.200146 ]:face not found
-[ 2020-04-11  21:18:52.218065 ]:clockwise 0
-[ 2020-04-11  21:18:52.218065 ]:up 0
-[ 2020-04-11  21:18:52.684616 ]:face not found
-[ 2020-04-11  21:18:52.702304 ]:clockwise 0
-[ 2020-04-11  21:18:52.702304 ]:up 0
-[ 2020-04-11  21:18:53.118356 ]:face not found
-[ 2020-04-11  21:18:53.136589 ]:clockwise 0
-[ 2020-04-11  21:18:53.137586 ]:up 0
-[ 2020-04-11  21:18:53.549109 ]:face not found
-[ 2020-04-11  21:18:53.566804 ]:clockwise 0
-[ 2020-04-11  21:18:53.566804 ]:up 0
-[ 2020-04-11  21:18:53.991592 ]:face not found
-[ 2020-04-11  21:18:54.009132 ]:clockwise 0
-[ 2020-04-11  21:18:54.009132 ]:up 0
-[ 2020-04-11  21:18:54.455416 ]:face not found
-[ 2020-04-11  21:18:54.471592 ]:clockwise 0
-[ 2020-04-11  21:18:54.472335 ]:up 0
-[ 2020-04-11  21:18:54.953127 ]:face not found
-[ 2020-04-11  21:18:54.971513 ]:clockwise 0
-[ 2020-04-11  21:18:54.971513 ]:up 0
-[ 2020-04-11  21:18:55.386377 ]:face not found
-[ 2020-04-11  21:18:55.404787 ]:clockwise 0
-[ 2020-04-11  21:18:55.404787 ]:up 0
-[ 2020-04-11  21:18:55.859842 ]:face not found
-[ 2020-04-11  21:18:55.876797 ]:clockwise 0
-[ 2020-04-11  21:18:55.877795 ]:up 0
-[ 2020-04-11  21:18:56.362290 ]:face not found
-[ 2020-04-11  21:18:56.379196 ]:clockwise 0
-[ 2020-04-11  21:18:56.380176 ]:up 0
-[ 2020-04-11  21:18:56.857215 ]:face not found
-[ 2020-04-11  21:18:56.874464 ]:clockwise 0
-[ 2020-04-11  21:18:56.874464 ]:up 0
-[ 2020-04-11  21:18:57.357912 ]:face not found
-[ 2020-04-11  21:18:57.376224 ]:clockwise 0
-[ 2020-04-11  21:18:57.376224 ]:up 0
-[ 2020-04-11  21:18:57.865497 ]:face not found
-[ 2020-04-11  21:18:57.884451 ]:clockwise 0
-[ 2020-04-11  21:18:57.885444 ]:up 0
-[ 2020-04-11  21:18:58.383351 ]:face not found
-[ 2020-04-11  21:18:58.400404 ]:clockwise 0
-[ 2020-04-11  21:18:58.401409 ]:up 0
-[ 2020-04-11  21:18:58.877852 ]:face not found
-[ 2020-04-11  21:18:58.895067 ]:clockwise 0
-[ 2020-04-11  21:18:58.896069 ]:up 0
-[ 2020-04-11  21:18:59.314963 ]:face not found
-[ 2020-04-11  21:18:59.333384 ]:clockwise 0
-[ 2020-04-11  21:18:59.333384 ]:up 0
-[ 2020-04-11  21:18:59.749196 ]:face not found
-[ 2020-04-11  21:18:59.766588 ]:clockwise 0
-[ 2020-04-11  21:18:59.766588 ]:up 0
-[ 2020-04-11  21:19:00.216443 ]:face not found
-[ 2020-04-11  21:19:00.232628 ]:clockwise 0
-[ 2020-04-11  21:19:00.233455 ]:up 0
-[ 2020-04-11  21:19:00.686800 ]:face not found
-[ 2020-04-11  21:19:00.704713 ]:clockwise 0
-[ 2020-04-11  21:19:00.705710 ]:up 0
-[ 2020-04-11  21:19:01.151069 ]:face not found
-[ 2020-04-11  21:19:01.168621 ]:clockwise 0
-[ 2020-04-11  21:19:01.168621 ]:up 0
-[ 2020-04-11  21:19:01.647640 ]:face not found
-[ 2020-04-11  21:19:01.664595 ]:clockwise 0
-[ 2020-04-11  21:19:01.665593 ]:up 0
-[ 2020-04-11  21:19:02.125698 ]:face not found
-[ 2020-04-11  21:19:02.145686 ]:clockwise 0
-[ 2020-04-11  21:19:02.146680 ]:up 0
-[ 2020-04-11  21:19:02.605103 ]:face not found
-[ 2020-04-11  21:19:02.621122 ]:clockwise 0
-[ 2020-04-11  21:19:02.622060 ]:up 0
-[ 2020-04-11  21:19:03.074581 ]:face not found
-[ 2020-04-11  21:19:03.091910 ]:clockwise 0
-[ 2020-04-11  21:19:03.092480 ]:up 0
-[ 2020-04-11  21:19:03.546146 ]:face not found
-[ 2020-04-11  21:19:03.564253 ]:clockwise 0
-[ 2020-04-11  21:19:03.565026 ]:up 0
-[ 2020-04-11  21:19:03.981513 ]:face not found
-[ 2020-04-11  21:19:04.000942 ]:clockwise 0
-[ 2020-04-11  21:19:04.000942 ]:up 0
-[ 2020-04-11  21:19:04.486694 ]:face not found
-[ 2020-04-11  21:19:04.503859 ]:clockwise 0
-[ 2020-04-11  21:19:04.504669 ]:up 0
-[ 2020-04-11  21:19:05.026574 ]:face not found
-[ 2020-04-11  21:19:05.545253 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:05.562324 ]:clockwise 30
-[ 2020-04-11  21:19:06.020606 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:06.038805 ]:clockwise 30
-[ 2020-04-11  21:19:06.481529 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:06.498756 ]:clockwise 30
-[ 2020-04-11  21:19:07.088038 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:07.105956 ]:clockwise 30
-[ 2020-04-11  21:19:07.558530 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:07.575499 ]:clockwise 30
-[ 2020-04-11  21:19:07.985600 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:08.003865 ]:clockwise 30
-[ 2020-04-11  21:19:08.519275 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:08.537077 ]:clockwise 30
-[ 2020-04-11  21:19:09.047464 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:09.065245 ]:clockwise 30
-[ 2020-04-11  21:19:09.548527 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:09.567982 ]:clockwise 30
-[ 2020-04-11  21:19:10.100029 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:10.117501 ]:clockwise 30
-[ 2020-04-11  21:19:10.542892 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:10.560844 ]:clockwise 30
-[ 2020-04-11  21:19:11.042243 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:11.060148 ]:clockwise 30
-[ 2020-04-11  21:19:11.479257 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:11.496682 ]:clockwise 30
-[ 2020-04-11  21:19:11.945696 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:11.967027 ]:clockwise 30
-[ 2020-04-11  21:19:12.481741 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:12.499693 ]:clockwise 30
-[ 2020-04-11  21:19:13.014186 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:13.038147 ]:clockwise 30
-[ 2020-04-11  21:19:13.516085 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:13.532976 ]:clockwise 30
-[ 2020-04-11  21:19:14.033870 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:14.050506 ]:clockwise 30
-[ 2020-04-11  21:19:14.595607 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:14.612631 ]:clockwise 30
-[ 2020-04-11  21:19:15.094351 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:15.113265 ]:clockwise 30
-[ 2020-04-11  21:19:15.582433 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:15.599590 ]:clockwise 30
-[ 2020-04-11  21:19:16.045731 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:16.063729 ]:clockwise 30
-[ 2020-04-11  21:19:16.456638 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:16.474550 ]:clockwise 30
-[ 2020-04-11  21:19:17.003571 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:17.021492 ]:clockwise 30
-[ 2020-04-11  21:19:17.483196 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:17.501103 ]:clockwise 30
-[ 2020-04-11  21:19:17.917360 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:17.935830 ]:clockwise 30
-[ 2020-04-11  21:19:18.455366 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:18.474253 ]:clockwise 30
-[ 2020-04-11  21:19:18.950981 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:18.968674 ]:clockwise 30
-[ 2020-04-11  21:19:19.407213 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:19.423997 ]:clockwise 30
-[ 2020-04-11  21:19:19.843232 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:19.862491 ]:clockwise 30
-[ 2020-04-11  21:19:20.313721 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:20.329978 ]:clockwise 30
-[ 2020-04-11  21:19:20.780840 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:20.798319 ]:clockwise 30
-[ 2020-04-11  21:19:21.241446 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:21.259363 ]:clockwise 30
-[ 2020-04-11  21:19:21.713250 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:21.729466 ]:clockwise 30
-[ 2020-04-11  21:19:22.180656 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:22.197644 ]:clockwise 30
-[ 2020-04-11  21:19:22.616489 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:22.634759 ]:clockwise 30
-[ 2020-04-11  21:19:23.185682 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:23.203633 ]:clockwise 30
-[ 2020-04-11  21:19:23.624770 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:23.641781 ]:clockwise 30
-[ 2020-04-11  21:19:24.082185 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:24.098480 ]:clockwise 30
-[ 2020-04-11  21:19:24.492193 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:24.510025 ]:clockwise 30
-[ 2020-04-11  21:19:24.981275 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:24.998471 ]:clockwise 30
-[ 2020-04-11  21:19:25.481304 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:25.497691 ]:clockwise 30
-[ 2020-04-11  21:19:25.887024 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:25.905279 ]:clockwise 30
-[ 2020-04-11  21:19:26.350781 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:26.368998 ]:clockwise 30
-[ 2020-04-11  21:19:26.851992 ]:clockwise 0
-[ 2020-04-11  21:19:26.852931 ]:up 0
-[ 2020-04-11  21:19:27.301396 ]:face not found
-[ 2020-04-11  21:19:27.318972 ]:clockwise 0
-[ 2020-04-11  21:19:27.318972 ]:up 0
-[ 2020-04-11  21:19:27.817001 ]:face not found
-[ 2020-04-11  21:19:27.833952 ]:clockwise 0
-[ 2020-04-11  21:19:27.834960 ]:up 0
-[ 2020-04-11  21:19:28.403114 ]:face not found
-[ 2020-04-11  21:19:28.420057 ]:clockwise 0
-[ 2020-04-11  21:19:28.420991 ]:up 0
-[ 2020-04-11  21:19:28.981165 ]:face not found
-[ 2020-04-11  21:19:28.997309 ]:clockwise 0
-[ 2020-04-11  21:19:28.998062 ]:up 0
-[ 2020-04-11  21:19:29.448712 ]:face not found
-[ 2020-04-11  21:19:29.465914 ]:clockwise 0
-[ 2020-04-11  21:19:29.466668 ]:up 0
-[ 2020-04-11  21:19:29.937055 ]:clockwise -20
-[ 2020-04-11  21:19:29.938054 ]:up 2.0
-[ 2020-04-11  21:19:30.367932 ]:clockwise -20
-[ 2020-04-11  21:19:30.367932 ]:up 5.0
-[ 2020-04-11  21:19:30.952072 ]:clockwise 0
-[ 2020-04-11  21:19:30.953008 ]:up 7.0
-[ 2020-04-11  21:19:31.443886 ]:clockwise 0
-[ 2020-04-11  21:19:31.444823 ]:up 7.0
-[ 2020-04-11  21:19:31.908035 ]:clockwise 0
-[ 2020-04-11  21:19:31.908808 ]:up 6.0
-[ 2020-04-11  21:19:32.402852 ]:clockwise 0
-[ 2020-04-11  21:19:32.403591 ]:up 4.0
-[ 2020-04-11  21:19:32.813646 ]:face not found
-[ 2020-04-11  21:19:32.830538 ]:clockwise 0
-[ 2020-04-11  21:19:32.831536 ]:up 4.0
-[ 2020-04-11  21:19:33.278722 ]:face not found
-[ 2020-04-11  21:19:33.294963 ]:clockwise 0
-[ 2020-04-11  21:19:33.295964 ]:up 4.0
-[ 2020-04-11  21:19:33.777014 ]:face not found
-[ 2020-04-11  21:19:33.792971 ]:clockwise 0
-[ 2020-04-11  21:19:33.792971 ]:up 4.0
-[ 2020-04-11  21:19:34.207066 ]:face not found
-[ 2020-04-11  21:19:34.224979 ]:clockwise 0
-[ 2020-04-11  21:19:34.225979 ]:up 4.0
-[ 2020-04-11  21:19:34.699423 ]:clockwise 0
-[ 2020-04-11  21:19:34.699423 ]:up 7.0
-[ 2020-04-11  21:19:35.265963 ]:clockwise 0
-[ 2020-04-11  21:19:35.266920 ]:up 5.0
-[ 2020-04-11  21:19:35.742350 ]:face not found
-[ 2020-04-11  21:19:35.759273 ]:clockwise 0
-[ 2020-04-11  21:19:35.760263 ]:up 5.0
-[ 2020-04-11  21:19:36.182033 ]:face not found
-[ 2020-04-11  21:19:36.200517 ]:clockwise 0
-[ 2020-04-11  21:19:36.200517 ]:up 5.0
-[ 2020-04-11  21:19:36.804196 ]:face not found
-[ 2020-04-11  21:19:36.821099 ]:clockwise 0
-[ 2020-04-11  21:19:36.821099 ]:up 5.0
-[ 2020-04-11  21:19:37.284738 ]:face not found
-[ 2020-04-11  21:19:37.301971 ]:clockwise 0
-[ 2020-04-11  21:19:37.302740 ]:up 5.0
-[ 2020-04-11  21:19:37.832614 ]:face not found
-[ 2020-04-11  21:19:37.849520 ]:clockwise 0
-[ 2020-04-11  21:19:37.850503 ]:up 5.0
-[ 2020-04-11  21:19:38.346638 ]:face not found
-[ 2020-04-11  21:19:38.363121 ]:clockwise 0
-[ 2020-04-11  21:19:38.363859 ]:up 5.0
-[ 2020-04-11  21:19:38.895297 ]:clockwise 0
-[ 2020-04-11  21:19:38.896303 ]:up 0
-[ 2020-04-11  21:19:39.344743 ]:face not found
-[ 2020-04-11  21:19:39.363247 ]:clockwise 0
-[ 2020-04-11  21:19:39.363247 ]:up 0
-[ 2020-04-11  21:19:39.811155 ]:face not found
-[ 2020-04-11  21:19:39.828888 ]:clockwise 0
-[ 2020-04-11  21:19:39.828888 ]:up 0
-[ 2020-04-11  21:19:40.376747 ]:face not found
-[ 2020-04-11  21:19:40.395209 ]:clockwise 0
-[ 2020-04-11  21:19:40.395209 ]:up 0
-[ 2020-04-11  21:19:40.844678 ]:face not found
-[ 2020-04-11  21:19:40.860891 ]:clockwise 0
-[ 2020-04-11  21:19:40.861633 ]:up 0
-[ 2020-04-11  21:19:41.315962 ]:face not found
-[ 2020-04-11  21:19:41.332180 ]:clockwise 0
-[ 2020-04-11  21:19:41.332944 ]:up 0
-[ 2020-04-11  21:19:41.744977 ]:face not found
-[ 2020-04-11  21:19:41.763420 ]:clockwise 0
-[ 2020-04-11  21:19:41.763420 ]:up 0
-[ 2020-04-11  21:19:42.179843 ]:face not found
-[ 2020-04-11  21:19:42.197985 ]:clockwise 0
-[ 2020-04-11  21:19:42.198758 ]:up 0
-[ 2020-04-11  21:19:42.622457 ]:face not found
-[ 2020-04-11  21:19:42.639998 ]:clockwise 0
-[ 2020-04-11  21:19:42.639998 ]:up 0
-[ 2020-04-11  21:19:43.041483 ]:face not found
-[ 2020-04-11  21:19:43.059395 ]:clockwise 0
-[ 2020-04-11  21:19:43.060391 ]:up 0
-[ 2020-04-11  21:19:43.513310 ]:face not found
-[ 2020-04-11  21:19:43.530806 ]:clockwise 0
-[ 2020-04-11  21:19:43.530806 ]:up 0
-[ 2020-04-11  21:19:43.942529 ]:face not found
-[ 2020-04-11  21:19:43.962824 ]:clockwise 0
-[ 2020-04-11  21:19:43.962824 ]:up 0
-[ 2020-04-11  21:19:44.441929 ]:face not found
-[ 2020-04-11  21:19:44.458909 ]:clockwise 0
-[ 2020-04-11  21:19:44.459881 ]:up 0
-[ 2020-04-11  21:19:44.876647 ]:face not found
-[ 2020-04-11  21:19:44.894014 ]:clockwise 0
-[ 2020-04-11  21:19:44.894014 ]:up 0
-[ 2020-04-11  21:19:45.448620 ]:face not found
-[ 2020-04-11  21:19:45.465818 ]:clockwise 0
-[ 2020-04-11  21:19:45.466571 ]:up 0
-[ 2020-04-11  21:19:45.978198 ]:face not found
-[ 2020-04-11  21:19:45.996471 ]:clockwise 0
-[ 2020-04-11  21:19:45.996471 ]:up 0
-[ 2020-04-11  21:19:46.440274 ]:face not found
-[ 2020-04-11  21:19:46.458200 ]:clockwise 0
-[ 2020-04-11  21:19:46.459197 ]:up 0
-[ 2020-04-11  21:19:46.907025 ]:face not found
-[ 2020-04-11  21:19:46.923316 ]:clockwise 0
-[ 2020-04-11  21:19:46.923950 ]:up 0
-[ 2020-04-11  21:19:47.352862 ]:face not found
-[ 2020-04-11  21:19:47.373023 ]:clockwise 0
-[ 2020-04-11  21:19:47.374028 ]:up 0
-[ 2020-04-11  21:19:47.788263 ]:face not found
-[ 2020-04-11  21:19:47.805480 ]:clockwise 0
-[ 2020-04-11  21:19:47.806218 ]:up 0
-[ 2020-04-11  21:19:48.257644 ]:face not found
-[ 2020-04-11  21:19:48.273662 ]:clockwise 0
-[ 2020-04-11  21:19:48.274600 ]:up 0
-[ 2020-04-11  21:19:48.818544 ]:face not found
-[ 2020-04-11  21:19:48.836523 ]:clockwise 0
-[ 2020-04-11  21:19:48.837461 ]:up 0
-[ 2020-04-11  21:19:49.385636 ]:face not found
-[ 2020-04-11  21:19:49.403913 ]:clockwise 0
-[ 2020-04-11  21:19:49.403913 ]:up 0
-[ 2020-04-11  21:19:49.813850 ]:face not found
-[ 2020-04-11  21:19:49.831829 ]:clockwise 0
-[ 2020-04-11  21:19:49.832754 ]:up 0
-[ 2020-04-11  21:19:50.313282 ]:face not found
-[ 2020-04-11  21:19:50.330296 ]:clockwise 0
-[ 2020-04-11  21:19:50.330296 ]:up 0
-[ 2020-04-11  21:19:50.775631 ]:face not found
-[ 2020-04-11  21:19:50.793630 ]:clockwise 0
-[ 2020-04-11  21:19:50.793630 ]:up 0
-[ 2020-04-11  21:19:51.274636 ]:face not found
-[ 2020-04-11  21:19:51.292589 ]:clockwise 0
-[ 2020-04-11  21:19:51.293586 ]:up 0
-[ 2020-04-11  21:19:51.800432 ]:face not found
-[ 2020-04-11  21:19:51.817959 ]:clockwise 0
-[ 2020-04-11  21:19:51.817959 ]:up 0
-[ 2020-04-11  21:19:52.308953 ]:face not found
-[ 2020-04-11  21:19:52.325861 ]:clockwise 0
-[ 2020-04-11  21:19:52.326866 ]:up 0
-[ 2020-04-11  21:19:52.776148 ]:face not found
-[ 2020-04-11  21:19:52.795060 ]:clockwise 0
-[ 2020-04-11  21:19:52.795060 ]:up 0
-[ 2020-04-11  21:19:53.217527 ]:face not found
-[ 2020-04-11  21:19:53.233962 ]:clockwise 0
-[ 2020-04-11  21:19:53.233962 ]:up 0
-[ 2020-04-11  21:19:53.645111 ]:face not found
-[ 2020-04-11  21:19:53.662039 ]:clockwise 0
-[ 2020-04-11  21:19:53.663029 ]:up 0
-[ 2020-04-11  21:19:54.111293 ]:face not found
-[ 2020-04-11  21:19:54.131372 ]:clockwise 0
-[ 2020-04-11  21:19:54.132375 ]:up 0
-[ 2020-04-11  21:19:54.547389 ]:face not found
-[ 2020-04-11  21:19:54.564379 ]:clockwise 0
-[ 2020-04-11  21:19:54.565304 ]:up 0
-[ 2020-04-11  21:19:54.979787 ]:face not found
-[ 2020-04-11  21:19:54.996930 ]:clockwise 0
-[ 2020-04-11  21:19:54.997668 ]:up 0
-[ 2020-04-11  21:19:55.448972 ]:face not found
-[ 2020-04-11  21:19:55.472932 ]:clockwise 0
-[ 2020-04-11  21:19:55.473869 ]:up 0
-[ 2020-04-11  21:19:56.012153 ]:face not found
-[ 2020-04-11  21:19:56.443544 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:56.471475 ]:clockwise 30
-[ 2020-04-11  21:19:56.946053 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:56.963937 ]:clockwise 30
-[ 2020-04-11  21:19:57.380903 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:57.400639 ]:clockwise 30
-[ 2020-04-11  21:19:57.854173 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:57.870474 ]:clockwise 30
-[ 2020-04-11  21:19:58.283008 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:58.300218 ]:clockwise 30
-[ 2020-04-11  21:19:58.748855 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:58.766089 ]:clockwise 30
-[ 2020-04-11  21:19:59.212030 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:59.229540 ]:clockwise 30
-[ 2020-04-11  21:19:59.656744 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:19:59.674708 ]:clockwise 30
-[ 2020-04-11  21:20:00.185290 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:00.204260 ]:clockwise 30
-[ 2020-04-11  21:20:00.620340 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:00.638318 ]:clockwise 30
-[ 2020-04-11  21:20:01.049887 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:01.066880 ]:clockwise 30
-[ 2020-04-11  21:20:01.509700 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:01.526695 ]:clockwise 30
-[ 2020-04-11  21:20:01.943141 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:01.962347 ]:clockwise 30
-[ 2020-04-11  21:20:02.372970 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:02.389924 ]:clockwise 30
-[ 2020-04-11  21:20:02.814503 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:02.831581 ]:clockwise 30
-[ 2020-04-11  21:20:03.277208 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:03.298158 ]:clockwise 30
-[ 2020-04-11  21:20:03.783364 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:03.803383 ]:clockwise 30
-[ 2020-04-11  21:20:04.215067 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:04.233643 ]:clockwise 30
-[ 2020-04-11  21:20:04.702020 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:04.719646 ]:clockwise 30
-[ 2020-04-11  21:20:05.212202 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:05.230984 ]:clockwise 30
-[ 2020-04-11  21:20:05.723803 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:05.740780 ]:clockwise 30
-[ 2020-04-11  21:20:06.286037 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:06.304202 ]:clockwise 30
-[ 2020-04-11  21:20:06.804513 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:06.821038 ]:clockwise 30
-[ 2020-04-11  21:20:07.405731 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:07.423683 ]:clockwise 30
-[ 2020-04-11  21:20:07.997961 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:08.013881 ]:clockwise 30
-[ 2020-04-11  21:20:08.481847 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:08.500817 ]:clockwise 30
-[ 2020-04-11  21:20:08.975661 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:08.993614 ]:clockwise 30
-[ 2020-04-11  21:20:09.529536 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:09.546019 ]:clockwise 30
-[ 2020-04-11  21:20:10.108853 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:10.127774 ]:clockwise 30
-[ 2020-04-11  21:20:10.578999 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:10.596954 ]:clockwise 30
-[ 2020-04-11  21:20:11.005120 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:11.023072 ]:clockwise 30
-[ 2020-04-11  21:20:11.453446 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:11.471035 ]:clockwise 30
-[ 2020-04-11  21:20:11.907044 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:11.924942 ]:clockwise 30
-[ 2020-04-11  21:20:12.398269 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:12.416562 ]:clockwise 30
-[ 2020-04-11  21:20:12.839145 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:12.857076 ]:clockwise 30
-[ 2020-04-11  21:20:13.275343 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:13.297216 ]:clockwise 30
-[ 2020-04-11  21:20:13.742059 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:13.759992 ]:clockwise 30
-[ 2020-04-11  21:20:14.283922 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:14.300069 ]:clockwise 30
-[ 2020-04-11  21:20:14.843923 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:14.861207 ]:clockwise 30
-[ 2020-04-11  21:20:15.277109 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:15.297010 ]:clockwise 30
-[ 2020-04-11  21:20:15.780803 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:15.800052 ]:clockwise 30
-[ 2020-04-11  21:20:16.249773 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:16.269486 ]:clockwise 30
-[ 2020-04-11  21:20:16.714048 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:16.731571 ]:clockwise 30
-[ 2020-04-11  21:20:17.210472 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:17.227925 ]:clockwise 30
-[ 2020-04-11  21:20:17.720431 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:17.737010 ]:clockwise 30
-[ 2020-04-11  21:20:18.175790 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:18.196027 ]:clockwise 30
-[ 2020-04-11  21:20:18.609282 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:18.626171 ]:clockwise 30
-[ 2020-04-11  21:20:19.084074 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:19.101232 ]:clockwise 30
-[ 2020-04-11  21:20:19.545179 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:19.565130 ]:clockwise 30
-[ 2020-04-11  21:20:20.012828 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:20.030993 ]:clockwise 30
-[ 2020-04-11  21:20:20.472610 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:20.490492 ]:clockwise 30
-[ 2020-04-11  21:20:20.938117 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:20.957036 ]:clockwise 30
-[ 2020-04-11  21:20:21.437220 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:21.456517 ]:clockwise 30
-[ 2020-04-11  21:20:22.037256 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:22.056103 ]:clockwise 30
-[ 2020-04-11  21:20:22.411789 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:22.428855 ]:clockwise 30
-[ 2020-04-11  21:20:22.902839 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:22.920065 ]:clockwise 30
-[ 2020-04-11  21:20:23.336958 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:23.354875 ]:clockwise 30
-[ 2020-04-11  21:20:23.962862 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:23.980816 ]:clockwise 30
-[ 2020-04-11  21:20:24.463144 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:24.480706 ]:clockwise 30
-[ 2020-04-11  21:20:24.977778 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:24.995114 ]:clockwise 30
-[ 2020-04-11  21:20:25.409159 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:25.425049 ]:clockwise 30
-[ 2020-04-11  21:20:25.913332 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:25.930559 ]:clockwise 30
-[ 2020-04-11  21:20:26.385441 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:26.403584 ]:clockwise 30
-[ 2020-04-11  21:20:26.845146 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:26.863658 ]:clockwise 30
-[ 2020-04-11  21:20:27.279864 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:27.297013 ]:clockwise 30
-[ 2020-04-11  21:20:27.739335 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:27.756224 ]:clockwise 30
-[ 2020-04-11  21:20:28.210439 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:28.228327 ]:clockwise 30
-[ 2020-04-11  21:20:28.686716 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:28.704261 ]:clockwise 30
-[ 2020-04-11  21:20:29.110614 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:29.128828 ]:clockwise 30
-[ 2020-04-11  21:20:29.578432 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:29.597711 ]:clockwise 30
-[ 2020-04-11  21:20:30.003428 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:30.021346 ]:clockwise 30
-[ 2020-04-11  21:20:30.510074 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:30.527289 ]:clockwise 30
-[ 2020-04-11  21:20:30.968678 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:30.985040 ]:clockwise 30
-[ 2020-04-11  21:20:31.416228 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:31.433196 ]:clockwise 30
-[ 2020-04-11  21:20:31.870834 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:31.889008 ]:clockwise 30
-[ 2020-04-11  21:20:32.314252 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:32.330240 ]:clockwise 30
-[ 2020-04-11  21:20:32.881202 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:32.898396 ]:clockwise 30
-[ 2020-04-11  21:20:33.304414 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:33.322934 ]:clockwise 30
-[ 2020-04-11  21:20:33.774750 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:33.795270 ]:clockwise 30
-[ 2020-04-11  21:20:34.269681 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:34.286598 ]:clockwise 30
-[ 2020-04-11  21:20:34.776864 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:34.794116 ]:clockwise 30
-[ 2020-04-11  21:20:35.208808 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:35.227338 ]:clockwise 30
-[ 2020-04-11  21:20:35.680790 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:35.699297 ]:clockwise 30
-[ 2020-04-11  21:20:36.240688 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:36.259448 ]:clockwise 30
-[ 2020-04-11  21:20:36.726802 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:36.744502 ]:clockwise 30
-[ 2020-04-11  21:20:37.208270 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:37.226152 ]:clockwise 30
-[ 2020-04-11  21:20:37.653528 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:37.670523 ]:clockwise 30
-[ 2020-04-11  21:20:38.078094 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:38.097125 ]:clockwise 30
-[ 2020-04-11  21:20:38.580540 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:38.597823 ]:clockwise 30
-[ 2020-04-11  21:20:39.011761 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:39.029279 ]:clockwise 30
-[ 2020-04-11  21:20:39.567135 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:39.585454 ]:clockwise 30
-[ 2020-04-11  21:20:39.979187 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:39.996707 ]:clockwise 30
-[ 2020-04-11  21:20:40.444588 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:40.462908 ]:clockwise 30
-[ 2020-04-11  21:20:40.941522 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:40.959761 ]:clockwise 30
-[ 2020-04-11  21:20:41.447398 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:41.465339 ]:clockwise 30
-[ 2020-04-11  21:20:41.979487 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:41.996642 ]:clockwise 30
-[ 2020-04-11  21:20:42.539758 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:42.559962 ]:clockwise 30
-[ 2020-04-11  21:20:43.009301 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:43.026492 ]:clockwise 30
-[ 2020-04-11  21:20:43.501521 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:43.518518 ]:clockwise 30
-[ 2020-04-11  21:20:43.943004 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:43.959998 ]:clockwise 30
-[ 2020-04-11  21:20:44.507211 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:44.525320 ]:clockwise 30
-[ 2020-04-11  21:20:44.963627 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:44.980846 ]:clockwise 30
-[ 2020-04-11  21:20:45.494746 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:45.512761 ]:clockwise 30
-[ 2020-04-11  21:20:45.974744 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:45.994068 ]:clockwise 30
-[ 2020-04-11  21:20:46.510524 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:46.534503 ]:clockwise 30
-[ 2020-04-11  21:20:46.945196 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:46.964542 ]:clockwise 30
-[ 2020-04-11  21:20:47.686618 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:47.704597 ]:clockwise 30
-[ 2020-04-11  21:20:48.028405 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:48.046648 ]:clockwise 30
-[ 2020-04-11  21:20:48.583462 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:48.599676 ]:clockwise 30
-[ 2020-04-11  21:20:49.039787 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:49.059074 ]:clockwise 30
-[ 2020-04-11  21:20:49.540761 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:49.560028 ]:clockwise 30
-[ 2020-04-11  21:20:50.010139 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:50.026320 ]:clockwise 30
-[ 2020-04-11  21:20:50.469341 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:50.488002 ]:clockwise 30
-[ 2020-04-11  21:20:50.949866 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:50.971762 ]:clockwise 30
-[ 2020-04-11  21:20:51.538955 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:51.557458 ]:clockwise 30
-[ 2020-04-11  21:20:51.941825 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:51.960040 ]:clockwise 30
-[ 2020-04-11  21:20:52.406191 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:52.423973 ]:clockwise 30
-[ 2020-04-11  21:20:53.037272 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:53.054414 ]:clockwise 30
-[ 2020-04-11  21:20:53.509013 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:53.526238 ]:clockwise 30
-[ 2020-04-11  21:20:54.036597 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:54.054550 ]:clockwise 30
-[ 2020-04-11  21:20:54.588008 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:54.607469 ]:clockwise 30
-[ 2020-04-11  21:20:55.000550 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:55.018791 ]:clockwise 30
-[ 2020-04-11  21:20:55.568997 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:55.585277 ]:clockwise 30
-[ 2020-04-11  21:20:56.089232 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:56.107322 ]:clockwise 30
-[ 2020-04-11  21:20:56.728748 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:56.747261 ]:clockwise 30
-[ 2020-04-11  21:20:57.193427 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:57.212344 ]:clockwise 30
-[ 2020-04-11  21:20:57.637249 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:57.654209 ]:clockwise 30
-[ 2020-04-11  21:20:57.958915 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:57.975866 ]:clockwise 30
-[ 2020-04-11  21:20:58.455717 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:58.472635 ]:clockwise 30
-[ 2020-04-11  21:20:58.987793 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:59.006304 ]:clockwise 30
-[ 2020-04-11  21:20:59.412497 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:20:59.429912 ]:clockwise 30
-[ 2020-04-11  21:21:00.162375 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:21:00.181329 ]:clockwise 30
-[ 2020-04-11  21:21:00.457456 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:21:00.476407 ]:clockwise 30
-[ 2020-04-11  21:21:00.985366 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:21:01.003385 ]:clockwise 30
-[ 2020-04-11  21:21:01.494987 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:21:01.515930 ]:clockwise 30
-[ 2020-04-11  21:21:01.874048 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:21:01.896984 ]:clockwise 30
-[ 2020-04-11  21:21:02.349480 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:21:02.369601 ]:clockwise 30
-[ 2020-04-11  21:21:02.814169 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:21:02.831445 ]:clockwise 30
-[ 2020-04-11  21:21:03.249170 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:21:03.265349 ]:clockwise 30
-[ 2020-04-11  21:21:03.753148 ]:command for drone to rotate- trying to find a face 
-[ 2020-04-11  21:21:03.770633 ]:clockwise 30
-[ 2020-04-11  21:21:04.210330 ]:command for drone to land - no face found 
-[ 2020-04-11  21:21:04.227567 ]:drone landing
+[ 2020-04-25  17:09:41.406171 ]:drone taking off
+[ 2020-04-25  17:09:42.937363 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:09:42.968286 ]:clockwise 30
+[ 2020-04-25  17:09:44.573068 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:09:44.591327 ]:clockwise 30
+[ 2020-04-25  17:09:45.151786 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:09:45.168706 ]:clockwise 30
+[ 2020-04-25  17:09:45.753496 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:09:45.769885 ]:clockwise 30
+[ 2020-04-25  17:09:46.390126 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:09:46.408074 ]:clockwise 30
+[ 2020-04-25  17:09:47.049158 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:09:47.068127 ]:clockwise 30
+[ 2020-04-25  17:09:47.593296 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:09:47.613200 ]:clockwise 30
+[ 2020-04-25  17:09:48.116216 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:09:48.137070 ]:clockwise 30
+[ 2020-04-25  17:09:48.727438 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:09:48.745623 ]:clockwise 30
+[ 2020-04-25  17:09:49.295541 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:09:49.311497 ]:clockwise 30
+[ 2020-04-25  17:09:49.958631 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:09:49.976155 ]:clockwise 30
+[ 2020-04-25  17:09:50.619067 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:09:50.639014 ]:clockwise 30
+[ 2020-04-25  17:09:51.298046 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:09:51.314998 ]:clockwise 30
+[ 2020-04-25  17:09:51.915667 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:09:51.933620 ]:clockwise 30
+[ 2020-04-25  17:09:52.545318 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:09:52.564464 ]:clockwise 30
+[ 2020-04-25  17:09:53.136961 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:09:53.155160 ]:clockwise 30
+[ 2020-04-25  17:09:53.628907 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:09:53.647433 ]:clockwise 30
+[ 2020-04-25  17:09:54.192461 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:09:54.220678 ]:clockwise 30
+[ 2020-04-25  17:09:55.847629 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:09:55.863828 ]:clockwise 30
+[ 2020-04-25  17:09:56.318022 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:09:56.335946 ]:clockwise 30
+[ 2020-04-25  17:09:56.950055 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:09:56.974941 ]:clockwise 30
+[ 2020-04-25  17:09:57.639008 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:09:57.659482 ]:clockwise 30
+[ 2020-04-25  17:09:58.270970 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:09:58.288054 ]:clockwise 30
+[ 2020-04-25  17:09:58.929810 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:09:58.947311 ]:clockwise 30
+[ 2020-04-25  17:09:59.546775 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:09:59.562983 ]:clockwise 30
+[ 2020-04-25  17:10:01.152003 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:10:01.169919 ]:clockwise 30
+[ 2020-04-25  17:10:01.768555 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:10:01.787767 ]:clockwise 30
+[ 2020-04-25  17:10:02.319188 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:10:02.338616 ]:clockwise 30
+[ 2020-04-25  17:10:02.895509 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:10:02.913479 ]:clockwise 30
+[ 2020-04-25  17:10:03.418331 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:10:03.436864 ]:clockwise 30
+[ 2020-04-25  17:10:03.949011 ]:clockwise 20
+[ 2020-04-25  17:10:03.950008 ]:up 7.0
+[ 2020-04-25  17:10:04.557803 ]:clockwise 18.0
+[ 2020-04-25  17:10:04.558727 ]:up 7.0
+[ 2020-04-25  17:10:05.166669 ]:face not found
+[ 2020-04-25  17:10:05.184620 ]:clockwise 18.0
+[ 2020-04-25  17:10:05.185619 ]:up 7.0
+[ 2020-04-25  17:10:05.770440 ]:face not found
+[ 2020-04-25  17:10:05.787636 ]:clockwise 18.0
+[ 2020-04-25  17:10:05.788629 ]:up 7.0
+[ 2020-04-25  17:10:06.453059 ]:clockwise 0
+[ 2020-04-25  17:10:06.453985 ]:up 3.0
+[ 2020-04-25  17:10:07.020011 ]:clockwise 0
+[ 2020-04-25  17:10:07.020011 ]:up 2.0
+[ 2020-04-25  17:10:07.605078 ]:clockwise -20
+[ 2020-04-25  17:10:07.605078 ]:up 0
+[ 2020-04-25  17:10:08.105800 ]:clockwise 0
+[ 2020-04-25  17:10:08.106738 ]:up 3.0
+[ 2020-04-25  17:10:08.546559 ]:face not found
+[ 2020-04-25  17:10:08.565821 ]:clockwise 0
+[ 2020-04-25  17:10:08.566830 ]:up 3.0
+[ 2020-04-25  17:10:09.131466 ]:clockwise 20
+[ 2020-04-25  17:10:09.133455 ]:up 12.0
+[ 2020-04-25  17:10:09.750496 ]:clockwise 0
+[ 2020-04-25  17:10:09.750496 ]:up 7.0
+[ 2020-04-25  17:10:10.261973 ]:clockwise 0
+[ 2020-04-25  17:10:10.261973 ]:up 9.0
+[ 2020-04-25  17:10:10.869204 ]:face not found
+[ 2020-04-25  17:10:10.885461 ]:clockwise 0
+[ 2020-04-25  17:10:10.886205 ]:up 9.0
+[ 2020-04-25  17:10:11.586783 ]:clockwise 0
+[ 2020-04-25  17:10:11.587710 ]:up 7.0
+[ 2020-04-25  17:10:12.078383 ]:face not found
+[ 2020-04-25  17:10:12.096638 ]:clockwise 0
+[ 2020-04-25  17:10:12.097643 ]:up 7.0
+[ 2020-04-25  17:10:13.740191 ]:face not found
+[ 2020-04-25  17:10:13.783127 ]:clockwise 0
+[ 2020-04-25  17:10:13.791119 ]:up 7.0
+[ 2020-04-25  17:10:14.409435 ]:face not found
+[ 2020-04-25  17:10:14.442378 ]:clockwise 0
+[ 2020-04-25  17:10:14.442378 ]:up 7.0
+[ 2020-04-25  17:10:14.965976 ]:clockwise 0
+[ 2020-04-25  17:10:14.966974 ]:up 5.0
+[ 2020-04-25  17:10:15.502712 ]:clockwise 0
+[ 2020-04-25  17:10:15.503709 ]:up 6.0
+[ 2020-04-25  17:10:16.089109 ]:face not found
+[ 2020-04-25  17:10:16.107954 ]:clockwise 0
+[ 2020-04-25  17:10:16.107954 ]:up 6.0
+[ 2020-04-25  17:10:16.608656 ]:face not found
+[ 2020-04-25  17:10:16.624985 ]:clockwise 0
+[ 2020-04-25  17:10:16.625920 ]:up 6.0
+[ 2020-04-25  17:10:17.143669 ]:face not found
+[ 2020-04-25  17:10:17.161584 ]:clockwise 0
+[ 2020-04-25  17:10:17.163582 ]:up 6.0
+[ 2020-04-25  17:10:17.748219 ]:face not found
+[ 2020-04-25  17:10:17.766187 ]:clockwise 0
+[ 2020-04-25  17:10:17.767169 ]:up 6.0
+[ 2020-04-25  17:10:18.309820 ]:face not found
+[ 2020-04-25  17:10:18.325712 ]:clockwise 0
+[ 2020-04-25  17:10:18.325712 ]:up 6.0
+[ 2020-04-25  17:10:18.852322 ]:face not found
+[ 2020-04-25  17:10:18.869921 ]:clockwise 0
+[ 2020-04-25  17:10:18.869921 ]:up 6.0
+[ 2020-04-25  17:10:19.449641 ]:face not found
+[ 2020-04-25  17:10:19.466898 ]:clockwise 0
+[ 2020-04-25  17:10:19.466898 ]:up 6.0
+[ 2020-04-25  17:10:20.063022 ]:clockwise 20
+[ 2020-04-25  17:10:20.064022 ]:up 8.0
+[ 2020-04-25  17:10:20.558047 ]:face not found
+[ 2020-04-25  17:10:20.576220 ]:clockwise 20
+[ 2020-04-25  17:10:20.576955 ]:up 8.0
+[ 2020-04-25  17:10:20.934582 ]:drone landing
+[ 2020-04-25  17:10:25.328260 ]:closing of the application
+[ 2020-04-25  17:13:17.852229 ]:drone taking off
+[ 2020-04-25  17:13:19.393513 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:19.431111 ]:clockwise 30
+[ 2020-04-25  17:13:21.111517 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:21.128432 ]:clockwise 30
+[ 2020-04-25  17:13:21.719821 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:21.738987 ]:clockwise 30
+[ 2020-04-25  17:13:22.243591 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:22.260567 ]:clockwise 30
+[ 2020-04-25  17:13:22.750979 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:22.769983 ]:clockwise 30
+[ 2020-04-25  17:13:23.234443 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:23.252381 ]:clockwise 30
+[ 2020-04-25  17:13:23.850592 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:23.867515 ]:clockwise 30
+[ 2020-04-25  17:13:24.469845 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:24.486802 ]:clockwise 30
+[ 2020-04-25  17:13:25.099430 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:25.117377 ]:clockwise 30
+[ 2020-04-25  17:13:25.733039 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:25.751294 ]:clockwise 30
+[ 2020-04-25  17:13:26.425267 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:26.442406 ]:clockwise 30
+[ 2020-04-25  17:13:27.076249 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:27.094376 ]:clockwise 30
+[ 2020-04-25  17:13:27.643464 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:27.666592 ]:clockwise 30
+[ 2020-04-25  17:13:28.212253 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:28.230165 ]:clockwise 30
+[ 2020-04-25  17:13:28.839855 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:28.857070 ]:clockwise 30
+[ 2020-04-25  17:13:29.379833 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:29.397845 ]:clockwise 30
+[ 2020-04-25  17:13:29.977986 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:29.995162 ]:clockwise 30
+[ 2020-04-25  17:13:30.588134 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:30.606097 ]:clockwise 30
+[ 2020-04-25  17:13:31.234505 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:31.252458 ]:clockwise 30
+[ 2020-04-25  17:13:32.797782 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:32.816019 ]:clockwise 30
+[ 2020-04-25  17:13:33.370766 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:33.389268 ]:clockwise 30
+[ 2020-04-25  17:13:33.878215 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:33.896661 ]:clockwise 30
+[ 2020-04-25  17:13:34.476515 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:34.493468 ]:clockwise 30
+[ 2020-04-25  17:13:35.019501 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:35.038491 ]:clockwise 30
+[ 2020-04-25  17:13:35.548333 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:35.566291 ]:clockwise 30
+[ 2020-04-25  17:13:36.136286 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:36.155163 ]:clockwise 30
+[ 2020-04-25  17:13:36.690991 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:36.708444 ]:clockwise 30
+[ 2020-04-25  17:13:37.364679 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:37.380635 ]:clockwise 30
+[ 2020-04-25  17:13:37.989865 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:38.012804 ]:clockwise 30
+[ 2020-04-25  17:13:38.603637 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:38.621818 ]:clockwise 30
+[ 2020-04-25  17:13:39.195227 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:39.212399 ]:clockwise 30
+[ 2020-04-25  17:13:39.804793 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:39.821705 ]:clockwise 30
+[ 2020-04-25  17:13:40.442198 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:40.461157 ]:clockwise 30
+[ 2020-04-25  17:13:40.994667 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:41.010625 ]:clockwise 30
+[ 2020-04-25  17:13:41.583039 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:41.601291 ]:clockwise 30
+[ 2020-04-25  17:13:42.214281 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:42.231637 ]:clockwise 30
+[ 2020-04-25  17:13:42.684903 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:42.702326 ]:clockwise 30
+[ 2020-04-25  17:13:43.328341 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:43.345504 ]:clockwise 30
+[ 2020-04-25  17:13:43.900278 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:43.917573 ]:clockwise 30
+[ 2020-04-25  17:13:44.512704 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:44.530909 ]:clockwise 30
+[ 2020-04-25  17:13:45.079292 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:45.097270 ]:clockwise 30
+[ 2020-04-25  17:13:45.730142 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:45.746810 ]:clockwise 30
+[ 2020-04-25  17:13:46.338840 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:46.355145 ]:clockwise 30
+[ 2020-04-25  17:13:46.929220 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:46.950030 ]:clockwise 30
+[ 2020-04-25  17:13:47.482238 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:47.500468 ]:clockwise 30
+[ 2020-04-25  17:13:48.031956 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:48.050235 ]:clockwise 30
+[ 2020-04-25  17:13:48.728270 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:48.746231 ]:clockwise 30
+[ 2020-04-25  17:13:49.397686 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:49.415649 ]:clockwise 30
+[ 2020-04-25  17:13:49.957069 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:49.974275 ]:clockwise 30
+[ 2020-04-25  17:13:50.580756 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:50.599960 ]:clockwise 30
+[ 2020-04-25  17:13:51.221330 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:51.239528 ]:clockwise 30
+[ 2020-04-25  17:13:51.693597 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:51.710135 ]:clockwise 30
+[ 2020-04-25  17:13:52.268116 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:52.285537 ]:clockwise 30
+[ 2020-04-25  17:13:52.863646 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:52.883654 ]:clockwise 30
+[ 2020-04-25  17:13:54.513265 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:54.531659 ]:clockwise 30
+[ 2020-04-25  17:13:54.942634 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:54.959593 ]:clockwise 30
+[ 2020-04-25  17:13:55.452786 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:55.472351 ]:clockwise 30
+[ 2020-04-25  17:13:56.082407 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:56.100430 ]:clockwise 30
+[ 2020-04-25  17:13:56.712776 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:56.736963 ]:clockwise 30
+[ 2020-04-25  17:13:57.377175 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:57.394701 ]:clockwise 30
+[ 2020-04-25  17:13:57.945932 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:57.964883 ]:clockwise 30
+[ 2020-04-25  17:13:58.513634 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:13:58.534163 ]:clockwise 30
+[ 2020-04-25  17:13:58.693627 ]:drone landing
+[ 2020-04-25  17:17:22.483961 ]:drone taking off
+[ 2020-04-25  17:17:24.041513 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:17:24.069393 ]:clockwise 30
+[ 2020-04-25  17:17:25.656776 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:17:25.677719 ]:clockwise 30
+[ 2020-04-25  17:17:26.164057 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:17:26.180983 ]:clockwise 30
+[ 2020-04-25  17:17:26.757301 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:17:26.776539 ]:clockwise 30
+[ 2020-04-25  17:17:27.357823 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:17:27.375162 ]:clockwise 30
+[ 2020-04-25  17:17:27.895315 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:17:27.915262 ]:clockwise 30
+[ 2020-04-25  17:17:28.456943 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:17:28.474925 ]:clockwise 30
+[ 2020-04-25  17:17:28.990959 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:17:29.008941 ]:clockwise 30
+[ 2020-04-25  17:17:29.612938 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:17:29.630855 ]:clockwise 30
+[ 2020-04-25  17:17:30.102105 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:17:30.127015 ]:clockwise 30
+[ 2020-04-25  17:17:30.643393 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:17:30.662342 ]:clockwise 30
+[ 2020-04-25  17:17:31.322314 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:17:31.370897 ]:clockwise 30
+[ 2020-04-25  17:17:31.991482 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:17:32.011429 ]:clockwise 30
+[ 2020-04-25  17:17:32.520474 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:17:32.538881 ]:clockwise 30
+[ 2020-04-25  17:17:33.278141 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:17:33.296396 ]:clockwise 30
+[ 2020-04-25  17:17:33.628895 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:17:33.647844 ]:clockwise 30
+[ 2020-04-25  17:17:34.245276 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:17:34.262253 ]:clockwise 30
+[ 2020-04-25  17:17:34.771494 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:17:34.789471 ]:clockwise 30
+[ 2020-04-25  17:17:35.285220 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:17:35.302452 ]:clockwise 30
+[ 2020-04-25  17:17:35.951325 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:17:35.968326 ]:clockwise 30
+[ 2020-04-25  17:17:36.554925 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:17:36.572117 ]:clockwise 30
+[ 2020-04-25  17:17:37.017959 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:17:37.036127 ]:clockwise 30
+[ 2020-04-25  17:17:37.547470 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:17:37.565372 ]:clockwise 30
+[ 2020-04-25  17:17:38.078731 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:17:38.094952 ]:clockwise 30
+[ 2020-04-25  17:17:38.685757 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:17:38.702750 ]:clockwise 30
+[ 2020-04-25  17:17:39.202371 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:17:39.218674 ]:clockwise 30
+[ 2020-04-25  17:17:39.876355 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:17:39.893371 ]:clockwise 30
+[ 2020-04-25  17:17:40.420086 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:17:40.436411 ]:clockwise 30
+[ 2020-04-25  17:17:40.978252 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:17:40.996172 ]:clockwise 30
+[ 2020-04-25  17:17:41.538571 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:17:41.555785 ]:clockwise 30
+[ 2020-04-25  17:17:42.026805 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:17:42.045337 ]:clockwise 30
+[ 2020-04-25  17:17:42.536044 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:17:42.555992 ]:clockwise 30
+[ 2020-04-25  17:17:43.088125 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:17:43.106144 ]:clockwise 30
+[ 2020-04-25  17:17:43.621233 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:17:43.639422 ]:clockwise 30
+[ 2020-04-25  17:17:44.144939 ]:command for drone to rotate- trying to find a face 
+[ 2020-04-25  17:17:44.161197 ]:clockwise 30
+[ 2020-04-25  17:17:44.727754 ]:clockwise 20
+[ 2020-04-25  17:17:44.727754 ]:up 6.0
+[ 2020-04-25  17:17:45.328051 ]:clockwise 14.0
+[ 2020-04-25  17:17:45.328051 ]:up 4.0
+[ 2020-04-25  17:17:45.826020 ]:clockwise 9.0
+[ 2020-04-25  17:17:45.826785 ]:up 8.0
+[ 2020-04-25  17:17:46.306730 ]:clockwise 16.0
+[ 2020-04-25  17:17:46.307757 ]:up 12.0
+[ 2020-04-25  17:17:46.826081 ]:clockwise 11.0
+[ 2020-04-25  17:17:46.826081 ]:up 10.0
+[ 2020-04-25  17:17:47.374003 ]:clockwise 0
+[ 2020-04-25  17:17:47.374003 ]:up 8.0
+[ 2020-04-25  17:17:47.871585 ]:clockwise 0
+[ 2020-04-25  17:17:47.871585 ]:up 7.0
+[ 2020-04-25  17:17:48.384952 ]:clockwise 0
+[ 2020-04-25  17:17:48.384952 ]:up 5.0
+[ 2020-04-25  17:17:49.884623 ]:clockwise 0
+[ 2020-04-25  17:17:49.885559 ]:up 0
+[ 2020-04-25  17:17:50.349230 ]:face not found
+[ 2020-04-25  17:17:50.375187 ]:clockwise 0
+[ 2020-04-25  17:17:50.376141 ]:up 0
+[ 2020-04-25  17:17:51.031662 ]:face not found
+[ 2020-04-25  17:17:51.048580 ]:clockwise 0
+[ 2020-04-25  17:17:51.048580 ]:up 0
+[ 2020-04-25  17:17:51.630266 ]:clockwise 0
+[ 2020-04-25  17:17:51.631271 ]:up 0
+[ 2020-04-25  17:17:52.175687 ]:clockwise 0
+[ 2020-04-25  17:17:52.176686 ]:up 2.0
+[ 2020-04-25  17:17:52.798714 ]:clockwise 0
+[ 2020-04-25  17:17:52.798714 ]:up 3.0
+[ 2020-04-25  17:17:54.363196 ]:clockwise 0
+[ 2020-04-25  17:17:54.363984 ]:up 10.0
+[ 2020-04-25  17:17:54.989691 ]:clockwise -20
+[ 2020-04-25  17:17:54.989691 ]:up 17.0
+[ 2020-04-25  17:17:55.648043 ]:clockwise 0
+[ 2020-04-25  17:17:55.649040 ]:up 20
+[ 2020-04-25  17:17:56.252834 ]:clockwise 12.0
+[ 2020-04-25  17:17:56.253831 ]:up 19.0
+[ 2020-04-25  17:17:56.803454 ]:clockwise 20
+[ 2020-04-25  17:17:56.804491 ]:up 15.0
+[ 2020-04-25  17:17:57.267161 ]:face not found
+[ 2020-04-25  17:17:57.286141 ]:clockwise 20
+[ 2020-04-25  17:17:57.286141 ]:up 15.0
+[ 2020-04-25  17:17:57.760653 ]:face not found
+[ 2020-04-25  17:17:57.778156 ]:clockwise 20
+[ 2020-04-25  17:17:57.778156 ]:up 15.0
+[ 2020-04-25  17:17:58.325656 ]:face not found
+[ 2020-04-25  17:17:58.342744 ]:clockwise 20
+[ 2020-04-25  17:17:58.342744 ]:up 15.0
+[ 2020-04-25  17:17:58.876524 ]:face not found
+[ 2020-04-25  17:17:58.899523 ]:clockwise 20
+[ 2020-04-25  17:17:58.900460 ]:up 15.0
+[ 2020-04-25  17:17:59.465952 ]:face not found
+[ 2020-04-25  17:17:59.484182 ]:clockwise 20
+[ 2020-04-25  17:17:59.484616 ]:up 15.0
+[ 2020-04-25  17:18:00.052637 ]:face not found
+[ 2020-04-25  17:18:00.069843 ]:clockwise 20
+[ 2020-04-25  17:18:00.070590 ]:up 15.0
+[ 2020-04-25  17:18:01.457531 ]:drone landing
+[ 2020-04-25  17:18:11.333465 ]:closing of the application

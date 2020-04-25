@@ -21,7 +21,7 @@ def playMusic(actionType):
     if actionType == "take_off" or actionType == "land":
         number = 5
         pass
-    elif actionType == "attention":
+    elif actionType == "attention" or actionType == "take_pic":
         number = 1
         pass
     else:
