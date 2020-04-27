@@ -2,14 +2,13 @@ import sys
 import traceback
 import tellopy
 import av
-import cv2.cv2 as cv2  # for avoidance of pylint error
+import cv2.cv2 as cv2
 import numpy
 import time
 from face_detection import FaceDetection
 from datetime import datetime
 import playSound
-import morseCode 
-import os
+import morseCode
 
 
 
@@ -43,10 +42,10 @@ def handler(event, sender, data, **args):
 
 # to receive the files / photos from the drone 
 def handle_flight_received(event, sender, data):
-    path = 'telloPictures/tello-%s.jpeg' % ( datetime.now().strftime("%Y-%m-%d_%H%M%S"))
+    path = 'telloMedia/pics/tello-%s.jpeg' % ( datetime.now().strftime("%Y-%m-%d_%H%M%S"))
     with open(path, 'wb') as out_file:
         out_file.write(data)
-    print('Saved photo to %s' % path)
+    reportLog("Picture taken")
 
 # report the log about the program
 def reportLog(log):
@@ -184,7 +183,7 @@ def main():
                         pass
                     pass
                 else:
-                    if morseFrame < 60:
+                    if morseFrame < 40:
                         if morseCode.checkBrightness(image):
                             morseFrame = morseFrame + 1
                             pass
@@ -192,8 +191,8 @@ def main():
                             morseFrame = 0
                             pass
                         pass
-                    elif morseFrame < 200:
-                        if morseFrame == 61:
+                    elif morseFrame < 150:
+                        if morseFrame == 41:
                             playSound.playMusic("attention")
                         morseFrame = morseFrame + 1
                         pass
