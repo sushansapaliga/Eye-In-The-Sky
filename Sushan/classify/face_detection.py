@@ -5,6 +5,8 @@ import imutils
 import time
 import cv2.cv2 as cv2
 
+from datetime import datetime
+
 class FaceDetection:
 
     def __init__(self):
@@ -81,7 +83,46 @@ class FaceDetection:
         elif val < 2 or val < -2:
             val = 0 
         return val
-        
+
+    def reportLog(self, log):
+        f = open("reportFileFaceRelated.txt", "a")
+
+        now = "[ " + str(datetime.now().date()) + "  " + str(datetime.now().time()) + " ]:"
+        f.write(now)
+        f.write(log)
+        f.write("\n")
+        f.close()
+
+        pass
+
+    def __getSafeDistance__ (self, startX, startY, endX, endY):
+        front = 0
+
+        x = startX - endX
+        y = startY - endY
+
+        if x < 0 :
+            x = x * -1
+            pass
+
+        if y < 0 :
+            y = y * -1
+            pass
+
+        z = x + y
+
+        self.reportLog(str(z))
+
+        if z > 220:
+            front = -18
+            pass
+        elif z < 150:
+            front = 18
+            pass
+
+        return front
+        pass
+            
     def face_instruction_for_drone(self, startX, startY, endX, endY, drone_centreX, drone_centreY):
 
         face_centreX = (startX + endX)/2
@@ -90,23 +131,19 @@ class FaceDetection:
         instrction = {"up" : 0, "clockwise" : 0, "right" : 0, "front" : 0}
 
         up =-1 * (face_centreY - drone_centreY)//10
-        up = __limitIt__(up)
+        up = self.__limitIt__(up)
         clockwise = (face_centreX - drone_centreX)//10
-        clockwise = __limitIt__(clockwise)
+        clockwise = self.__limitIt__(clockwise)
 
         instrction["up"] = up 
         instrction["clockwise"] = clockwise
+
+        safeDistanceBit =  True
+
+        if safeDistanceBit:
+            instrction["front"] = self.__getSafeDistance__(startX, startY, endX, endY)
         
         return instrction
-
-def __limitIt__(val):
-    if val > 20:
-        val = 20
-    elif val < -20:
-        val = -20
-    elif val < 2 or val < -2:
-        val = 0 
-    return val
 
 if __name__=="__main__":  
     face = FaceDetection()

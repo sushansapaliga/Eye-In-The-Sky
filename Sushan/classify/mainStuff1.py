@@ -21,15 +21,20 @@ def handler(event, sender, data, **args):
         try:
             bat_per = int(str(data).split("BAT: ")[1].split(" ")[0])
             wifi = int(str(data).split("WIFI: ")[1].split(" ")[0])
+            alt = int(str(data).split("ALT: ")[1].split(" ")[0])
         except :
             bat_per = 100
             wifi = 100
+            alt = 0
         finally:
             global instruction
             global stDrone
 
             stDrone["battery"] = bat_per
             stDrone["wifi"] = wifi
+
+            altitudeCheckBit = True
+
             if bat_per < 25:
                 instruction["emergency"] = True
                 instruction["reason"] = "Critically low battery level"
@@ -38,6 +43,11 @@ def handler(event, sender, data, **args):
             elif wifi < 30:
                 instruction["emergency"] = True
                 instruction["reason"] = "Drone out of the range"
+                pass
+
+            elif alt > 19 and altitudeCheckBit:
+                instruction["emergency"] = True
+                instruction["reason"] = "Its about to crash"
                 pass
 
 # to receive the files / photos from the drone 
@@ -268,6 +278,18 @@ def main():
 
                         reportLog("up " + str(instruction["up"]))
                         instruction["up"] = None
+                        pass
+
+                    if instruction["front"] != None:
+                        if instruction["front"] >= 0:
+                            drone.forward(instruction["front"])
+                            pass
+                        else:
+                            drone.backward(-1 * instruction["front"])
+                            pass
+
+                        reportLog("front "+ str(instruction["front"]))
+                        instruction["front"] = None
                         pass
 
                     if instruction["capture_pic"] != None and instruction["capture_pic"]:
