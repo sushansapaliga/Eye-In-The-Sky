@@ -3,7 +3,9 @@ import numpy as np
 import argparse
 import imutils
 import time
-import cv2
+import cv2.cv2 as cv2
+
+from datetime import datetime
 
 class FaceDetection:
 
@@ -11,8 +13,8 @@ class FaceDetection:
 
         # construct the argument parse and parse the arguments
         # load our serialized model from disk
-        print("[INFO] loading model...")
-        self.net_global = cv2.dnn.readNetFromCaffe("MAIN/deploy.prototxt.txt", "MAIN/res10_300x300_ssd_iter_140000.caffemodel")
+        print("[Face Detection][INFO] loading model...")
+        self.net_global = cv2.dnn.readNetFromCaffe("media/models/deploy.prototxt.txt", "media/models/res10_300x300_ssd_iter_140000.caffemodel")
 
 
         pass
@@ -73,6 +75,75 @@ class FaceDetection:
 	    # show the output frame
         return face_dict
 
+    def __limitIt__(self, val):
+        if val > 20:
+            val = 20
+        elif val < -20:
+            val = -20
+        elif val < 2 or val < -2:
+            val = 0 
+        return val
+
+    def reportLog(self, log):
+        f = open("reportFileFaceRelated.txt", "a")
+
+        now = "[ " + str(datetime.now().date()) + "  " + str(datetime.now().time()) + " ]:"
+        f.write(now)
+        f.write(log)
+        f.write("\n")
+        f.close()
+
+        pass
+
+    def __getSafeDistance__ (self, startX, startY, endX, endY):
+        front = 0
+
+        x = startX - endX
+        y = startY - endY
+
+        if x < 0 :
+            x = x * -1
+            pass
+
+        if y < 0 :
+            y = y * -1
+            pass
+
+        z = x + y
+
+        self.reportLog(str(z))
+
+        if z > 220:
+            front = -18
+            pass
+        elif z < 150:
+            front = 18
+            pass
+
+        return front
+        pass
+            
+    def face_instruction_for_drone(self, startX, startY, endX, endY, drone_centreX, drone_centreY):
+
+        face_centreX = (startX + endX)/2
+        face_centreY = (startY + endY)/2
+
+        instrction = {"up" : 0, "clockwise" : 0, "right" : 0, "front" : 0}
+
+        up =-1 * (face_centreY - drone_centreY)//10
+        up = self.__limitIt__(up)
+        clockwise = (face_centreX - drone_centreX)//10
+        clockwise = self.__limitIt__(clockwise)
+
+        instrction["up"] = up 
+        instrction["clockwise"] = clockwise
+
+        safeDistanceBit =  True
+
+        if safeDistanceBit:
+            instrction["front"] = self.__getSafeDistance__(startX, startY, endX, endY)
+        
+        return instrction
 
 if __name__=="__main__":  
     face = FaceDetection()
@@ -87,7 +158,7 @@ if __name__=="__main__":
         frame = vs.read()
 
         cord = face.get_face_coordinates(frame)
-        print(cord["face_status"])
+        #print(cord["face_status"])
 
         if cord["face_status"]==True:
             startX, startY, endX, endY = cord["startX"], cord["startY"], cord["endX"], cord["endY"]
@@ -97,7 +168,7 @@ if __name__=="__main__":
         key = cv2.waitKey(1) & 0xFF
         if key == ord("q"):
             break
-
+        
         time.sleep(0.1)
 
     cv2.destroyAllWindows()

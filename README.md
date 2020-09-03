@@ -1,13 +1,12 @@
-# Eye-In-The-Sky
- This is a Final Year Project of CSE Engineering Course.
+Hello there!!
+
+## Requirements
+ 1. `pip install imutils`
+ 2. `pip install opencv-python`
+ 3. `pip install djitellopy` (This library will be removed soon, as the library was very unreliable)
+ 4. `pip install tellopy` [ also required: conda install av -c conda-forge ] (recommended platfrom Anaconda conda )
+ 5. `pip install playsound`
 
 
- This is a private repository for everyone.
-
-
-### Steps to be followed while using the repository
-  1. Everyone has their own folder use that folder. Use that folder and you can refer others folder but dont make anychanges in them.
-  2. Use comments to explain the steps wherever required.
-  3. Don't make changes to the MAIN folder. [ it contain the running program without any error]
-  4. Make note of all the requirements for the program you write and don't forget mention it in your README.md file. 
-  5. While you commit the changes, give the instruction title and a proper description.
+These project was built on anaconda python 3.7. 
+This platform was used as much of the problem caused by python library "av" was solved in this platfrom.

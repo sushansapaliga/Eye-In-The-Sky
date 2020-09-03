@@ -20,8 +20,11 @@ def handler(event, sender, data, **args):
         print(data)
         try:
             bat_per = int(str(data).split("BAT: ")[1].split(" ")[0])
+            #bat_per = data.battery_percentage
+            #wifi = data.wifi_strength
+            alt = data.height
             wifi = int(str(data).split("WIFI: ")[1].split(" ")[0])
-            alt = int(str(data).split("ALT: ")[1].split(" ")[0])
+            #alt = int(str(data).split("ALT: ")[1].split(" ")[0])
         except :
             bat_per = 100
             wifi = 100
