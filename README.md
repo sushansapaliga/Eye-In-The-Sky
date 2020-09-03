@@ -1,7 +1,7 @@
 # Eye-In-The-Sky
 
 <p align="center">
-   <img src="media/picture/ReadMePicture.png" width="280">
+   <img src="media/picture/ReadMePicture.png" >
 </p>
 
 ## Introduction
